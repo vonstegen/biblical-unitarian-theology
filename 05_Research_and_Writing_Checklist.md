@@ -1,17 +1,17 @@
 # Research & Writing Checklist
 
-> A task-level breakdown of `01_Architecture_and_Outline.md` (Version 1.2,
-> reconciled 2026-08-04, revised to enforce the Bible-only source
-> constraint). Each chapter is decomposed into research, exegesis, writing,
-> and acceptance-criteria tasks. Use `[E]` explicit, `[I]` strong
+> A task-level breakdown of `01_Architecture_and_Outline.md` (Version 1.3,
+> reconciled 2026-08-04). Each chapter is decomposed into research, exegesis,
+> writing, and acceptance-criteria tasks. Use `[E]` explicit, `[I]` strong
 > implication, `[H]` hypothesis tags on every claim you draft, per the
 > methodology in `04_Review_and_Recommendations.md`.
 >
 > **Source constraint:** all evidence and arguments must come from the Bible
-> alone. The translation set (ESV, NASB, NKJV, NIV) is defined in the
-> Introduction, §I.4 of the outline. No outside sources — no commentaries,
-> no systematic theologies, no creeds, no church fathers, no modern biblical
-> scholarship.
+> alone. The translation set (ESV + NASB primary; YLT, LSV, Rotherham, REV,
+> CLV as reference) is defined in the Introduction, §I.4 of the outline. No
+> outside sources — no commentaries, no systematic theologies, no creeds, no
+> church fathers, no modern biblical scholarship. **Per-translation bias and
+> limitations analysis with citations is in `06_Translation_Bias_Documentation.md`.**
 
 ## How to use this file
 
@@ -38,7 +38,9 @@
 ## Reconciliation status
 
 This checklist has been **synced with `01_Architecture_and_Outline.md`
-Version 1.2** as of 2026-08-04. Two changes from v1.0/v1.1:
+Version 1.3** as of 2026-08-04. Three change-points:
+
+v1.0/v1.1 → v1.2 (structural reconciliation + Bible-only constraint):
 
 1. Added unnumbered **Introduction** (scope, method, translation set)
 2. Collapsed Part V from three chapters to one (*Father's Vindication and
@@ -48,6 +50,17 @@ Version 1.2** as of 2026-08-04. Two changes from v1.0/v1.1:
    constraint); all references to outside sources removed from research tasks
 5. **Bible-only source constraint applied throughout**: bibliography starter
    deleted, R11.3 / R11.4 / R14.3 / R13.3 reframed, X.5 removed
+
+v1.2 → v1.3 (literal-source reference translations added):
+
+6. Translation table expanded in §I.4 of the outline to include YLT, LSV,
+   Rotherham's Emphasized Bible, REV, and CLV as reference translations
+   (in addition to ESV + NASB primary). Per-translation caveats and uses
+   documented in the outline. This checklist's translation references
+   updated to point to the outline for the canonical list.
+7. **New file `06_Translation_Bias_Documentation.md`** added — sourced bias
+   and limitations analysis for each translation. The outline and checklist
+   cross-reference this file from §I.4 and X.4 respectively.
 
 If you find a discrepancy between this checklist and the outline, the outline
 is the document of record — fix the checklist, not the outline.
@@ -64,8 +77,10 @@ is the document of record — fix the checklist, not the outline.
       scholarship
 - [ ] **I.3** State what this paper is **not** trying to prove (the Trinity,
       divine impassibility, etc.) — explicit anti-scope
-- [ ] **I.4** State the translation set: ESV (default), NASB, NKJV, NIV —
-      four translations spanning formal/dynamic and modern/traditional axes
+- [ ] **I.4** State the translation set: ESV (primary default) and NASB
+      (primary); YLT, LSV, Rotherham, REV, CLV as reference. Full table
+      with per-translation rationale and caveats in the outline §I.4. **Bias
+      analysis with citations in `06_Translation_Bias_Documentation.md`.**
 - [ ] **I.5** Introduce the `[E]/[I]/[H]` tagging system
 - [ ] **I.6** Roadmap of the 17 chapters and 3 appendices
 - [ ] **A-Intro** Acceptance: a reader can state the thesis, the source
@@ -249,8 +264,8 @@ is the document of record — fix the checklist, not the outline.
       the four Gethsemane narratives actually say about the relationship
       between the Father's will and Jesus' will? Where translation
       differences are material (e.g. *thelema* in the Greek, "cup" imagery),
-      note all four translation readings. Do not import later christological
-      categories; let the texts speak.
+      note both translation readings (ESV and NASB). Do not import later
+      christological categories; let the texts speak.
 - [ ] **E13.1** Matthew 26:39 ("not as I will, but as you will") — [E], central text
 - [ ] **E13.2** John 18:11 ("the cup the Father has given me") — [E]
 - [ ] **E13.3** Hebrews 5:7–8 — [E]
@@ -281,10 +296,11 @@ is the document of record — fix the checklist, not the outline.
 
 **Anchors:** Research question *"Why is one righteous man's obedience sufficient for many?"*; working hypothesis *"Investigate representative correspondence between Adam and Christ"*
 
-- [ ] **R15.1** Deep dive on Romans 5:12–21 in the four English translations —
-      compare how *paresis*, *parakoe*, *hupakoe*, *dikaioma* are rendered
-      in ESV, NASB, NKJV, NIV. Note where the Greek's argumentative force
-      is preserved vs. lost in translation.
+- [ ] **R15.1** Deep dive on Romans 5:12–21 in the two primary translations
+      (ESV, NASB) — compare how *paresis*, *parakoe*, *hupakoe*,
+      *dikaioma* are rendered. Note where the Greek's argumentative force
+      is preserved vs. lost in translation. Consult YLT and LSV where the
+      Greek structure is in dispute.
 - [ ] **R15.2** Inventory federal-headship texts beyond Rom 5 (1 Corinthians 15; Ephesians 1:22–23; Hebrews 2)
 - [ ] **E15.1** Romans 5:18–19 (one man's obedience for many) — [E], central text
 - [ ] **E15.2** 1 Corinthians 15:22 (in Christ all made alive) — [E]
@@ -322,7 +338,7 @@ is the document of record — fix the checklist, not the outline.
 - [ ] **R17.2** Identify any research question that the paper **failed** to answer — list explicitly
 - [ ] **W17.1** Write 600–900 words: restate the thesis as proven to the extent that the [E]-tagged evidence supports
 - [ ] **W17.2** Write 300–500 words: explicit limitations and open questions
-- [ ] **W17.3** Write 200–400 words: directions for further research (Rom 5:12–21 deep dive; active obedience systematic treatment; high-christology engagement; Gethsemane and willing obedience)
+- [ ] **W17.3** Write 200–400 words: directions for further research (Rom 5:12–21 deep dive; further exegetical study of active obedience; high-christology engagement; Gethsemane and willing obedience)
 - [ ] **A17** Acceptance: every research question in `00_Master_Thesis.md` is addressed (either answered or explicitly deferred); the reader can state the thesis and its limits after one reading
 
 ---
@@ -353,7 +369,7 @@ is the document of record — fix the checklist, not the outline.
 - [ ] **A.C.2** Sin (act; state; imputation; inherited corruption)
 - [ ] **A.C.3** Obedience (active; passive; willing; covenantal)
 - [ ] **A.C.4** Representation (federal headship; natural headship)
-- [ ] **A.C.5** Atonement (*kaphar*, *hilasterion*, *lytron*, etc., with all four translations)
+- [ ] **A.C.5** Atonement (*kaphar*, *hilasterion*, *lytron*, etc., with both translations noted)
 - [ ] **A.C.6** Justification (*dikaiosis*, *dikaioma*, *dikaioō*)
 - [ ] **A.C.7** Sonship (*huios*, *prōtotokos*) — per-biblical-author usage
 - [ ] **Acceptance** Every term used in the paper with multiple meanings is defined and disambiguated using the Bible's own usage
@@ -364,8 +380,10 @@ is the document of record — fix the checklist, not the outline.
       add per-passage notes: which chapter(s) cite it; `[E]/[I]/[H]` tag;
       brief note on how it's used
 - [ ] **A.D.2** Cross-reference each passage to its chapter(s) in the manuscript
-- [ ] **A.D.3** For every passage, present the four translations (ESV, NASB,
-      NKJV, NIV) side-by-side where divergence is significant
+- [ ] **A.D.3** For every passage where the primary translations diverge
+      significantly, present ESV and NASB side-by-side. For passages where
+      TR/Majority Text readings differ from critical-text readings, present
+      LSV side-by-side.
 - [ ] **Acceptance** A reader can find every biblical text cited in the paper,
       see which chapter uses it, and how it's tagged — without re-reading the
       manuscript
@@ -380,8 +398,10 @@ is the document of record — fix the checklist, not the outline.
 - [ ] **X.3** Maintain the glossary in Appendix C as new terms are introduced,
       using biblical usage as the source
 - [ ] **X.4** Cite Bible translations consistently — primary citation text is
-      ESV; where NASB, NKJV, or NIV diverge significantly, all four readings
-      are noted. Translation list and rationale in Introduction §I.4.
+      ESV; where NASB diverges significantly, both readings are noted. The full
+      translation set (including reference translations) and rationale is in
+      Introduction §I.4. **Sourced bias analysis for each translation is in
+      `06_Translation_Bias_Documentation.md`.**
 - [ ] **X.5** *(removed in v1.2)* — no secondary sources under the Bible-only
       constraint
 
@@ -402,4 +422,4 @@ Alternative: **Chapter 1 (God's Character)** if you prefer strict narrative orde
 - Appendices B–D: ~3,000–4,000 words total
 - **Total manuscript: ~19,000–20,000 words** including appendices. The
   ~5,000 word reduction from v1.1 comes entirely from dropping Appendix A
-  (Anselm/Socinus/atonement surveys) and the bibliography starter.
+  (non-biblical source material) and the bibliography starter.

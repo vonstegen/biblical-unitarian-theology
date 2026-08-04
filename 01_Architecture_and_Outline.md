@@ -1,9 +1,10 @@
 # Thesis Architecture and Outline
 
-> **Version 1.2** — reconciled 2026-08-04 against `00_Master_Thesis.md`,
+> **Version 1.3** — reconciled 2026-08-04 against `00_Master_Thesis.md`,
 > `04_Review_and_Recommendations.md`, and `05_Research_and_Writing_Checklist.md`.
-> Revised 2026-08-04 to enforce the **Bible-only source constraint** (see
-> Introduction, §I.2).
+> v1.3 expands the translation table per user input (YLT, LSV, Rotherham,
+> REV, CLV added as reference translations) and links to a separate
+> `06_Translation_Bias_Documentation.md` for sourced bias analysis.
 >
 > Spine verse: **Romans 5:19** — *"For as by the one man's disobedience the
 > many were made sinners, so by the one man's obedience the many will be
@@ -21,6 +22,8 @@
 - **Appendices house the hard texts** (alternative exegetical readings,
   glossary, full research map). They are not blocking the spine, but they
   must be drafted before the paper is presented as finished.
+- **See `06_Translation_Bias_Documentation.md`** for the sourced bias and
+  limitations analysis for each translation in the set.
 
 ---
 
@@ -34,7 +37,8 @@ This outline reconciles four prior sources, in version order:
 | `04_Review_and_Recommendations.md` §6 (Grok review) | 18 | 2 chapters | Yes (Ch 18) | Yes | Yes (A–D) |
 | `05_Research_and_Writing_Checklist.md` v1.0 (prior checklist) | 16 | 3 chapters (flagged merger) | No | Yes (implied) | No |
 | `01_` v1.1 (reconciled structure) | 17 + Intro | 1 chapter (Vindication + New Humanity) | Yes (Ch 17) | Yes | Yes (A–D) |
-| **`01_` v1.2 (this version)** | **17 + Intro** | **1 chapter** | **Yes** | **No — Bible only** | **3 appendices (B–D; A removed)** |
+| `01_` v1.2 (Bible-only constraint) | 17 + Intro | 1 chapter | Yes | No — Bible only | 3 appendices (B–D; A removed) |
+| **`01_` v1.3 (this version)** | **17 + Intro** | **1 chapter** | **Yes** | **No — Bible only** | **3 appendices (B–D)** |
 
 Five structural changes from v1.0:
 
@@ -49,13 +53,24 @@ Five structural changes from v1.0:
 5. **Tightened Part II dependencies**: Chapter 5 (*What Was Lost*) and Chapter 6
    (*What Passed to Humanity*) are flagged as a sequential pair.
 
-Two changes from v1.1 → v1.2 (Bible-only constraint applied):
+Changes from v1.1 → v1.2 (Bible-only constraint applied):
 
-6. **Removed Appendix A** (Historical Dialogue: Anselm, Socinus, classical
-   atonement theories) — entire appendix is engagement with non-biblical sources.
+6. **Removed Appendix A** (Historical Dialogue with non-biblical sources) —
+   the entire appendix was engagement with non-biblical sources and is removed.
 7. **Removed Bibliography starter and all research tasks naming non-biblical
-   sources** (Anselm, Socinus, Moo, Cranfield, Murray, Aulén, etc.). Cross-cutting
-   task X.5 (cite secondary sources) is now obsolete and removed.
+   sources**. Cross-cutting task X.5 (cite secondary sources) is obsolete and
+   removed.
+
+Changes from v1.2 → v1.3 (literal-source reference set):
+
+8. **Expanded the translation table** in §I.4. ESV and NASB remain the
+   primary citation text. Added four literal-source reference translations
+   (YLT, LSV, Rotherham's Emphasized Bible, CLV) per the prior review's
+   bibliography recommendations, plus the REV (revbible.com) as a unitarian
+   reference.
+9. **Added `06_Translation_Bias_Documentation.md`** as a sourced, citation-backed
+   bias and limitations analysis for each translation in the set. This
+   accompanies the translations rather than living in the outline.
 
 ---
 
@@ -74,21 +89,44 @@ convention. Sets the reader's expectations and the author's commitments.
       divine impassibility, etc.) — explicit anti-scope. State what it is
       trying to prove: the debt-debtor thesis of redemption, *as Scripture
       presents it*.
-- [ ] **I.4** **Translation set.** The paper will cite from the following four
-      English translations, chosen to span the main interpretive axes
-      (formal/dynamic, modern/traditional):
+- [ ] **I.4** **Translation set.** The paper cites from two primary
+      translations and consults five reference translations. **Full bias and
+      limitations analysis with sources for each translation is in
+      `06_Translation_Bias_Documentation.md`.**
+
+      **Primary citations** (default citation text):
 
       | Translation | Type | Used for |
       |---|---|---|
-      | **ESV** (English Standard Version) | Formal equivalence | Default citation text |
-      | **NASB** (New American Standard Bible) | Most literal | Word-order / syntax arguments |
-      | **NKJV** (New King James Version) | Formal, traditional | Idioms and traditional phrasings |
-      | **NIV** (New International Version) | Dynamic equivalence | Reader-accessibility and meaning-level comparison |
+      | **ESV** (English Standard Version, 2016) | Essentially literal formal equivalence | Default citation text |
+      | **NASB** (New American Standard Bible, 1995) | Most literal English translation | Word-order / syntax arguments; cross-check of ESV |
 
-      Where translations diverge in a passage significant to the argument, all
-      four readings are presented and the divergence noted. Translation
+      **Reference translations** (consulted but not cited as primary):
+
+      | Translation | Textual basis | Why consulted |
+      |---|---|---|
+      | **YLT** (Young's Literal Translation, 1862) | Textus Receptus / majority | Strictly literal word-for-word; surfaces Greek/Hebrew structure. Public domain. |
+      | **LSV** (Literal Standard Version, 2020) | Textus Receptus / Majority Text | Modern update of YLT in contemporary English; CC BY-SA licensed. Useful as a second-generation literal cross-check, and the only modern literal in the set that preserves TR/Majority Text readings (long ending of Mark; Pericope Adulterae; Comma Johanneum). |
+      | **Rotherham's Emphasized Bible** (1902) | Westcott-Hort critical text + Ginsburg OT | Maximal literalism with unique emphasis marks; same critical-text family as ESV/NASB but with explicit anti-creedal ("apostolic") translation philosophy. Renders *baptizō* as "immerse" — useful for chapters where the literal reading diverges from traditional renderings. |
+      | **REV** (Revised English Version, Spirit & Truth Fellowship, revbible.com) | Nestle-Aland 28 / BHS 4 | Modern unitarian-affiliated translation with extensive footnotes giving the literal Hebrew/Greek readings. **Reference only** — translation choices reflect a unitarian editorial frame. Useful for understanding how a unitarian scholar-tradition renders a passage. |
+      | **CLV / CLNT** (Concordant Literal Version, A.E. Knoch, mid-20th c.) | Westcott-Hort derived; hyper-literal | Useful as a *parsing aid* — see exactly what the underlying Greek says. **Caveat**: published by Concordant Publishing Concern with a doctrinal package (universal reconciliation, British-Israelist leanings). Translation choices are shaped by these commitments; treat as a Greek-disambiguation tool, not as a reading to follow. |
+
+      Where the two primary translations (ESV, NASB) diverge in a passage
+      significant to the argument, both readings are presented. Where the
+      reference translations add interpretive weight, they are cited with the
+      specific textual or structural argument they support. Translation
       differences are *evidence* about the underlying text, not a license to
       resolve ambiguity by appeal to outside material.
+
+      **Translations deliberately excluded:**
+
+      - **KJV / NKJV** — known to contain readings that smooth Trinitarian
+        interpretation (e.g. 1 John 5:7 Comma Johanneum; "God" in passages
+        where the underlying text is ambiguous). The KJV family preserves
+        17th-century editorial decisions that the modern critical editions
+        (NA28 / BHS) reject as not original. Excluded for source-material
+        fidelity, not for theological opposition. Full analysis in
+        `06_Translation_Bias_Documentation.md`.
 
 - [ ] **I.5** Introduce the `[E]/[I]/[H]` tagging system:
       - `[E]` explicit in the biblical text
@@ -111,7 +149,7 @@ convention. Sets the reader's expectations and the author's commitments.
 
 **Anchors:** Research question *"Who is God according to Scripture, and how does His character define justice?"*
 
-- [ ] **R1.1** Compile a passage inventory on divine justice, faithfulness, and immutability (start: Exodus 34:6–7; Deuteronomy 32:4; Psalm 89; Malachi 3:6; James 1:17)
+- [ ] **R1.1** Compile a passage inventory on divine justice, faithfulness, and immutability (Exodus 34:6–7; Deuteronomy 32:4; Psalm 89; Malachi 3:6; James 1:17)
 - [ ] **R1.2** List every passage where God "swears," "establishes," or "sets" a penalty/consequence
 - [ ] **R1.3** Identify OT passages where sacrifice is offered but rejected (1 Samuel 15; Isaiah 1; Isaiah 53; Micah 6:6–8) — supplies the obedience-over-sacrifice spine
 - [ ] **E1.1** Genesis 2:16–17 (penalty stated) — [E]
@@ -279,9 +317,9 @@ convention. Sets the reader's expectations and the author's commitments.
 - [ ] **R13.3** Investigate the *two wills* question exegetically — what do the four
       Gethsemane narratives actually say about the relationship between the
       Father's will and Jesus' will? Where translation differences are
-      material (e.g. *thelema* in the Greek, "cup" imagery), note all four
-      translation readings. Do not import later christological categories;
-      let the texts speak.
+      material (e.g. *thelema* in the Greek, "cup" imagery), note both
+      translation readings (ESV and NASB). Do not import later christological
+      categories; let the texts speak.
 - [ ] **E13.1** Matthew 26:39 ("not as I will, but as you will") — [E], central text
 - [ ] **E13.2** John 18:11 ("the cup the Father has given me") — [E]
 - [ ] **E13.3** Hebrews 5:7–8 — [E]
@@ -297,8 +335,7 @@ convention. Sets the reader's expectations and the author's commitments.
 - [ ] **R14.2** Inventory blood/sacrifice texts (Hebrews 9; Leviticus 16 — careful with altar theology)
 - [ ] **R14.3** Investigate *atonement vocabulary exegetically*: trace what
       *hilasterion*, *lytron*, *philos*, and related terms mean in their
-      biblical contexts (LXX, NT, papyri when the term has a pre-biblical
-      Greek usage that the biblical author is clearly invoking). The
+      biblical contexts (LXX, NT, biblical Hebrew *kaphar*). The
       investigation must stay within what the biblical authors themselves
       meant by the terms.
 - [ ] **E14.1** Isaiah 53:4–6, 10–12 — [E]
@@ -313,10 +350,11 @@ convention. Sets the reader's expectations and the author's commitments.
 
 **Anchors:** Research question *"Why is one righteous man's obedience sufficient for many?"*; working hypothesis *"Investigate representative correspondence between Adam and Christ"*
 
-- [ ] **R15.1** Deep dive on Romans 5:12–21 in the four English translations —
-      compare how *paresis*, *parakoe*, *hupakoe*, *dikaioma* are rendered
-      in ESV, NASB, NKJV, NIV. Note where the Greek's argumentative force
-      is preserved vs. lost in translation.
+- [ ] **R15.1** Deep dive on Romans 5:12–21 in the two primary translations
+      (ESV, NASB) — compare how *paresis*, *parakoe*, *hupakoe*,
+      *dikaioma* are rendered. Note where the Greek's argumentative force
+      is preserved vs. lost in translation. Consult YLT and LSV where the
+      Greek structure is in dispute.
 - [ ] **R15.2** Inventory federal-headship texts beyond Rom 5 (1 Corinthians 15; Ephesians 1:22–23; Hebrews 2)
 - [ ] **E15.1** Romans 5:18–19 (one man's obedience for many) — [E], central text
 - [ ] **E15.2** 1 Corinthians 15:22 (in Christ all made alive) — [E]
@@ -354,7 +392,7 @@ convention. Sets the reader's expectations and the author's commitments.
 - [ ] **R17.2** Identify any research question that the paper **failed** to answer — list explicitly
 - [ ] **W17.1** Write 600–900 words: restate the thesis as proven to the extent that the [E]-tagged evidence supports
 - [ ] **W17.2** Write 300–500 words: explicit limitations and open questions
-- [ ] **W17.3** Write 200–400 words: directions for further research (Rom 5:12–21 deep dive; active obedience systematic treatment; high-christology engagement; Gethsemane and willing obedience)
+- [ ] **W17.3** Write 200–400 words: directions for further research (Rom 5:12–21 deep dive; further exegetical study of active obedience; high-christology engagement; Gethsemane and willing obedience)
 - [ ] **A17** Acceptance: every research question in `00_Master_Thesis.md` is addressed (either answered or explicitly deferred); the reader can state the thesis and its limits after one reading
 
 ---
@@ -409,8 +447,8 @@ convention. Sets the reader's expectations and the author's commitments.
 - [ ] **A.C.2** Sin (act; state; imputation; inherited corruption)
 - [ ] **A.C.3** Obedience (active; passive; willing; covenantal)
 - [ ] **A.C.4** Representation (federal headship; natural headship)
-- [ ] **A.C.5** Atonement (*kaphar*, *hilasterion*, *lytron*, etc., with all four
-      translations)
+- [ ] **A.C.5** Atonement (*kaphar*, *hilasterion*, *lytron*, etc., with both
+      primary translations noted)
 - [ ] **A.C.6** Justification (*dikaiosis*, *dikaioma*, *dikaioō*)
 - [ ] **A.C.7** Sonship (*huios*, *prōtotokos*) — how each biblical author
       uses the term
@@ -428,8 +466,10 @@ convention. Sets the reader's expectations and the author's commitments.
       brief note on how it's used
 - [ ] **A.D.2** Cross-reference each passage to its chapter(s) in the
       manuscript
-- [ ] **A.D.3** For every passage, present the four translations (ESV, NASB,
-      NKJV, NIV) side-by-side where divergence is significant
+- [ ] **A.D.3** For every passage where the primary translations diverge
+      significantly, present ESV and NASB side-by-side. For passages where
+      TR/Majority Text readings differ from critical-text readings, present
+      LSV side-by-side.
 - [ ] **Acceptance** A reader can find every biblical text cited in the paper,
       see which chapter uses it, and how it's tagged — without re-reading the
       manuscript
@@ -444,8 +484,10 @@ convention. Sets the reader's expectations and the author's commitments.
 - [ ] **X.3** Maintain the glossary in Appendix C as new terms are introduced,
       using biblical usage as the source
 - [ ] **X.4** Cite Bible translations consistently — primary citation text is
-      ESV; where NASB, NKJV, or NIV diverge significantly, all four readings
-      are noted. Translation list and rationale in Introduction §I.4.
+      ESV; where NASB diverges significantly, both readings are noted. The full
+      translation set (including reference translations) and rationale is in
+      Introduction §I.4. **Sourced bias analysis for each translation is in
+      `06_Translation_Bias_Documentation.md`.**
 - [ ] **X.5** *(removed in v1.2)* — no secondary sources under the Bible-only
       constraint
 
@@ -466,4 +508,4 @@ Alternative: **Chapter 1 (God's Character)** if you prefer strict narrative orde
 - Appendices B–D: ~3,000–4,000 words total
 - **Total manuscript: ~19,000–20,000 words** including appendices. The
   ~5,000 word reduction from v1.1 comes entirely from dropping Appendix A
-  (Anselm/Socinus/atonement surveys) and the bibliography starter.
+  (non-biblical source material) and the bibliography starter.
