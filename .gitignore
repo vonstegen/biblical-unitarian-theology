@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Pandoc / export scratch
+*.docx
+*.pdf
+!docs/*.docx
+!docs/*.pdf
+
+# Local notes
+*.local.md
+drafts/
