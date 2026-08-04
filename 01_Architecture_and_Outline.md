@@ -42,7 +42,7 @@ This outline reconciles four prior sources, in version order:
 
 Five structural changes from v1.0:
 
-1. **Added an unnumbered Introduction** (scope, method, `[E]/[I]/[H]` tagging,
+1. **Added an unnumbered Introduction** (scope, method, `[E]/[I-band]/[H-band]` tagging,
    translation set).
 2. **Collapsed Part V** from three chapters to one (*Father's Vindication and
    the New Humanity*). Resurrection and Father's Exaltation are the same event
@@ -128,10 +128,11 @@ convention. Sets the reader's expectations and the author's commitments.
         fidelity, not for theological opposition. Full analysis in
         `06_Translation_Bias_Documentation.md`.
 
-- [ ] **I.5** Introduce the `[E]/[I]/[H]` tagging system:
+- [ ] **I.5** Introduce the `[E]/[I-band]/[H-band]` tagging system per `INTRO.md`
+      §I.5:
       - `[E]` explicit in the biblical text
-      - `[I]` strong implication from context (parallel passages, narrative flow)
-      - `[H]` hypothesis / inference to be tested against further biblical texts
+      - `[I]` strong implication from context with low/mid/high band and enumerable evidence sketch
+      - `[H]` hypothesis / inference with low/mid/high band and enumerable evidence sketch
 
       The system's purpose is to keep honest the boundary between what
       Scripture says and what the argument infers.
@@ -210,7 +211,7 @@ convention. Sets the reader's expectations and the author's commitments.
 - [ ] **E5.2** Genesis 3:17–19 (cursed ground, toil, death) — [E]
 - [ ] **E5.3** Romans 8:20–21 (creation subjected to futility, hope of freedom) — [E]
 - [ ] **W5.1** Write 600–900 words: what was lost — relational intimacy, ease of access, freedom from death, perhaps image-fellowship with God
-- [ ] **A5** Acceptance: explicit list of "losses" each tagged [E]/[I]/[H]; refrains from over-claiming
+- [ ] **A5** Acceptance: explicit list of "losses" each tagged [E]/[I-band]/[H-band] with evidence sketches; refrains from over-claiming
 
 ### Chapter 6 — What Passed to Humanity?
 
@@ -462,8 +463,8 @@ convention. Sets the reader's expectations and the author's commitments.
 > manuscript.
 
 - [ ] **A.D.1** Take the passage list from `02_Biblical_Research_Map.md` and
-      add per-passage notes: which chapter(s) cite it; `[E]/[I]/[H]` tag;
-      brief note on how it's used
+      add per-passage notes: which chapter(s) cite it; `[E]/[I-band]/[H-band]` tag;
+      band justification; brief note on how it's used
 - [ ] **A.D.2** Cross-reference each passage to its chapter(s) in the
       manuscript
 - [ ] **A.D.3** For every passage where the primary translations diverge
@@ -478,7 +479,7 @@ convention. Sets the reader's expectations and the author's commitments.
 
 ## Cross-cutting tasks (apply to every chapter)
 
-- [ ] **X.1** Tag every claim with `[E]/[I]/[H]` at draft time
+- [ ] **X.1** Tag every claim with `[E]/[I-band]/[H-band]` at draft time per INTRO.md §I.5; every `[I]` and `[H]` claim carries an evidence sketch
 - [ ] **X.2** Cross-reference each chapter back to the working thesis in
       `00_Master_Thesis.md`
 - [ ] **X.3** Maintain the glossary in Appendix C as new terms are introduced,

@@ -81,7 +81,7 @@ is the document of record — fix the checklist, not the outline.
       (primary); YLT, LSV, Rotherham, REV, CLV as reference. Full table
       with per-translation rationale and caveats in the outline §I.4. **Bias
       analysis with citations in `06_Translation_Bias_Documentation.md`.**
-- [ ] **I.5** Introduce the `[E]/[I]/[H]` tagging system
+- [ ] **I.5** Introduce the `[E]/[I-band]/[H-band]` tagging system per INTRO.md §I.5: `[E]` explicit in text; `[I]` strong implication with low/mid/high band and evidence sketch; `[H]` hypothesis with low/mid/high band and evidence sketch
 - [ ] **I.6** Roadmap of the 17 chapters and 3 appendices
 - [ ] **A-Intro** Acceptance: a reader can state the thesis, the source
       constraint, the translation set, and the tagging convention after
@@ -156,7 +156,7 @@ is the document of record — fix the checklist, not the outline.
 - [ ] **E5.2** Genesis 3:17–19 (cursed ground, toil, death) — [E]
 - [ ] **E5.3** Romans 8:20–21 (creation subjected to futility, hope of freedom) — [E]
 - [ ] **W5.1** Write 600–900 words: what was lost — relational intimacy, ease of access, freedom from death, perhaps image-fellowship with God
-- [ ] **A5** Acceptance: explicit list of "losses" each tagged [E]/[I]/[H]; refrains from over-claiming
+- [ ] **A5** Acceptance: explicit list of "losses" each tagged [E]/[I-band]/[H-band] with evidence sketches; refrains from over-claiming
 
 ### Chapter 6 — What Passed to Humanity?
 
@@ -377,8 +377,8 @@ is the document of record — fix the checklist, not the outline.
 ### Appendix D — Full Biblical Research Map
 
 - [ ] **A.D.1** Take the passage list from `02_Biblical_Research_Map.md` and
-      add per-passage notes: which chapter(s) cite it; `[E]/[I]/[H]` tag;
-      brief note on how it's used
+      add per-passage notes: which chapter(s) cite it; `[E]/[I-band]/[H-band]` tag;
+      band justification; brief note on how it's used
 - [ ] **A.D.2** Cross-reference each passage to its chapter(s) in the manuscript
 - [ ] **A.D.3** For every passage where the primary translations diverge
       significantly, present ESV and NASB side-by-side. For passages where
@@ -392,7 +392,7 @@ is the document of record — fix the checklist, not the outline.
 
 ## Cross-cutting tasks (apply to every chapter)
 
-- [ ] **X.1** Tag every claim with `[E]/[I]/[H]` at draft time
+- [ ] **X.1** Tag every claim with `[E]/[I-band]/[H-band]` at draft time per INTRO.md §I.5; every `[I]` and `[H]` claim carries an evidence sketch
 - [ ] **X.2** Cross-reference each chapter back to the working thesis in
       `00_Master_Thesis.md`
 - [ ] **X.3** Maintain the glossary in Appendix C as new terms are introduced,

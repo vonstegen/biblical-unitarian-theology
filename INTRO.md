@@ -69,21 +69,75 @@ The 1995 NASB is cited (not the 2020 update) because the 2020 update's "gender-a
 
 Where the two primary translations (ESV, NASB) diverge in a passage significant to the argument, both readings are presented. Where the reference translations add interpretive weight (e.g., on the *monogenēs* lexical choice; on *kathistēmi* as "constituted" vs. "made"), they are cited with the specific textual or structural argument they support. Translation differences are *evidence* about the underlying text, not a license to resolve ambiguity by appeal to outside material.
 
-## I.5 The [E] / [I] / [H] tagging system
+## I.5 The tagging system: [E], [I-bands], [H-bands]
 
-Every claim in this paper is tagged at draft time according to its epistemic status relative to the biblical text:
+Every claim in this paper is tagged at draft time according to its epistemic status relative to the biblical text. The system has **three primary tags** (`[E]`, `[I]`, `[H]`) and a **secondary low/mid/high band** that subdivides `[I]` and `[H]` based on enumerable textual evidence.
+
+### I.5.1 The three primary tags
 
 - **`[E]` — Explicit in the biblical text.** The claim is stated in a biblical passage and the statement is unambiguous in both primary translations. Example: "death was set as the consequence of disobedience in Eden" — `[E]` (Genesis 2:16–17).
 
-- **`[I]` — Strong implication from context.** The claim is not stated directly but is the natural reading when the immediate passage is read in light of parallel passages and narrative context. Example: "Adam's sin *positioned* the many as sinners (legal/positional sense)" — `[I]` (Romans 5:19 *kathistēmi*).
+- **`[I]` — Strong implication from context.** The claim is not stated directly but is the natural reading when the immediate passage is read in light of parallel passages and narrative context. Example: "Adam's sin *positioned* the many as sinners in a legal/positional sense" — `[I]` (Romans 5:19 *kathistēmi*).
 
 - **`[H]` — Hypothesis / inference to be tested.** The claim goes beyond what the immediate passage asserts and depends on systematic synthesis of multiple passages. Example: "the *monogenēs* lexical choice bears on whether Christ is 'eternally generated' or 'uniquely one-of-a-kind'" — `[H]` (the lexical question is real; the doctrinal implication is one inference among several).
 
-The system is intentionally coarse. Three tags suffice to keep honest the boundary between what Scripture *says* and what the argument *infers*. Where a claim could plausibly be tagged at more than one level, the more cautious tag is chosen — an `[E]` claim that could be `[I]` is downgraded to `[I]`, never upgraded.
+### I.5.2 The band structure
+
+`[I]` and `[H]` claims are further qualified by a **confidence band** (`low`, `mid`, `high`) based on the *enumerable textual evidence* for and against the claim. The band is a separate axis from the primary tag.
+
+**For `[I]` claims:**
+
+- **`[I-high]`** — Strong implication from immediate context plus at least one clear parallel; the claim would survive most reasonable readings; would be tagged `[E]` if the text asserted it directly in propositional form.
+- **`[I-mid]`** — Implication is clear in the immediate context but requires one or two inferential steps; some translations or readings would tilt against.
+- **`[I-low]`** — Implication is suggestive but the immediate context doesn't decisively point there; weaker than `[I-mid]` but stronger than `[H]`; the textual evidence is mixed.
+
+**For `[H]` claims:**
+
+- **`[H-high]`** — Hypothesis supported by multiple convergent passages; could be promoted to `[I-mid]` or `[E]` with stronger exegetical work; stands as the most natural reading of the text taken as a whole.
+- **`[H-mid]`** — Hypothesis supported by several passages but with competing readings that are also plausible within the Bible's own internal dialogue.
+- **`[H-low]`** — Hypothesis depends on long inferential chains or contested translations; reading is possible but speculative.
+
+### I.5.3 Required structure for every `[I]` and `[H]` claim
+
+To make the band auditable, every `[I]` and `[H]` claim in this paper is accompanied by a short evidence sketch of the following form:
+
+```
+[Tag-Band] <claim statement>
+
+Evidence for:
+  (a) <passage or feature> — <why this argues for>
+  (b) <passage or feature> — <why this argues for>
+
+Evidence against / weakening:
+  (a) <passage or feature> — <why this argues against or weakens>
+  (b) <passage or feature> — <why this argues against or weakens>
+
+Band justification: <one sentence on why the band fits the evidence>
+```
+
+Every entry in the evidence sketch is a specific Bible passage (or a translation choice documented in `06_Translation_Bias_Documentation.md`). The user can audit each entry against their own Bible. No entry relies on outside material.
+
+### I.5.4 Rules of use
+
+The system is intentionally two-dimensional. Three rules govern its use:
+
+1. **Where a claim could plausibly be tagged at more than one level, the more cautious tag is chosen.** An `[E]` claim that could be `[I]` is downgraded to `[I]`, never upgraded. A claim that could be `[H-high]` is not promoted to `[I-mid]` without further exegetical work.
+
+2. **The bands are not the same as numerical probabilities.** They are *qualitative confidence intervals* based on enumerable textual evidence. The user can reproduce the band from the evidence sketch; the user cannot reproduce a numerical probability in the same way.
+
+3. **The system is not a hedge or a way to avoid commitment.** A `[H-mid]` claim made in this paper is a claim the paper makes *as a hypothesis worth defending*, not a claim the paper declines to make. The tag tells the reader what kind of work has been done; the paper stands behind whatever tag it assigns.
+
+### I.5.5 Why this structure, not numerical probabilities
+
+The user explicitly asked whether the project could assign *numerical* probabilities to `[H]` claims from the Bible alone. The honest answer is **no, not in a way that's reproducible**. The reasons:
+
+- Any numerical probability I assign would reflect my training-corpus priors as much as the textual evidence. A patristic-trained model and a reformed-trained model would assign different probabilities to the same `[H]` claim.
+- The Bible-only constraint prevents the most useful calibration. I cannot check my probabilities against how the text has been read historically (no church fathers, no systematic theologies), because that's exactly the evidence the constraint excludes.
+- The user can't independently verify a probability the way they can verify a quotation. "Did Paul use *kathistēmi* in the positional sense here?" is verifiable against the text. "What's the probability that he did?" is my judgment.
+
+The band structure preserves what *is* tractable: an *enumerable textual evidence* sketch that the user can audit, plus a *qualitative confidence* judgment grounded in that evidence. It gives the user real information (which passages argue which way; the specific evidence points; a comparative judgment) without claiming a numerical probability the user can't reproduce.
 
 The system also functions as a *review flag*: any `[H]` claim that survives through to a chapter's acceptance is one the project has affirmatively endorsed after further exegetical work. Any `[I]` claim that has not been *further* tested remains an implication, not an explicit statement.
-
-The system is **not** a hedge or a way to avoid commitment. A `[H]` claim made in this paper is a claim the paper makes *as a hypothesis worth defending*, not a claim the paper declines to make. The tag tells the reader what kind of work has been done; the paper stands behind whatever tag it assigns.
 
 ## I.6 Roadmap of the manuscript
 
@@ -103,7 +157,7 @@ The paper has 17 numbered chapters (after this Introduction), plus 3 appendices:
 
 ## I.7 Acknowledgments and limitations
 
-This paper is a working draft. Its conclusions are not final. The text is being developed chapter by chapter from the outline in `01_Architecture_and_Outline.md`, with per-chapter acceptance criteria. A claim in this paper is "accepted" when its supporting chapter has been drafted, its `[E]/[I]/[H]` tags reviewed, and the chapter explicitly meets its acceptance criteria.
+This paper is a working draft. Its conclusions are not final. The text is being developed chapter by chapter from the outline in `01_Architecture_and_Outline.md`, with per-chapter acceptance criteria. A claim in this paper is "accepted" when its supporting chapter has been drafted, its `[E]/[I-band]/[H-band]` tags reviewed with evidence sketches, and the chapter explicitly meets its acceptance criteria.
 
 The Bible-only source constraint (I.2) limits the paper in two important ways:
 
