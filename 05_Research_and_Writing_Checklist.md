@@ -1,10 +1,17 @@
 # Research & Writing Checklist
 
-> A task-level breakdown of `01_Architecture_and_Outline.md` (Version 1.1,
-> reconciled 2026-08-04). Each chapter is decomposed into research, exegesis,
-> writing, and acceptance-criteria tasks. Use `[E]` explicit, `[I]` strong
+> A task-level breakdown of `01_Architecture_and_Outline.md` (Version 1.2,
+> reconciled 2026-08-04, revised to enforce the Bible-only source
+> constraint). Each chapter is decomposed into research, exegesis, writing,
+> and acceptance-criteria tasks. Use `[E]` explicit, `[I]` strong
 > implication, `[H]` hypothesis tags on every claim you draft, per the
 > methodology in `04_Review_and_Recommendations.md`.
+>
+> **Source constraint:** all evidence and arguments must come from the Bible
+> alone. The translation set (ESV, NASB, NKJV, NIV) is defined in the
+> Introduction, §I.4 of the outline. No outside sources — no commentaries,
+> no systematic theologies, no creeds, no church fathers, no modern biblical
+> scholarship.
 
 ## How to use this file
 
@@ -15,8 +22,8 @@
   every Part III–V chapter is provisional.
 - **Sequential dependency:** Chapter 5 (*What Was Lost*) blocks Chapter 6
   (*What Passed to Humanity*). Do not start Ch 6 until Ch 5 has acceptance.
-- **Appendices** (A–D) are deferred and not blocking any chapter, but must
-  be drafted before the paper is presented as finished.
+- **Appendices** (B–D; A removed) are deferred and not blocking any chapter,
+  but must be drafted before the paper is presented as finished.
 
 ## Status legend
 
@@ -30,14 +37,17 @@
 
 ## Reconciliation status
 
-This checklist has been **synced with `01_Architecture_and_Outline.md` Version 1.1**
-as of 2026-08-04. The structural changes from the prior versions:
+This checklist has been **synced with `01_Architecture_and_Outline.md`
+Version 1.2** as of 2026-08-04. Two changes from v1.0/v1.1:
 
-1. Added unnumbered **Introduction** (scope, method, tagging system)
+1. Added unnumbered **Introduction** (scope, method, translation set)
 2. Collapsed Part V from three chapters to one (*Father's Vindication and
    the New Humanity* — Ch 16)
 3. Added **Conclusions** as Ch 17
-4. Added four **appendices** (A–D), deferred
+4. Appendices reduced from A–D to B–D (Appendix A removed under Bible-only
+   constraint); all references to outside sources removed from research tasks
+5. **Bible-only source constraint applied throughout**: bibliography starter
+   deleted, R11.3 / R11.4 / R14.3 / R13.3 reframed, X.5 removed
 
 If you find a discrepancy between this checklist and the outline, the outline
 is the document of record — fix the checklist, not the outline.
@@ -49,17 +59,18 @@ is the document of record — fix the checklist, not the outline.
 **Anchors:** Sets up the whole paper; no upstream research questions.
 
 - [ ] **I.1** State the working thesis verbatim from `00_Master_Thesis.md`
-- [ ] **I.2** Define the method: biblical theology (whole-Bible narrative arc),
-      not systematic theology from later creeds
+- [ ] **I.2** State the source constraint: Bible only — no commentaries,
+      systematic theologies, creeds, church fathers, or modern biblical
+      scholarship
 - [ ] **I.3** State what this paper is **not** trying to prove (the Trinity,
       divine impassibility, etc.) — explicit anti-scope
-- [ ] **I.4** Introduce the `[E]/[I]/[H]` tagging system
-- [ ] **I.5** Locate the work in the literature landscape: classical atonement
-      (Anselm, Abelard, Socinus); modern atonement surveys; Biblical Unitarian
-      scholarship; recent christological debate. Full bibliography in Appendix A.
-- [ ] **I.6** Roadmap of the 17 chapters and 4 appendices
-- [ ] **A-Intro** Acceptance: a reader can state the thesis, the method, and
-      the tagging convention after reading this section in one sitting
+- [ ] **I.4** State the translation set: ESV (default), NASB, NKJV, NIV —
+      four translations spanning formal/dynamic and modern/traditional axes
+- [ ] **I.5** Introduce the `[E]/[I]/[H]` tagging system
+- [ ] **I.6** Roadmap of the 17 chapters and 3 appendices
+- [ ] **A-Intro** Acceptance: a reader can state the thesis, the source
+      constraint, the translation set, and the tagging convention after
+      reading this section in one sitting
 
 ---
 
@@ -69,7 +80,7 @@ is the document of record — fix the checklist, not the outline.
 
 **Anchors:** Research question *"Who is God according to Scripture, and how does His character define justice?"*
 
-- [ ] **R1.1** Compile a passage inventory on divine justice, faithfulness, and immutability (start: Exodus 34:6–7; Deuteronomy 32:4; Psalm 89; Malachi 3:6; James 1:17)
+- [ ] **R1.1** Compile a passage inventory on divine justice, faithfulness, and immutability (Exodus 34:6–7; Deuteronomy 32:4; Psalm 89; Malachi 3:6; James 1:17)
 - [ ] **R1.2** List every passage where God "swears," "establishes," or "sets" a penalty/consequence
 - [ ] **R1.3** Identify OT passages where sacrifice is offered but rejected (1 Samuel 15; Isaiah 1; Isaiah 53; Micah 6:6–8)
 - [ ] **E1.1** Genesis 2:16–17 (penalty stated) — [E]
@@ -114,7 +125,6 @@ is the document of record — fix the checklist, not the outline.
 **Anchors:** Research questions *"What exactly did Adam lose?"*, *"What passed from Adam to humanity?"*
 
 - [ ] **R4.1** Inventory NT reflections on Adam's sin (Romans 5:12–21; 1 Corinthians 15:20–22; 1 Timothy 2:13–14) — Paul's framing
-- [ ] **R4.2** Locate Jewish Second Temple background on Adam's transgression (optional; for appendix)
 - [ ] **E4.1** Genesis 3:1–6 (the act of disobedience) — [E]
 - [ ] **E4.2** Romans 5:12 (sin/death through one man) — [E]
 - [ ] **E4.3** 1 Corinthians 15:22 (in Adam all die) — [E]
@@ -138,7 +148,7 @@ is the document of record — fix the checklist, not the outline.
 **Anchors:** Research questions *"What passed from Adam to humanity?"*, *"What role do innocence, children, and moral accountability play?"*
 
 - [ ] **R6.1** Inventory texts on inherited consequences (Romans 5:12–21; Ephesians 2:1–3; Psalm 51:5; Job 14:4) — handle with care
-- [ ] **R6.2** Decide and document your position: imputation of sin vs. inherited corruption vs. both vs. something else — this is a load-bearing methodological choice
+- [ ] **R6.2** Decide and document your position: imputation of sin vs. inherited corruption vs. both vs. something else — drawn from Scripture alone, this is a load-bearing methodological choice
 - [ ] **E6.1** Romans 5:12 — [E] "death spread to all because all sinned"
 - [ ] **E6.2** 1 Corinthians 15:22 — [E] "in Adam all die"
 - [ ] **E6.3** Psalm 51:5 — [I] at best; consider whether this is Davidic confession or universal claim
@@ -190,7 +200,7 @@ is the document of record — fix the checklist, not the outline.
 **Anchors:** Research question *"Does the Old Testament teach that obedience is greater than sacrifice?"*; working hypothesis *"Evaluate whether sacrifice without obedience is rejected by God"*
 
 - [ ] **R10.1** Inventory "obedience vs. sacrifice" passages: 1 Samuel 15:22; Psalm 51:16–17; Isaiah 1:11–17; Isaiah 53; Jeremiah 7:21–23; Hosea 6:6; Amos 5:21–24; Micah 6:6–8; Matthew 9:13; Matthew 12:7
-- [ ] **R10.2** Carefully distinguish *"sacrifice without obedience rejected"* (textual claim) from *"God doesn't care about sacrifice"* (overclaim the prior review warned about)
+- [ ] **R10.2** Carefully distinguish *"sacrifice without obedience rejected"* (textual claim) from *"God doesn't care about sacrifice"* (overclaim)
 - [ ] **E10.1** 1 Samuel 15:22–23 — [E], central text
 - [ ] **E10.2** Hosea 6:6 (mercy, not sacrifice) — [E]
 - [ ] **E10.3** Matthew 9:13 (Jesus quotes Hosea 6:6) — [E]
@@ -207,29 +217,27 @@ is the document of record — fix the checklist, not the outline.
 
 - [ ] **R11.1** Inventory Pauline "last Adam" / one-man/one-man passages (Romans 5:12–21; 1 Corinthians 15:20–22, 45–49)
 - [ ] **R11.2** Inventory mediator passages (1 Timothy 2:5; Hebrews 2:5–18; Hebrews 9:15)
-- [ ] **R11.3** Read and engage Anselm (*Cur Deus Homo*) — agree on "man must pay," disagree on "only God can" (cross-link to Appendix A)
-- [ ] **R11.4** Read and engage Socinus on this specific point (cross-link to Appendix A)
 - [ ] **E11.1** Romans 5:18–19 — [E], central text
 - [ ] **E11.2** 1 Corinthians 15:45 — [E] "the last Adam"
 - [ ] **E11.3** 1 Timothy 2:5 — [E] "the man Christ Jesus"
 - [ ] **E11.4** Hebrews 2:14–17 — [E]
 - [ ] **W11.1** Write 900–1,200 words: the *correspondence* principle — the substitute must be of the same order as the debtor
 - [ ] **W11.2** Carefully state the christological conclusion as a *result* of the exegesis, not a premise
-- [ ] **A11** Acceptance: chapter answers *"why not a God-man?"* via "corresponding representative," not via "overpayment" polemic
+- [ ] **A11** Acceptance: chapter answers *"why not a God-man?"* via "corresponding representative," drawn from the Adam-Christ parallels themselves — no appeal to outside categories
 
 ### Chapter 12 — The Perfect Obedience of Christ
 
 **Anchors:** Research question *"Does Scripture present Christ's active obedience and sacrificial death as inseparable?"*; working hypothesis *"Examine willing obedience as central to redemption"*
 
 - [ ] **R12.1** Inventory obedience/passive-active obedience passages (Philippians 2:8; Romans 5:19; Hebrews 5:8–9; Hebrews 10:5–9; John 4:34; John 6:38; John 8:29)
-- [ ] **R12.2** Decide and document: is "active obedience" a biblical category, or a theological construct imposed on biblical texts? — load-bearing methodological choice
+- [ ] **R12.2** Decide and document: is "active obedience" a biblical category, or a theological construct imposed on biblical texts? — load-bearing methodological choice, decided by exegesis not tradition
 - [ ] **E12.1** Romans 5:19 (one man's obedience) — [E], central text
 - [ ] **E12.2** Philippians 2:8 (obedient to the point of death) — [E]
 - [ ] **E12.3** Hebrews 5:8–9 (learned obedience, made perfect) — [E]
 - [ ] **E12.4** John 8:29 (always does what pleases the Father) — [E]
 - [ ] **W12.1** Write 900–1,200 words: Christ's obedience is *lifelong*, not merely crucifixion-moment
-- [ ] **W12.2** Reframe the "automatic sinlessness" trap (prior review §8.4): willing obedience, not mechanical
-- [ ] **A12** Acceptance: chapter supports the "lifelong obedience" claim, distinguishing willing from coerced
+- [ ] **W12.2** Distinguish willing from mechanical obedience from the biblical texts themselves
+- [ ] **A12** Acceptance: chapter supports the "lifelong obedience" claim, distinguishing willing from coerced, using only the listed texts
 
 ### Chapter 13 — Gethsemane and the Two Wills
 
@@ -237,13 +245,18 @@ is the document of record — fix the checklist, not the outline.
 
 - [ ] **R13.1** Compile all four Gethsemane accounts in parallel: Matthew 26:36–46; Mark 14:32–42; Luke 22:39–46; John 18:1–11
 - [ ] **R13.2** Read Hebrews 5:7–8 as the writer's reflection on Gethsemane
-- [ ] **R13.3** Engage classical dyothelitism (two wills in Christ) and the "two persons" response — fair representation required by the prior review §4.7 (cross-link to Appendix B for full treatment)
+- [ ] **R13.3** Investigate the *two wills* question exegetically — what do
+      the four Gethsemane narratives actually say about the relationship
+      between the Father's will and Jesus' will? Where translation
+      differences are material (e.g. *thelema* in the Greek, "cup" imagery),
+      note all four translation readings. Do not import later christological
+      categories; let the texts speak.
 - [ ] **E13.1** Matthew 26:39 ("not as I will, but as you will") — [E], central text
 - [ ] **E13.2** John 18:11 ("the cup the Father has given me") — [E]
 - [ ] **E13.3** Hebrews 5:7–8 — [E]
 - [ ] **W13.1** Write 900–1,200 words: Gethsemane as the textual hinge between active obedience and the cross
-- [ ] **W13.2** State the dyothelite alternative fairly, then argue why the narrative still supports your reading
-- [ ] **A13** Acceptance: chapter makes the *willingness* claim unignorable — central to the "willing obedience" pillar
+- [ ] **W13.2** Cross-check the "two wills" claim against parallel Father-Son language elsewhere (John 5:30; John 6:38; John 8:29) — what does the Fourth Gospel itself say?
+- [ ] **A13** Acceptance: chapter makes the *willingness* claim unignorable, drawn only from the listed biblical texts and their parallel Father-Son passages
 
 ### Chapter 14 — The Cross as Payment
 
@@ -251,7 +264,11 @@ is the document of record — fix the checklist, not the outline.
 
 - [ ] **R14.1** Inventory penal-substitution texts (Isaiah 53; Romans 3:21–26; 2 Corinthians 5:21; Galatians 3:13; 1 Peter 2:24; 1 Peter 3:18)
 - [ ] **R14.2** Inventory blood/sacrifice texts (Hebrews 9; Leviticus 16 — careful with altar theology)
-- [ ] **R14.3** Engage penal substitution critics (moral-influence theory, Christus Victor) — fair treatment, not straw-man (cross-link to Appendix A)
+- [ ] **R14.3** Investigate *atonement vocabulary exegetically*: trace what
+      *hilasterion*, *lytron*, *philos*, and related terms mean in their
+      biblical contexts (LXX, NT, biblical Hebrew *kaphar*). The
+      investigation must stay within what the biblical authors themselves
+      meant by the terms.
 - [ ] **E14.1** Isaiah 53:4–6, 10–12 — [E]
 - [ ] **E14.2** Romans 3:24–26 (propitiation by his blood) — [E]
 - [ ] **E14.3** 2 Corinthians 5:21 (made to be sin for us) — [E]
@@ -264,12 +281,14 @@ is the document of record — fix the checklist, not the outline.
 
 **Anchors:** Research question *"Why is one righteous man's obedience sufficient for many?"*; working hypothesis *"Investigate representative correspondence between Adam and Christ"*
 
-- [ ] **R15.1** Deep dive on Romans 5:12–21 in Greek — terms *paresis* (trespass), *parakoe* (disobedience), *hupakoe* (obedience), *dikaioma* (righteous act)
+- [ ] **R15.1** Deep dive on Romans 5:12–21 in the four English translations —
+      compare how *paresis*, *parakoe*, *hupakoe*, *dikaioma* are rendered
+      in ESV, NASB, NKJV, NIV. Note where the Greek's argumentative force
+      is preserved vs. lost in translation.
 - [ ] **R15.2** Inventory federal-headship texts beyond Rom 5 (1 Corinthians 15; Ephesians 1:22–23; Hebrews 2)
-- [ ] **R15.3** Engage the "why is this fair?" objection — federal vs. natural headship distinction
 - [ ] **E15.1** Romans 5:18–19 (one man's obedience for many) — [E], central text
 - [ ] **E15.2** 1 Corinthians 15:22 (in Christ all made alive) — [E]
-- [ ] **W15.1** Write 900–1,200 words: federal headship as the structural reason one suffices
+- [ ] **W15.1** Write 900–1,200 words: federal headship as the structural reason one suffices, drawn from the parallels Paul himself draws
 - [ ] **W15.2** This is the chapter the prior review recommends drafting *first* — prioritize if rewriting
 - [ ] **A15** Acceptance: chapter answers *"why one for many"* via headship, not via biology or divine fiat
 
@@ -310,28 +329,23 @@ is the document of record — fix the checklist, not the outline.
 
 ## Appendices (deferred — not blocking any chapter)
 
-> Appendices house the hard objections and reference material. They are not
-> required for any chapter's acceptance, but they are required before the
+> Appendices house hard exegetical questions and reference material. They are
+> not required for any chapter's acceptance, but they are required before the
 > paper is presented as finished.
+>
+> **Note:** Appendix A (Historical Dialogue with non-biblical sources) was
+> present in v1.1 and is removed in v1.2 under the Bible-only source
+> constraint.
 
-### Appendix A — Historical Dialogue: Anselm, Socinus, and Classical Atonement Theories
+### Appendix B — Alternative Exegetical Readings of Difficult Texts
 
-- [ ] **A.A.1** Anselm, *Cur Deus Homo* — summary of the satisfaction theory; where this paper agrees ("man must pay") and diverges ("only God can pay" rejected)
-- [ ] **A.A.2** Abelard's moral-influence theory — summary; why penal-substitution reading still wins on Romans 3:24–26 ground
-- [ ] **A.A.3** Faustus Socinus, *De Jesu Christo Servatore* — pre-Arminian Protestant alternative; especially relevant given the Biblical Unitarian tradition
-- [ ] **A.A.4** Modern atonement surveys (Green, Hill) — brief, focused on the debt-debtor question
-- [ ] **A.A.5** Gustav Aulén, *Christus Victor* — third classical typology; engage where relevant
-- [ ] **Acceptance** Engages every major Western atonement theory fairly and shows the debt-debtor thesis is consistent with or superior to each
-
-### Appendix B — High-Christology Passages Under Alternative Readings
-
-- [ ] **A.B.1** John 1:1–18 (the Word) — agency and role language, not ontological predication?
-- [ ] **A.B.2** Philippians 2:6–11 (the form of God) — pre-existence + exaltation narrative; not a metaphysical statement in the Nicene sense
-- [ ] **A.B.3** Colossians 1:15–20 (firstborn of all creation, image of the invisible God) — firstborn as *title*, not *ontological derivation*
-- [ ] **A.B.4** Hebrews 1 (the Son) — what "God" and "Lord" mean in Jewish monotheistic context
-- [ ] **A.B.5** John 20:28 ("My Lord and my God") — Thomas's exclamation, not Jesus' self-identification; alternative readings
-- [ ] **A.B.6** Titus 2:13; 2 Peter 1:1 — controversial texts; surveyed briefly
-- [ ] **Acceptance** Every high-Christology text the paper is likely to be challenged on gets an exegetical treatment here, with citations
+- [ ] **A.B.1** John 1:1–18 — prologue and the "Word"; compare against Genesis 1:1 and 1 John 1:1
+- [ ] **A.B.2** Philippians 2:6–11 — *morphē theou*; cross-check parallel *morphē* usages
+- [ ] **A.B.3** Colossians 1:15–20 — *prōtotokos* as title (cf. Psalm 89:27; Hebrews 1:6; Romans 8:29)
+- [ ] **A.B.4** Hebrews 1 — trace OT citations to original context
+- [ ] **A.B.5** John 20:28 — Thomas's exclamation; alternative readings within John
+- [ ] **A.B.6** Titus 2:13; 2 Peter 1:1 — translation comparison
+- [ ] **Acceptance** Every contested text gets exegetical treatment using only parallel passages, translation comparison, and context
 
 ### Appendix C — Glossary
 
@@ -339,36 +353,37 @@ is the document of record — fix the checklist, not the outline.
 - [ ] **A.C.2** Sin (act; state; imputation; inherited corruption)
 - [ ] **A.C.3** Obedience (active; passive; willing; covenantal)
 - [ ] **A.C.4** Representation (federal headship; natural headship)
-- [ ] **A.C.5** Atonement (penal substitution; Christus Victor; moral influence; satisfaction)
-- [ ] **A.C.6** Justification (forensic; transformative; declarative)
-- [ ] **A.C.7** Sonship (adoptionist; Trinitarian; functional)
-- [ ] **Acceptance** Every term used in the paper with multiple meanings is defined and disambiguated
+- [ ] **A.C.5** Atonement (*kaphar*, *hilasterion*, *lytron*, etc., with all four translations)
+- [ ] **A.C.6** Justification (*dikaiosis*, *dikaioma*, *dikaioō*)
+- [ ] **A.C.7** Sonship (*huios*, *prōtotokos*) — per-biblical-author usage
+- [ ] **Acceptance** Every term used in the paper with multiple meanings is defined and disambiguated using the Bible's own usage
 
 ### Appendix D — Full Biblical Research Map
 
-- [ ] **A.D.1** Take the passage list from `02_Biblical_Research_Map.md` and add per-passage notes: which chapter(s) cite it; [E]/[I]/[H] tag; brief note on how it's used
+- [ ] **A.D.1** Take the passage list from `02_Biblical_Research_Map.md` and
+      add per-passage notes: which chapter(s) cite it; `[E]/[I]/[H]` tag;
+      brief note on how it's used
 - [ ] **A.D.2** Cross-reference each passage to its chapter(s) in the manuscript
-- [ ] **Acceptance** A reader can find every biblical text cited in the paper, see which chapter uses it, and how it's tagged — without re-reading the manuscript
+- [ ] **A.D.3** For every passage, present the four translations (ESV, NASB,
+      NKJV, NIV) side-by-side where divergence is significant
+- [ ] **Acceptance** A reader can find every biblical text cited in the paper,
+      see which chapter uses it, and how it's tagged — without re-reading the
+      manuscript
 
 ---
 
 ## Cross-cutting tasks (apply to every chapter)
 
-- [ ] **X.1** Tag every claim with [E]/[I]/[H] at draft time
-- [ ] **X.2** Cross-reference each chapter back to the working thesis in `00_Master_Thesis.md`
-- [ ] **X.3** Maintain the glossary in Appendix C as new terms are introduced
-- [ ] **X.4** Cite Bible translations consistently — pick ESV / NASB / NKJV once and stick to it
-- [ ] **X.5** For every secondary source, cite properly — see Appendix A bibliography starter
-
-## Bibliography starter (deferred — feeds Appendix A)
-
-- [ ] **B.1** Anselm, *Cur Deus Homo* — Books I and II
-- [ ] **B.2** Faustus Socinus, *De Jesu Christo Servatore*
-- [ ] **B.3** A standard Romans commentary (Moo, Cranfield, or Dunn) on 5:12–21
-- [ ] **B.4** At least one atonement survey (Green, *Atonement: A Biblical and Theological Study*)
-- [ ] **B.5** A Biblical Unitarian treatment of the last Adam (Hurlbut, Snedeker, or current unitarian scholarship)
-- [ ] **B.6** A classical Trinitarian treatment of active obedience (Murray, *Redemption Accomplished and Applied*) — to engage fairly
-- [ ] **B.7** At least one treatment of Gethsemane / willing obedience
+- [ ] **X.1** Tag every claim with `[E]/[I]/[H]` at draft time
+- [ ] **X.2** Cross-reference each chapter back to the working thesis in
+      `00_Master_Thesis.md`
+- [ ] **X.3** Maintain the glossary in Appendix C as new terms are introduced,
+      using biblical usage as the source
+- [ ] **X.4** Cite Bible translations consistently — primary citation text is
+      ESV; where NASB, NKJV, or NIV diverge significantly, all four readings
+      are noted. Translation list and rationale in Introduction §I.4.
+- [ ] **X.5** *(removed in v1.2)* — no secondary sources under the Bible-only
+      constraint
 
 ## Recommended first chapter to draft
 
@@ -384,7 +399,7 @@ Alternative: **Chapter 1 (God's Character)** if you prefer strict narrative orde
 - Chapters 1–10 (Foundations + Fall + Humanity): ~7,500 words at 600–900 each
 - Chapters 11–16 (Last Adam + Vindication): ~6,000 words at 900–1,200 each
 - Chapter 17 (Conclusions): ~1,200 words
-- Appendices A–D: ~3,000–5,000 words total
-- **Total manuscript: ~19,000–21,000 words** including appendices (still
-  manageable for a focused 3–6 month first draft; appendices can be drafted
-  in parallel with chapters 11–14 once the spine is settled)
+- Appendices B–D: ~3,000–4,000 words total
+- **Total manuscript: ~19,000–20,000 words** including appendices. The
+  ~5,000 word reduction from v1.1 comes entirely from dropping Appendix A
+  (Anselm/Socinus/atonement surveys) and the bibliography starter.
