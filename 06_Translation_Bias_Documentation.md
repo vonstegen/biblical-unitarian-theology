@@ -666,7 +666,7 @@ This is the most contested set of passages in the project's translation set. See
 
 ## 11. Cross-translation controversy map
 
-The following are 5–8 specific doctrinal/textual questions where the translations disagree in ways that materially affect the project's claims. For each: which translations land on which side; what the underlying Greek/Hebrew says; what the `[E]/[I]/[H]` tag should be.
+The following are 5–8 specific doctrinal/textual questions where the translations disagree in ways that materially affect the project's claims. For each: which translations land on which side; what the underlying Greek/Hebrew says; what the `[E]/[I-band]/[H-band]` tag should be.
 
 ### Controversy 1 — *monogenēs* lexical choice (see §10.6)
 
@@ -701,7 +701,7 @@ The following are 5–8 specific doctrinal/textual questions where the translati
 - **Omitted** (ESV, NASB, YLT, LSV, REV, CLV — all modern critical-text translations)
 - **Included** (KJV, NKJV — Textus Receptus tradition)
 - **Underlying Greek**: Comma appears in no Greek manuscript before the 16th century; Latin-only tradition
-- **Tag**: This is a textual-variant question, not an `[E]/[I]/[H]` claim. The passage as it appears in KJV is not in the original text. **Do not cite.**
+- **Tag**: This is a textual-variant question, not an `[E]/[I-band]/[H-band]` claim. The passage as it appears in KJV is not in the original text. **Do not cite.**
 
 ### Controversy 6 — *aionios* / *olam* — "eternal" or "age-during"?
 

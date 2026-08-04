@@ -10,7 +10,7 @@ argued from a Biblical Unitarian christological perspective.
 - `00_Master_Thesis.md` — frozen constitution (currently a stub; awaiting Version 1.0 freeze)
 - `01_Architecture_and_Outline.md` — proposed spine (5 parts, 16 chapters)
 - `02_Biblical_Research_Map.md` — passage list grouped by biblical division
-- `03_Working_Research_Notes.md` — tagged hypotheses [E]/[I]/[H]
+- `03_Working_Research_Notes.md` — plain research notes / hypotheses (see INTRO.md §I.5 for the `[E]/[I-band]/[H-band]` tagging convention used in chapter drafts)
 - `04_Review_and_Recommendations.md` — prior workspace review (Grok, 2026-08-04)
 - `source-notebook.md` — raw chat transcript (archive; not authoritative)
 - `prompts/` — AI agent personas used during drafting

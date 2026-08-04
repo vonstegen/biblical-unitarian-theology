@@ -76,7 +76,7 @@ Changes from v1.2 → v1.3 (literal-source reference set):
 
 ## Introduction (unnumbered)
 
-**Purpose:** scope, method, translation set, and the `[E]/[I]/[H]` tagging
+**Purpose:** scope, method, translation set, and the `[E]/[I-band]/[H-band]` tagging
 convention. Sets the reader's expectations and the author's commitments.
 
 - [ ] **I.1** State the working thesis verbatim from `00_Master_Thesis.md`
