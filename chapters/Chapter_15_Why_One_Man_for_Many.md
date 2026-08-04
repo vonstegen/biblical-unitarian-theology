@@ -12,6 +12,16 @@
 > underlying Greek/Hebrew is genuinely ambiguous. Per-translation biases
 > and limitations documented in `06_Translation_Bias_Documentation.md`.
 >
+> **Verification status of biblical quotations:**
+> - §15.2 (Romans 5:18–19, ESV; NASB 1995) — sourced from `06_Translation_Bias_Documentation.md` §10.7 rendering table.
+> - §15.4 (Romans 5:19 across translations) — sourced from the bias doc rendering table.
+> - §15.5 (Romans 5:18 across translations) — sourced from the bias doc rendering table.
+> - §15.6 (1 Corinthians 15:20–22, 45–49, ESV) — drafted from memory at first; **corrected and verified against esv.org after the fact**.
+> - §15.7 (Romans 5:12, ESV) — drafted as a paraphrase at first; **corrected to full quotation and verified against esv.org**.
+> - §15.8 reference (Ephesians 2:8–9) — cited, not quoted; verified against esv.org.
+>
+> Other biblical references in the chapter (e.g., Genesis genealogy, Romans 8:1, 1 Corinthians 1:30, 2 Corinthians 5:17, Galatians 3:28) are *pointers*, not load-bearing quotations; the user should verify them independently before publication.
+>
 > **Tagging:** Claims tagged `[E]` (explicit in the text), `[I]` (strong
 > implication from context), or `[H]` (hypothesis / inference) per the
 > methodology in `04_Review_and_Recommendations.md` §8.3.
@@ -87,11 +97,9 @@ What matters for the debt-debtor argument: the *dikaiōma* is one specific act �
 
 ## 15.6 The parallel in 1 Corinthians 15:20–22, 45–49
 
-Paul's "one man / many" structure appears again in 1 Corinthians 15:
-
-> "But in fact Christ has been raised from the dead, the firstfruits of those who have fallen asleep. For as by a man came death, by a man has come also the resurrection of the dead. For as in Adam all die, so also in Christ shall all be made alive." (1 Corinthians 15:20–22, ESV)
-
-> "Thus it is written, 'The first man Adam became a living being'; the last Adam became a life-giving spirit. But it is not the spiritual that is first but the natural, and then the spiritual. The first man was from the earth, a man of dust; the second man is from heaven. ... Just as we have borne the image of the man of dust, we shall also bear the image of the man of heaven." (1 Corinthians 15:45–49, ESV)
+> "But in fact Christ has been raised from the dead, the firstfruits of those who have fallen asleep. For as by a man came death, by a man has come also the resurrection of the dead. For as in Adam all die, so also in Christ shall all be made alive." (1 Corinthians 15:20–22, ESV; verified against esv.org)
+>
+> "Thus it is written, 'The first man Adam became a living being'; the last Adam became a life-giving spirit. But it is not the spiritual that is first but the natural, and then the spiritual. The first man was from the earth, a man of dust; the second man is from heaven. As was the man of dust, so also are those who are of the dust, and as is the man of heaven, so also are those who are of heaven. Just as we have borne the image of the man of dust, we shall also bear the image of the man of heaven." (1 Corinthians 15:45–49, ESV; verified against esv.org)
 
 Paul names Adam "the first man" and Christ "the last Adam" and "the second man" (or "the man of heaven"). The two are paired as parallel representatives, not as biological ancestors or generic metaphors. `[E]`
 
@@ -103,7 +111,7 @@ The claim that emerges from the Romans 5 + 1 Corinthians 15 texts, taken togethe
 
 Federal headship has two essential features, both of which are `[E]` in the text:
 
-1. **Universality of representation.** Adam's sin affects all who are "in Adam" (i.e. all humanity descended from him, per the Genesis genealogy and Paul's Romans 5:12 "death spread to all because all sinned"). Christ's obedience affects all who are "in Christ" (per Paul's many references to believers being "in Christ" — see also Romans 8:1; 1 Corinthians 1:30; 2 Corinthians 5:17; Galatians 3:28). The universality on both sides is structural, not selective.
+1. **Universality of representation.** Adam's sin affects all who are "in Adam" — i.e. all humanity descended from him, per Paul's framing: "Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned" (Romans 5:12, ESV; verified against esv.org). Christ's obedience affects all who are "in Christ" (per Paul's many references to believers being "in Christ" — see also Romans 8:1; 1 Corinthians 1:30; 2 Corinthians 5:17; Galatians 3:28). The universality on both sides is structural, not selective.
 
 2. **Sufficiency through the *one* structure.** Paul does not say "Christ's obedience is sufficient because God decided to count it as sufficient." He says Christ's obedience is sufficient because *one man's obedience* corresponds to *one man's disobedience* — and the parallel structure itself is what makes the transfer work.
 
