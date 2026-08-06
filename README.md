@@ -7,17 +7,20 @@ argued from a Biblical Unitarian christological perspective.
 
 **In progress.** This repository is a working archive, not a published manuscript.
 
-- `00_Master_Thesis.md` — frozen constitution (currently a stub; awaiting Version 1.0 freeze)
-- `01_Architecture_and_Outline.md` — proposed spine (5 parts, 16 chapters)
+- `00_Master_Thesis.md` — frozen constitution (working thesis, 10 research questions)
+- `01_Architecture_and_Outline.md` — outline v1.3 (17 chapters + 3 appendices)
 - `02_Biblical_Research_Map.md` — passage list grouped by biblical division
 - `03_Working_Research_Notes.md` — plain research notes / hypotheses (see INTRO.md §I.5 for the `[E]/[I-band]/[H-band]` tagging convention used in chapter drafts)
 - `04_Review_and_Recommendations.md` — prior workspace review (Grok, 2026-08-04)
+- `INTRO.md` — manuscript Introduction (first draft)
+- `06_Translation_Bias_Documentation.md` — sourced bias analysis for the citation set
+- `07_PhD_Roadmap.md` — operational plan for moving the project from current draft to PhD submission, including AI-collaboration disclosure
+- `chapters/` — drafted chapters (Chapter 1, Chapter 2, Chapter 3, Chapter 15)
 - `source-notebook.md` — raw chat transcript (archive; not authoritative)
 - `prompts/` — AI agent personas used during drafting
 
 See `04_Review_and_Recommendations.md` for the prior review and the recommended
-next steps (freeze Version 1.0, then draft Romans 5:12–21 as the first substantive
-chapter).
+next steps. See `07_PhD_Roadmap.md` for the path to PhD submission.
 
 ## Project thesis (working)
 
