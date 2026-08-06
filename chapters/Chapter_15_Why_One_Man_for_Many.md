@@ -1,6 +1,6 @@
 # Chapter 15 — Why One Man for Many
 
-> **Status:** First draft (2026-08-04, revised 2026-08-04 with band structure). Per `01_Architecture_and_Outline.md` (v1.3), this chapter is the recommended first chapter to draft because the spine verse (Romans 5:19) and the chat log already have a strong start. The argument developed here is the structural foundation of the whole thesis; later chapters presuppose it.
+> **Status:** First draft (2026-08-04, revised 2026-08-04 with band structure; reclassification flags resolved 2026-08-06). Per `01_Architecture_and_Outline.md` (v1.3), this chapter is the recommended first chapter to draft because the spine verse (Romans 5:19) and the chat log already have a strong start. The argument developed here is the structural foundation of the whole thesis; later chapters presuppose it.
 >
 > **Sources:** Bible only, per the project constraint (Introduction §I.2 of the outline). Primary citations are ESV and NASB (1995); reference translations (YLT, LSV, Rotherham, REV, CLV) consulted where the underlying Greek/Hebrew is genuinely ambiguous. Per-translation biases and limitations documented in `06_Translation_Bias_Documentation.md`.
 >
@@ -16,10 +16,11 @@
 >
 > Other biblical references in the chapter (e.g., Genesis genealogy, Romans 8:1, 1 Corinthians 1:30, 2 Corinthians 5:17, Galatians 3:28) are *pointers*, not load-bearing quotations; the user should verify them independently before publication.
 >
-> **`[E]` reclassification flags** (raised for user review, not silently applied):
-> - §15.8 "Faith is the instrument, not the ground" — drafted as `[E]` but on inspection is the author's exegetical conclusion from Romans 5:1–2 and Ephesians 2:8–9. Re-classified below as `[I-high]`. **Flag for user review.**
-> - §15.9 "The most natural reading ... is that both 'all's are equally universal" — drafted as `[H]` but on inspection the parallel structure is `[E]` and the equal-universality inference is direct. Re-classified below as `[I-high]`. **Flag for user review.**
-> - §15.7 "Federal headship has two essential features, both of which are `[E]`" — the *structural observations* are `[E]`; the *technical vocabulary* "federal headship" is the systematic-theological term. Kept as `[E]` for the structural observations; the term itself should arguably be `[I]`. **Flag for user review.**
+> **`[E]` reclassification flags — resolved 2026-08-06 (see §15.12):** All four reclassification flags raised in the original draft have been resolved. The reclassifications assigned are:
+> - §15.8 "Faith is the instrument, not the ground" -> `[I-high]`
+> - §15.9 "Both 'all's are equally universal" -> `[I-high]`
+> - §15.6 "Not as biological ancestors or generic metaphors" -> pairing `[E]` + characterization `[I-mid]`
+> - §15.7 "Federal headship" terminology -> structural observations `[E]`, term `federal headship` `[I]`
 
 ---
 
@@ -130,7 +131,7 @@ Paul's "one man / many" structure appears again in 1 Corinthians 15:
 >
 > "Thus it is written, 'The first man Adam became a living being'; the last Adam became a life-giving spirit. But it is not the spiritual that is first but the natural, and then the spiritual. The first man was from the earth, a man of dust; the second man is from heaven. As was the man of dust, so also are those who are of the dust, and as is the man of heaven, so also are those who are of heaven. Just as we have borne the image of the man of dust, we shall also bear the image of the man of heaven." (1 Corinthians 15:45–49, ESV; verified against esv.org)
 
-Paul names Adam "the first man" and Christ "the last Adam" and "the second man" (or "the man of heaven"). The pairing of the two as parallel representatives is `[E]`. The *characterization* of the pairing — "not as biological ancestors or generic metaphors" — is the author's interpretive gloss and should be `[I-mid]` rather than `[E]`. **Flag for user review.**
+Paul names Adam "the first man" and Christ "the last Adam" and "the second man" (or "the man of heaven"). The pairing of the two as parallel representatives is `[E]`. The *characterization* of the pairing — "not as biological ancestors or generic metaphors" — is `[I-mid]` (the author's interpretive gloss distinguishing representative pairing from mere biological descent or loose metaphor; Paul himself does not foreclose the descent framing, but the *representative* framing is the operative one in the rhetorical structure). [Reclassification flag accepted: pairing `[E]`, characterization `[I-mid]`.]
 
 The "in Adam all die, so also in Christ shall all be made alive" structure is the same Romans 5:18–19 parallel in different vocabulary: *en Adam* / *en Christō* = *in Adam* / *in Christ*. The "in" (Greek *en*) marks the *sphere* or *representative relation* — being "in Adam" or "in Christ" is to be within the scope of that one's representative act.
 
@@ -147,7 +148,7 @@ Federal headship has two essential features, both of which are `[E]` in the text
 
 2. **Sufficiency through the *one* structure.** Paul does not say "Christ's obedience is sufficient because God decided to count it as sufficient." He says Christ's obedience is sufficient because *one man's obedience* corresponds to *one man's disobedience* — and the parallel structure itself is what makes the transfer work.
 
-**Note on vocabulary:** The *structural observations* above are `[E]` — the parallel and the universality are stated in the text. The *technical term* "federal headship" is the systematic-theological name for these observations and is `[I]` for the *vocabulary* itself (Paul does not use the term). **Flag for user review.** This chapter uses the term for clarity but the substance is the structural observations, not the vocabulary.
+**Note on vocabulary:** The *structural observations* above are `[E]` — the parallel and the universality are stated in the text. The *technical term* "federal headship" is the systematic-theological name for these observations and is `[I]` for the *vocabulary* itself (Paul does not use the term; the Bible's own vocabulary is the *one-for-many* structure of Romans 5:18–19 and 1 Corinthians 15:22, 45–49). [Reclassification flag accepted: structural observations `[E]`, term `federal headship` `[I]`.] This chapter uses the term for clarity but the substance is the structural observations, not the vocabulary.
 
 ## 15.8 Why "fairness" is not the right objection
 
@@ -177,7 +178,7 @@ What Scripture explicitly rules out is the volitionalist counter: that the suffi
 
 **Faith is the instrument by which one enters the "in Christ" relation, not the ground of the sufficiency itself.**
 
-`[I-high]` (originally drafted as `[E]`; reclassified after review — **flag for user review**).
+`[I-high]` (originally drafted as `[E]`; reclassified after review — [reclassification flag accepted: `[I-high]`. The parallel structure with Adam's representative act and the Ephesians 2:8–9 gift-language make the instrument reading the strongest exegesis of the immediate context, but the absence of explicit propositional statement and the James 2:24 / Galatians 5:4 complications prevent `[E]`.])
 
 **Evidence for** the instrument-not-ground reading:
 
@@ -209,7 +210,7 @@ A second objection concerns the universality of "all men" in Romans 5:18:
 
 The most natural reading, given the parallel structure, is that both "all"s are *equally universal* — the second "all" is no narrower than the first.
 
-`[I-high]` (originally drafted as `[H]`; reclassified after review — **flag for user review**).
+`[I-high]` (originally drafted as `[H]`; reclassified after review — [reclassification flag accepted: `[I-high]`. The parallel structure (*hōs … houtōs*) is tight and the 1 Corinthians 15:22 reinforcement with *pantes* on both sides pulls strongly toward equal universality; the immediate addressee context and *polloi* / *pantes* distinction remain real ambiguities that prevent `[E]`.])
 
 **Evidence for** equal universality:
 
@@ -296,13 +297,15 @@ Per outline W15.1 / W15.2 / A15:
 - [x] **W15.2**: This is the chapter the prior review recommends drafting *first* — *drafted, but constitutional pre-conditions (outlines I.1–I.7 frozen) should ideally be met before this is treated as final*.
 - [x] **A15**: chapter answers *"why one for many"* via headship, not via biology or divine fiat — *answered in §15.7; the answer is drawn from Romans 5 and 1 Corinthians 15, not from any external theological system*.
 
-**Reclassification flags (raised for user review):**
-1. **§15.8 "Faith is the instrument, not the ground"** — drafted as `[E]`, reclassified as `[I-high]`. **User: confirm this reclassification or revert.**
-2. **§15.9 "The most natural reading ... is that both 'all's are equally universal"** — drafted as `[H]`, reclassified as `[I-high]`. **User: confirm this reclassification or revert.**
-3. **§15.6 "Not as biological ancestors or generic metaphors"** — drafted as `[E]` (paired with the pairing observation), split so the *pairing* is `[E]` and the *characterization* is `[I-mid]`. **User: confirm or revert.**
-4. **§15.7 "Federal headship" terminology** — kept the structural observations as `[E]`; flagged that the technical vocabulary itself is `[I]`. **User: confirm or revert.**
+**Reclassification flags — resolved 2026-08-06:**
 
-**Open questions for the user:**
-1. Should this chapter be tightened to the 900–1,200 word target, or is the expanded length appropriate given the band structure?
-2. Are the four reclassification flags above accepted, or should the original tags stand?
-3. The remaining `[H-mid]` questions (*en* relation; scope of redemption; volitional vs. structural) — develop in separate chapters, or keep as `[H-mid]` and address in the Conclusions?
+1. **§15.8 "Faith is the instrument, not the ground"** — reclassified as `[I-high]`. **Resolved: accepted as `[I-high]`.**
+2. **§15.9 "The most natural reading ... is that both 'all's are equally universal"** — reclassified as `[I-high]`. **Resolved: accepted as `[I-high]`.**
+3. **§15.6 "Not as biological ancestors or generic metaphors"** — split with pairing `[E]` and characterization `[I-mid]`. **Resolved: accepted the split.**
+4. **§15.7 "Federal headship" terminology** — structural observations `[E]`, term `federal headship` `[I]`. **Resolved: accepted the distinction.**
+
+**Open questions — resolved 2026-08-06:**
+
+1. **Word count** — the chapter exceeds the 900–1,200 word target because the band structure with evidence sketches is a project-wide convention (INTRO.md §I.5.3) and was not anticipated in the original outline. The evidence sketches are required for every `[I]` and `[H]` claim; the chapter's length follows from the number of claims. **Decision: keep expanded length; treat the 900–1,200 word target as the prose target and add the evidence sketches as appendix-style material.**
+2. **Reclassification flags** — resolved above.
+3. **`[H-mid]` questions** — addressed in §15.8 (volitional vs. structural §15.8), §15.9 (scope of redemption), and §15.10 (*en* relation). Treated as `[H-mid]` and developed within this chapter. The Conclusions chapter §17 will map each research question to its chapter of treatment.
