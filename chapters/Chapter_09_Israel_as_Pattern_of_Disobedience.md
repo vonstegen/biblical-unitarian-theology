@@ -44,7 +44,7 @@ Moses's retrospective reading of the wilderness generation frames the pattern ex
 
 > "Know therefore that the Lord your God is not giving you this good land to possess because of your righteousness, for you are a stubborn people. Remember and do not forget how you provoked the Lord your God to wrath in the wilderness. From the day you came out of the land of Egypt until you came to this place, you have been rebellious against the Lord." (Deuteronomy 9:6–7, ESV; verified against esv.org) `[E]`
 
-Three textual features matter. First, the *stubborn people* language (Hebrew *ʿam-qəšeh-ʿōrep̄*, "stiff-necked people") is the *people* descriptor — the *kind of being* the nation is, is the resistant kind. Second, the *not because of your righteousness* is the explicit denial of a merit-based grounding — the *kind of being* the covenant is for, is the stubborn kind, not the already-righteous kind. Third, the *rebellious* language is *from the day* language — the rebellion is co-temporal with the covenant's establishment, not subsequent to it.
+Three textual features matter. The *stubborn people* language (Hebrew *ʿam-qəšeh-ʿōrep̄*, "stiff-necked people") is the *people* descriptor — the nation is the resistant kind. The *not because of your righteousness* is the explicit denial of a merit-based grounding — the covenant is for the stubborn kind, not the already-righteous. The *rebellious* language is *from the day* language — the rebellion is co-temporal with the covenant's establishment, not subsequent to it.
 
 The chapter reads the passage as Moses's *insider* reading of the pattern: the people who received the covenant are the same kind of being the pattern describes. `[E]` for the textual content; `[I-high]` for the *pattern* reading (see §9.11).
 
@@ -90,9 +90,8 @@ The Psalm 78 passage is the *Asaph* reading of the pattern:
 
 > "Give ear, O my people, to my teaching; incline your ears to the words of my mouth! ... so that they should set their hope in God and not forget the works of God, but keep his commandments; and that they should not be like their fathers, a stubborn and rebellious generation, a generation whose heart was not steadfast, whose spirit was not faithful to God. The Ephraimites, armed with the bow, turned back on the day of battle. They did not keep God's covenant, but refused to walk according to his law. They forgot his works and the wonders that he had shown them." (Psalm 78:1, 7–11, ESV; verified against esv.org) `[E]`
 
-The *stubborn and rebellious generation* language (Hebrew *sōrēr ū-mōreh*, "rebellious and disobedient") is the *generation* descriptor — the *kind of being* the generation is, is the resistant kind. The *heart was not steadfast* language is the *heart* language — the *kind of being* the heart is, is the un-steadfast kind. The *did not keep God's covenant* language is the *covenant-breaking* language — the *kind of being* the covenant-breaking is, completes the triad: the people are *generation* (resistant), *heart* (un-steadfast), and *covenant* (breaking).
+Three Hebrew descriptors carry the pattern: *sōrēr ū-mōreh* (rebellious and disobedient) marks the *generation*; *heart was not steadfast* marks the *heart*; *did not keep God's covenant* marks the *covenant-breaking*. The triad is the chapter's *pattern* language: the people are resistant (generation), un-steadfast (heart), and covenant-breaking (covenant). The chapter reads the passage as the *Asaph* reading of the pattern: the OT internal reflection on the foundational Israel failure. `[E]` for the textual content; `[I-high]` for the *pattern* reading (see §9.11).
 
-The chapter reads the passage as the *Asaph* reading of the pattern: the OT internal reflection on the foundational Israel failure. `[E]` for the textual content; `[I-high]` for the *pattern* reading (see §9.11).
 
 ---
 
@@ -102,15 +101,15 @@ The Psalm 106 passage is the *Hallel* reading of the pattern, in three movements
 
 > "Both we and our fathers have sinned; we have committed iniquity; we have done wickedness. Our fathers, when they were in Egypt, did not consider your wondrous works; they did not remember the abundance of your steadfast love, but rebelled by the sea, at the Red Sea." (Psalm 106:6–7, ESV; verified against esv.org) `[E]`
 
-The *both we and our fathers* language is the *generational* language — the *kind of being* the generation is, is the same kind of being the foregoing generation is. The *rebelled by the sea* language is the *Red Sea* language — the rebellion begins at the *Exodus* itself, not only at the golden calf.
+The *both we and our fathers* language is the *generational* language — the generation is the same kind of being the foregoing generation is. The *rebelled by the sea* language is the *Red Sea* language — the rebellion begins at the *Exodus* itself, not only at the golden calf.
 
 > "They made a calf in Horeb and worshiped a metal image. They exchanged the glory of God for the image of an ox that eats grass. They forgot God, their Savior, who had done great things in Egypt." (Psalm 106:19–21, ESV; verified against esv.org) `[E]`
 
-The *made a calf in Horeb* and *exchanged the glory* language is the *Horeb* rendering of the golden calf (Psalm 106 calls it *Horeb*; Exodus 32 calls it *Horeb/Sinai*); the *exchanged the glory* language is the *exchange* language — the people trade the *glory* for the *image*.
+The *made a calf in Horeb* and *exchanged the glory* language is the *Horeb* rendering of the golden calf (Psalm 106 calls it *Horeb*; Exodus 32 calls it *Horeb/Sinai*); the *exchanged* is the *exchange* language — the people trade the *glory* for the *image*.
 
 > "Thus they became unclean by their acts, and played the whore in their deeds. Then the anger of the Lord was kindled against his people, and he abhorred his heritage; he gave them into the hand of the nations, so that those who hated them ruled over them. Their enemies oppressed them, and they were brought into subjection under their power. Many times he delivered them, but they were rebellious in their purposes and were brought low through their iniquity." (Psalm 106:39–43, ESV; verified against esv.org) `[E]`
 
-The *became unclean* and *played the whore* language is the *cultic* language — the idolatry is also the *uncleanness*, the *playing-the-whore* is the cultic-defection metaphor. The *gave them into the hand of the nations* language is the *handing-over* language — the same divine response as in Judges 2:14.
+The *became unclean* and *played the whore* language is the *cultic* language — the idolatry is also the *uncleanness*; *playing-the-whore* is the cultic-defection metaphor. The *gave them into the hand of the nations* is the *handing-over* language — the same divine response as in Judges 2:14.
 
 The chapter reads the passage as the *Hallel* reading: the recapitulation of the pattern with explicit *handing-over* language, ready for the *post-exilic* audience to confess. `[E]` for the textual content; `[I-high]` for the *pattern* reading (see §9.11).
 
@@ -122,7 +121,7 @@ The Acts 7 passage is the *Stephen* reading of the pattern — the *post-canonic
 
 > "Our fathers refused to obey him, but thrust him aside, and in their hearts they turned to Egypt, saying to Aaron, 'Make for us gods who will go before us. As for this Moses who led us out from the land of Egypt, we do not know what has become of him.' And they made a calf in those days, and offered a sacrifice to the idol and were rejoicing in the works of their hands. But God turned away and gave them over to worship the host of heaven, as it is written in the book of the prophets: 'Did you bring to me slain beasts and sacrifices, during the forty years in the wilderness, O house of Israel? You took up the tent of Moloch and the star of your god Rephan, the images that you made to worship; and I will send you into exile beyond Babylon.'" (Acts 7:39–43, ESV; verified against esv.org) `[E]`
 
-The *refused to obey him* and *thrust him aside* language is the *mediator-rejection* language — the *kind of being* the people are, rejects the mediator. The *turned to Egypt* language is the *return* language — the *in their hearts* is the *desire* direction, the *Egypt* is the *known* (cf. §9.4). The *gave them over to worship the host of heaven* language is the *handing-over* language — same as Judges 2:14 and Psalm 106:41. The *tent of Moloch* and *star of your god Rephan* language is the *exilic* language — the pattern reaches its *exile beyond Babylon* conclusion (the *post-exilic* Stephen reads the *prophetic* indictment forward into the Babylonian exile).
+The *refused to obey him* and *thrust him aside* language is the *mediator-rejection* language. The *turned to Egypt* language is the *return* language — *in their hearts* is the *desire* direction, *Egypt* is the *known* (cf. §9.4). The *gave them over to worship the host of heaven* language is the *handing-over* language — same as Judges 2:14 and Psalm 106:41. The *tent of Moloch* and *star of your god Rephan* language is the *exilic* language — the pattern reaches its *exile beyond Babylon* conclusion (the *post-exilic* Stephen reads the *prophetic* indictment forward into the Babylonian exile).
 
 The chapter reads the passage as the *Stephen* reading: the *post-canonical* interpretation that explicitly cites the *prophetic* indictment (Amos 5:25–27) and applies it to the foundational Israel failure. `[E]` for the textual content; `[I-high]` for the *pattern* reading (see §9.11).
 
@@ -134,7 +133,7 @@ The chapter engages Ezekiel 18:20 as the *individual-accountability* limit on th
 
 > "The soul who sins shall die. The son shall not suffer for the iniquity of the father, nor the father suffer for the iniquity of the son. The righteousness of the righteous shall be upon himself, and the wickedness of the wicked shall be upon himself." (Ezekiel 18:20, ESV; verified against esv.org) `[E]`
 
-The chapter reads this verse as the *complement* of the constitutional transmission, following Chapter 6 §6.8. The two operate on different axes: the *constitutional transmission* concerns the *ontic* state of the descendants (the *kind of being* the descendants are in Adam); the *Ezekiel 18* limit concerns the *forensic* assignment of punishment (the son is not forensically judged for the father's sin). The axes are distinct and non-contradictory: the son is ontically in Adam's constitution (and inherits the *bent* direction), and the son is forensically accountable only for his own sin.
+The chapter reads this verse as the *complement* of the constitutional transmission, following Chapter 6 §6.8. The two operate on different axes: the *constitutional transmission* concerns the *ontic* state of the descendants (the kind of being they are in Adam); the *Ezekiel 18* limit concerns the *forensic* assignment of punishment (the son is not forensically judged for the father's sin). The axes are distinct and non-contradictory: the son is ontically in Adam's constitution (and inherits the *bent* direction), and the son is forensically accountable only for his own sin.
 
 **Tagging:** `[E]` for the verse (the *son shall not suffer for the father* is explicit). `[I-mid]` for the *complement* interpretation (the axes distinction is the chapter's systematic reading; see Chapter 6 §6.8 evidence sketch for the canonical formulation).
 
@@ -151,9 +150,9 @@ The chapter reads this verse as the *complement* of the constitutional transmiss
 
 The chapter's *primary* claim is that Israel's history is the *covenant-scale* witness to the recurring pattern of disobedience that Chapter 8 establishes. The textual evidence is the *Exodus 32* (the golden calf), the *Deuteronomy 9:6–7* (the Moses reading), the *Numbers 14:2–4* (the murmuring), the *Judges 2:10–14* (the cyclical failure), the *2 Kings 17:7–12* (the exilic failure), the *Psalm 78:1, 7–11* (the Asaph reading), the *Psalm 106* (the Hallel reading), and the *Acts 7:39–43* (the Stephen reading).
 
-The chapter's *secondary* claim is that the *pattern* is the *kind of being* the *covenant recipient* is. The chapter commits to the *pattern* reading at `[I-high]` and explicitly notes that the *reading* is the chapter's, not the texts' direct statement.
+The chapter's *secondary* claim is that the *pattern* is the *covenant recipient's kind of being* — the recipients are the kind of being the pattern describes. The chapter commits to the *pattern* reading at `[I-high]`; the reading is the chapter's, not the texts' direct statement.
 
-The chapter's *fair engagement* with Ezekiel 18:20 is that the *individual accountability* is the *complement* of the constitutional transmission (`[I-mid]`). The two are not contradictory; the constitutional transmission is the *kind of being*; the individual accountability is the *forensic* judgment.
+The chapter's *fair engagement* with Ezekiel 18:20 is that the *individual accountability* is the *complement* of the constitutional transmission (`[I-mid]`). The two are not contradictory; the constitutional transmission is the ontic condition; the individual accountability is the *forensic* judgment.
 
 The chapter's *forward* reference is *preparation*, not *restoration*: the pattern prepares the question of Chapter 10 (what obedience does the covenant require?) and Chapters 11–14 (what kind of human redeemer can answer the pattern?). The chapter does not claim that the *Last Adam* is the *restoration* of the covenant recipient — that is a *soteriological* claim for Chapters 11–14 to argue from Romans 5 and 1 Corinthians 15. The chapter's forward reference is a *pointer*, not a *claim*.
 
