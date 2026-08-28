@@ -11,7 +11,7 @@ SRC="$BUILD/combined.md"
 
 # Versioned PDF filename for archiving.
 # Source the revision label and date from the same place the PDF metadata uses.
-REVISION_SLUG="v1.1-paired-11-15"              # v1.0 baseline; v1.1 re-grounds Chapter 11 (correspondence foundation) and aligns Chapter 15 to it as a paired acceptance gate
+REVISION_SLUG="v1.2-accepted-17ch"             # v1.0 baseline; v1.1 re-grounds Ch 11/15 as a paired gate; v1.2 = full final-acceptance pass (all 17 chapters + appendices accepted)
 DATE_STAMP="$(date -u '+%Y-%m-%d')"            # date only; archives don't need second-precision; the paired-foundation v1.1 draft uses the run date
 DRAFTS_DIR="$PROJECT/drafts"                   # archived PDFs go here, not in the project root
 OUT_PDF="$DRAFTS_DIR/rough_draft_${REVISION_SLUG}_${DATE_STAMP}.pdf"
