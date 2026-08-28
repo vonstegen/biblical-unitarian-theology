@@ -8,14 +8,18 @@ argued from a Biblical Unitarian christological perspective.
 **In progress.** This repository is a working archive, not a published manuscript.
 
 - `00_Master_Thesis.md` — frozen constitution (working thesis, 10 research questions)
-- `01_Architecture_and_Outline.md` — outline v1.3 (17 chapters + 3 appendices)
-- `02_Biblical_Research_Map.md` — passage list grouped by biblical division
-- `03_Working_Research_Notes.md` — plain research notes / hypotheses (see INTRO.md §I.5 for the `[E]/[I-band]/[H-band]` tagging convention used in chapter drafts)
+- `01_Architecture_and_Outline.md` — outline v1.4 (17 chapters + 3 appendices)
+- `02_Biblical_Research_Map.md` — short pointer to the full research map in `chapters/Appendix_D_*.md`
+- `03_Working_Research_Notes.md` — short pointer to the exploratory source notebook (see INTRO.md §I.5 for the `[E]/[I-band]/[H-band]` tagging convention used in chapter drafts)
 - `04_Review_and_Recommendations.md` — prior workspace review (Grok, 2026-08-04; historical archive)
+- `05_Research_and_Writing_Checklist.md` — superseded by `WORKFLOW_CHECKLIST.md`; historical
 - `INTRO.md` — manuscript Introduction (first draft)
 - `06_Translation_Bias_Documentation.md` — sourced bias analysis for the citation set
 - `07_PhD_Roadmap.md` — operational plan for moving the project from current draft to PhD submission, including AI-collaboration disclosure
+- `07_Ch07_Review.md`, `07_Ch09_Review.md`, `07_Ch10_Review.md` — chapter review notes (Ch 10 review reconciled 2026-08-28)
 - `chapters/` — drafted chapters (Chapters 1–17 and Appendices B–D)
+- `latex/` — pandoc/xelatex build pipeline (versioned PDFs land in `drafts/`, which is gitignored)
+- `outreach/` — external correspondence (email and project summary for Dr. Dustin R. Smith)
 - `source-notebook.md` — raw chat transcript (archive; not authoritative)
 - `prompts/` — AI agent personas used during drafting
 
