@@ -22,7 +22,7 @@ The working thesis from `00_Master_Thesis.md` is that humanity incurred a debt t
 
 4. **What exactly did Adam lose?** Chapter 5. The losses are relational rupture with the divine presence, fear of the divine presence, the curse on the ground, the toil of the ground, the mortality of the body, the pain in childbearing, the rupture in the husband-wife relation, the expulsion from the garden, the blocked access to the tree of life, the creation's futility and groaning, and the hope of the redemption of the body. Each is tagged with evidence sketches; the chapter refrains from over-claiming the mechanism of each loss (`[E]` for the textual losses; `[I-high]` or `[I-mid]` for the interpretation of each as a specific kind of loss).
 
-5. **What passed from Adam to humanity?** Chapter 6. Death passed to all (`[E]` — Romans 5:12; 1 Corinthians 15:22). The mechanism is ontic transmission: Adam's descendants are the kind of being his act produced (`[I-high]`). Forensic imputation of guilt is left open at `[I-mid]`. Ezekiel 18:20 is the limit on direct imputation and is engaged fairly as complementary to the ontic condition.
+5. **What passed from Adam to humanity?** Chapter 6. Death passed to all (`[E]` — Romans 5:12; 1 Corinthians 15:22). The mechanism is ontic transmission: Adam's act produced the condition his descendants inherit (`[I-high]`). Forensic imputation of guilt is left open at `[I-mid]`. Ezekiel 18:20 is the limit on direct imputation and is engaged fairly as complementary to the ontic condition.
 
 6. **What role do innocence, children, and moral accountability play?** Chapter 7. Childhood is a real developmental moral category distinct from adult accountability. The text treats the child as a kind of person who is not held accountable in the adult sense. The age of accountability is `[H-mid]` — a plausible systematic inference but not a textual assertion. Innocence is meaningful without committing to a specific age.
 
@@ -44,7 +44,7 @@ The project is Bible-only. Some questions remain open because the text itself do
 - The specific age of accountability is `[H-mid]` (Chapter 7).
 - The exact nature of the "in Adam" / "in Christ" relation (sphere, organic union, or legal inclusion) is `[H-mid]` (Chapter 15).
 - The scope of the "all" in Romans 5:18 (coextensive with the "all" of condemnation or limited to believers) is `[I-high]` (Chapter 15).
-- The relationship between the Father's will and the Son's will in Gethsemane is the textual categories the biblical authors supply; the later systematic formulation of "two wills" is `[I]` (Chapter 13).
+- The relationship between the Father's will and the Son's will in Gethsemane is the textual categories the biblical authors supply; the later systematic formulation of "two wills" is `[I-mid]` (Chapter 13).
 - The lexical choice for *monogenēs* ("only" or "only begotten") is left open with the range of readings from the translation set (Chapter 1 and Appendix B).
 
 The project stands behind the `[H-mid]` and `[I-high]` claims as hypotheses worth defending from the text. The open questions are not hedges; they are the boundary of what the text itself asserts.

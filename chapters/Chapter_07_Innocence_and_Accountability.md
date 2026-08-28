@@ -12,7 +12,7 @@
 
 ## 7.1 The question
 
-Chapter 6 established that the *constitutional* consequence of Adam's sin — death, corruption, the inherited condition — passed to all humanity. *Constitutional* here means the ontic state or kind of being that descendants inherit from Adam. The remaining question is whether the *forensic* consequence also passes: does God hold the child morally accountable in the same way as the adult? *Forensic* here means how God judges: who is held responsible, on what basis, and to what extent.
+Chapter 6 established that the *constitutional* consequence of Adam's sin — death, corruption, the inherited condition — passed to all humanity. *Constitutional* here means the ontic state — the inherited condition — that descendants receive from Adam. The remaining question is whether the *forensic* consequence also passes: does God hold the child morally accountable in the same way as the adult? *Forensic* here means how God judges: who is held responsible, on what basis, and to what extent.
 
 This chapter argues that the biblical text treats childhood as a real developmental moral category distinct from adult accountability. It does not commit to a specific "age of accountability." The acceptance criterion (A7) is that innocence is meaningful in Scripture without committing to a specific age.
 

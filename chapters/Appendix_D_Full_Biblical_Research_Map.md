@@ -33,7 +33,7 @@ The map is `[E]` for the index (the passages are the ones used in the chapters);
 - **Genesis 3:16** — Chapter 5, `[E]`, "the pain in childbearing and the rupture in the husband-wife relation." The pain and the rule are the consequences on the woman's domain and the pair-relation; the pre-Fall condition was the united pair.
 - **Genesis 3:17–19** — Chapter 5, `[E]`, "the curse on the ground, the toil of the ground, the mortality of the body." The cursed ground, the sweat of the face, and the return to dust are the consequences on the man's labor and the body; the pre-Fall condition was the uncursed ground and the un cursed body.
 - **Genesis 3:23–24** — Chapter 5, `[E]`, "the expulsion from the garden and the blocked access to the tree of life." The expulsion and the cherubim with the flaming sword are the consequences on access to the divine presence and the tree of life; the pre-Fall condition was the place of the divine presence.
-- **Genesis 5:1–3** — Chapter 6, `[E]`, "the constitutional likeness — Seth in Adam's likeness and image." The pattern is image/likeness; Seth is the kind of being Adam is. The constitutional reading is `[I-mid]` (the physical sense is default; the Pauline framework tips it toward ontic).
+- **Genesis 5:1–3** — Chapter 6, `[E]`, "the constitutional likeness — Seth in Adam's likeness and image." The pattern is image/likeness; Seth shares Adam's kind. The constitutional reading is `[I-mid]` (the physical sense is default; the Pauline framework tips it toward ontic).
 - **Genesis 6:5** — Chapter 6, `[E]`, "the pre-flood condition — every intention of the thoughts of his heart was only evil continually." The condition is pervasive; the verse supports the ontic reading (`[I-mid]` for the constitutional reading).
 - **Genesis 8:21** — Chapter 6, `[E]`, "the post-flood observation — the intention of man's heart is evil from his youth." The condition is "from his youth"; the verse supports the ontic reading (`[I-mid]` for the constitutional reading).
 - **Genesis 11:4, 6, 9** — Chapter 8, `[E]`, "Babel — the collective self-exaltation and resistance to dispersion." The episode is the collective form of the pattern; the pattern is `[I-mid]` for the interpretation as recurring disobedience.
@@ -197,7 +197,7 @@ The map is `[E]` for the index (the passages are the ones used in the chapters);
 
 ## D.23 Ephesians
 
-- **Ephesians 2:1–3** — Chapter 6, `[E]`, "you were dead in the trespasses and sins... by nature children of wrath." The constitutional condition after redemption — the kind of being the descendants are in Adam is the kind of being that stands under wrath by nature.
+- **Ephesians 2:1–3** — Chapter 6, `[E]`, "you were dead in the trespasses and sins... by nature children of wrath." The constitutional condition after redemption — those who are in Adam are, by nature, under wrath.
 - **Ephesians 2:15** — Chapter 16, `[E]`, "one new man" in Christ. The new humanity is the "one new man" in the last Adam.
 - **Ephesians 4:24** — Chapter 16, `[E]`, "the new self, created after the likeness of God." The new humanity is the new self created after the likeness of God.
 

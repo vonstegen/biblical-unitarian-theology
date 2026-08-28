@@ -20,7 +20,7 @@
 > - §15.8 "Faith is the instrument, not the ground" -> `[I-high]`
 > - §15.9 "Both 'all's are equally universal" -> `[I-high]`
 > - §15.6 "Not as biological ancestors or generic metaphors" -> pairing `[E]` + characterization `[I-mid]`
-> - §15.7 "Federal headship" terminology -> structural observations `[E]`, term `federal headship` `[I]`
+> - §15.7 "Federal headship" terminology -> structural observations `[E]`, term `federal headship` `[I-mid]`
 > - §15.7 "the one structure explains sufficiency" -> `[I-high]`, separated from the explicit one-act / many-recipients structure
 
 ---
@@ -149,7 +149,7 @@ The "in Adam all die, so also in Christ shall all be made alive" structure is th
 
 ## 15.7 The federal headship claim itself
 
-The claim that emerges from the Romans 5 + 1 Corinthians 15 texts, taken together, is what systematic theology calls federal headship: Adam and Christ are heads of the respective humanities they represent, and their acts have constitutive effects within those humanities. The technical term is `[I]`; the underlying one-for-many observations are drawn from the text itself.
+The claim that emerges from the Romans 5 + 1 Corinthians 15 texts, taken together, is what systematic theology calls federal headship: Adam and Christ are heads of the respective humanities they represent, and their acts have constitutive effects within those humanities. The technical term is `[I-mid]` (the text does not use the term; it names the project's shorthand for observations the text itself states); the underlying one-for-many observations are drawn from the text itself.
 
 Federal headship has two distinguishable features:
 

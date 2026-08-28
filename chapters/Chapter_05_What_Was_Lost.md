@@ -64,7 +64,7 @@ The chapter's *negative* claim — that the image of God is *not lost* in the fa
 
 > "Whoever sheds the blood of man, by man shall his blood be shed, for God made man in his own image." (Genesis 9:6, ESV; verified against esv.org on 2026-08-07) `[E]`
 
-The verse is *post-Flood* (the Noahic covenant). The image is the *post-Fall* basis for the *forensic* protection of the human — the human is *still* the kind of being the divine punishment is exacted to protect. The image is *not* lost.
+The verse is *post-Flood* (the Noahic covenant). The image is the *post-Fall* basis for the *forensic* protection of the human — the human *still* bears the image that grounds the sanction of Genesis 9:6. The image is *not* lost.
 
 > "For a man ought not to cover his head, since he is the image and glory of God, but woman is the glory of man." (1 Corinthians 11:7, ESV; verified against esv.org on 2026-08-07) `[E]`
 

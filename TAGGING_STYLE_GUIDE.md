@@ -158,13 +158,13 @@ The verification log is part of the chapter's acceptance check; the manuscript's
 2. **`[E]` for explicit text.** Cite the passage; no sketch required.
 3. **`[I-band]` for strong implications.** Cite the passage(s) and carry an evidence sketch with for / against / band justification.
 4. **`[H-band]` for hypotheses.** Cite the passage(s) and carry an evidence sketch with for / against / band justification.
-5. **No external sources as evidence.** Secondary sources are mentioned only to identify or dismiss competing positions, never as evidence for the project's claims.
-6. **No numerical probabilities.** The band is the qualitative confidence judgment.
-7. **No hedge phrases.** State the claim with the band and let the evidence sketch carry the audit.
-8. **Cross-link every chapter** to the chapters it presupposes and the chapters that presuppose it.
-9. **Verify every load-bearing quotation** against esv.org with a date noted.
-10. **When in doubt, lower the band.** `[I-mid]` recoverable; `[E]` misrepresentation is not.
-
+5. **Vocabulary terms the text does not use** (e.g., "federal headship," "ontic transmission") are tagged `[I-mid]` for the vocabulary, with the underlying textual observations tagged separately. No bare `[I]` or `[H]` — every non-explicit tag carries a band.
+6. **No external sources as evidence.** Secondary sources are mentioned only to identify or dismiss competing positions, never as evidence for the project's claims.
+7. **No numerical probabilities.** The band is the qualitative confidence judgment.
+8. **No hedge phrases.** State the claim with the band and let the evidence sketch carry the audit.
+9. **Cross-link every chapter** to the chapters it presupposes and the chapters that presuppose it.
+10. **Verify every load-bearing quotation** against esv.org with a date noted.
+11. **When in doubt, lower the band.** `[I-mid]` recoverable; `[E]` misrepresentation is not.
 ---
 
 *This style guide is binding project-wide. Changes require an update to `INTRO.md` §I.5 and a new WORKFLOW_CHECKLIST version. The guide is itself Bible-only compliant — it describes the project's method, not its theology.*

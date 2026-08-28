@@ -12,7 +12,7 @@
 
 ## 6.1 The question
 
-Chapter 5 inventoried what Adam immediately lost. This chapter asks what *passed* from Adam to his descendants. The primary claim is that *death passed to all* — this is explicit (`[E]`). The mechanism is ontic: Adam's descendants are the kind of being his act produced (`[I-high]`). Whether a forensic imputation of guilt is layered on top is left open at `[I-mid]`.
+Chapter 5 inventoried what Adam immediately lost. This chapter asks what *passed* from Adam to his descendants. The primary claim is that *death passed to all* — this is explicit (`[E]`). The mechanism is ontic: Adam's act produced the condition his descendants inherit (`[I-high]`). Whether a forensic imputation of guilt is layered on top is left open at `[I-mid]`.
 
 The chapter distinguishes three possible positions for the reader:
 1. Imputation of sin (forensic).
@@ -59,7 +59,7 @@ The parallel is *in Adam / in Christ*. The preposition *en* marks representative
 
 > "When God created man, he made him in the likeness of God. When Adam had lived 130 years, he fathered a son in his own likeness, after his image, and named him Seth." (Genesis 5:1, 3, ESV; verified against esv.org) `[E]`
 
-The pattern is *image/likeness*. Seth is "in his own likeness, after his image." This supports the ontic reading: descendants are the kind of being Adam is. The physical reading is default; the constitutional reading depends on the Pauline framework.
+The pattern is *image/likeness*. Seth is "in his own likeness, after his image." This supports the ontic reading: the descendants share Adam's kind. The physical reading is default; the constitutional reading depends on the Pauline framework.
 
 **Tagging:** `[E]` for the likeness language. `[I-mid]` for the constitutional reading (physical sense is primary; Pauline parallel tips it toward ontic).
 
@@ -76,7 +76,7 @@ The pattern is *image/likeness*. Seth is "in his own likeness, after his image."
 
 > "The intention of man's heart is evil from his youth." (Genesis 8:21, ESV; verified against esv.org) `[E]`
 
-These verses describe a condition present "continually" and "from his youth." They support the ontic reading: the bent direction is part of the kind of being Adam's descendants are. They do not by themselves prove the mechanism of transmission.
+These verses describe a condition present "continually" and "from his youth." They support the ontic reading: the bent direction characterizes Adam's descendants. They do not by themselves prove the mechanism of transmission.
 
 **Tagging:** `[E]` for the textual description. `[I-mid]` for the ontic-transmission reading (the verses describe the condition; the link to Adam's act is inferential).
 
@@ -104,7 +104,7 @@ Romans 5:13–14 states that death reigned from Adam to Moses even over those wh
 
 > "And you were dead in the trespasses and sins in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience — among whom we all once lived in the passions of our flesh, carrying out the desires of the flesh and the mind, and were by nature children of wrath, like the rest of mankind." (Ephesians 2:1–3, ESV; verified against esv.org) `[E]`
 
-The *dead in trespasses and sins* and *by nature children of wrath* language describes the constitutional condition inherited from Adam. The *we all once lived* includes the writer and his readers — the condition is universal. The chapter reads this as the post-redemption description of the ontic transmission: the kind of being the descendants are *in Adam* is the kind of being that stands under wrath by nature.
+The *dead in trespasses and sins* and *by nature children of wrath* language describes the constitutional condition inherited from Adam. The *we all once lived* includes the writer and his readers — the condition is universal. The chapter reads this as the post-redemption description of the ontic transmission: those who are *in Adam* are, by nature, under wrath.
 
 **Tagging:** `[E]` for the textual description. `[I-high]` for the ontic-transmission reading (the language of "by nature" and "we all once lived" strongly supports the constitutional condition).
 
@@ -119,7 +119,7 @@ The *dead in trespasses and sins* and *by nature children of wrath* language des
 
 > "Behold, I was brought forth in iniquity, and in sin did my mother conceive me." (Psalm 51:5, ESV; verified against esv.org) `[E]`
 
-This is David's personal confession in the context of his sin with Bathsheba. The verse is the *classic* Davidic confession. It is *not* a universal-original-sin claim in its literary context. The chapter treats it as `[I-low]` at best — the Davidic confession is real ("I was brought forth in iniquity") but the interpretation as a universal claim requires importing the Pauline ontic framework. The verse is consistent with the ontic transmission (David, as a descendant of Adam, is the kind of being the ontic transmission describes) but is not the source of that claim. It is treated as parallel/supporting evidence rather than primary.
+This is David's personal confession in the context of his sin with Bathsheba. The verse is the *classic* Davidic confession. It is *not* a universal-original-sin claim in its literary context. The chapter treats it as `[I-low]` at best — the Davidic confession is real ("I was brought forth in iniquity") but the interpretation as a universal claim requires importing the Pauline ontic framework. The verse is consistent with the ontic transmission (David, as a descendant of Adam, bears the condition the ontic transmission describes) but is not the source of that claim. It is treated as parallel/supporting evidence rather than primary.
 
 **Tagging:** `[E]` for the verse. `[I-low]` for the universal-original-sin reading (the literary context is Davidic confession; the universal reading is an inference).
 
@@ -136,7 +136,7 @@ This is David's personal confession in the context of his sin with Bathsheba. Th
 
 > "What is man, that he can be pure? Or he who is born of a woman, that he can be righteous? Behold, God puts no trust in his holy ones, and the heavens are not pure in his sight; how much less one who is abominable and corrupt, a man who drinks injustice like water!" (Job 15:14–16, ESV; verified against esv.org) `[E]`
 
-These are wisdom reflections on the human condition. They do not state a doctrinal original-sin claim; they are observations that the kind of being humans are is the kind of being for which evil is the natural outcome. The chapter reads them as supporting the ontic transmission: the unclean cannot produce the clean except by intervention. The intervention is the forward reference to Chapter 11 (the last Adam who is the kind of being the clean is).
+These are wisdom reflections on the human condition. They do not state a doctrinal original-sin claim; they observe that for humans as they are, evil is the natural outcome. The chapter reads them as supporting the ontic transmission: the unclean cannot produce the clean except by intervention. The intervention is the forward reference to Chapter 11 (the last Adam, the clean one).
 
 **Tagging:** `[E]` for the textual description. `[I-mid]` for the ontic-transmission reading (the verses describe the condition; the link to Adam's act is inferential).
 
@@ -151,7 +151,7 @@ These are wisdom reflections on the human condition. They do not state a doctrin
 
 > "And he made from one man every nation of mankind to live on all the face of the earth, having determined allotted periods and the boundaries of their dwelling place." (Acts 17:26, ESV; verified against esv.org) `[E]`
 
-Paul's Areopagus sermon states that every nation is made from one man (Adam). The *one man* language is the same as in Romans 5:12. This is the ethnographic confirmation of the *in Adam* relation: every human being is the kind of being descended from Adam. The textual evidence is the *one man* language; the interpretation as ontic transmission relies on the Pauline framework.
+Paul's Areopagus sermon states that every nation is made from one man (Adam). The *one man* language is the same as in Romans 5:12. This is the ethnographic confirmation of the *in Adam* relation: every human being is descended from Adam. The textual evidence is the *one man* language; the interpretation as ontic transmission relies on the Pauline framework.
 
 **Tagging:** `[E]` for the *one man* language. `[I-mid]` for the ontic-transmission reading.
 
@@ -194,7 +194,7 @@ The same individual-accountability principle is anchored in the Mosaic law (Deut
 
 ## 6.13 Synthesis
 
-The primary claim is that *death passed to all* through one man (`[E]`). The secondary claim is ontic transmission: Adam's descendants are the kind of being his act produced (`[I-high]`). Forensic imputation of guilt is left open at `[I-mid]`. Ezekiel 18:20 and Jeremiah 31:29–30 are the limits on direct imputation and are engaged fairly as complementary to the ontic condition. The chapter distinguishes what the text explicitly says from what it implies, avoiding over-claim on the mechanism of guilt.
+The primary claim is that *death passed to all* through one man (`[E]`). The secondary claim is ontic transmission: Adam's act produced the condition his descendants inherit (`[I-high]`). Forensic imputation of guilt is left open at `[I-mid]`. Ezekiel 18:20 and Jeremiah 31:29–30 are the limits on direct imputation and are engaged fairly as complementary to the ontic condition. The chapter distinguishes what the text explicitly says from what it implies, avoiding over-claim on the mechanism of guilt.
 
 Forward references are to Chapter 9 (individual accountability), Chapters 11–14 (the obedient representative who answers the condition), and Chapter 16 (the constitutional restoration).
 

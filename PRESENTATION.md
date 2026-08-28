@@ -40,7 +40,7 @@ The manuscript is organized in five parts, with three appendices.
 
 - **[`chapters/Chapter_05_What_Was_Lost.md`](chapters/Chapter_05_What_Was_Lost.md)** — *What exactly did Adam lose?* The chapter inventories eleven losses, each tagged with its textual basis and band: relational rupture with the divine presence, fear of the divine presence, the curse on the ground, the toil of the ground, the mortality of the body, the pain in childbearing, the rupture in the husband-wife relation, the expulsion from the garden, the blocked access to the tree of life, the creation's futility and groaning, and the hope of the redemption of the body. The image-of-God is *marred* (not lost; the image is constitutionally present post-Fall per Genesis 9:6; James 3:9; 1 Corinthians 11:7; Colossians 3:10; Ephesians 4:24) and will be *renewed* in the restoration.
 
-- **[`chapters/Chapter_06_What_Passed_to_Humanity.md`](chapters/Chapter_06_What_Passed_to_Humanity.md)** — *What passed from Adam to humanity?* Death passed to all — `[E]` from Romans 5:12 ("death spread to all men because all sinned") and 1 Corinthians 15:22 ("in Adam all die"). The mechanism is ontic transmission at `[I-high]`: Adam's descendants are the kind of being his act produced. Forensic imputation of guilt is left open at `[I-mid]`. Ezekiel 18:20 ("the son shall not suffer for the iniquity of the father") is the limit on direct imputation and is engaged fairly as complementary to the ontic condition.
+- **[`chapters/Chapter_06_What_Passed_to_Humanity.md`](chapters/Chapter_06_What_Passed_to_Humanity.md)** — *What passed from Adam to humanity?* Death passed to all — `[E]` from Romans 5:12 ("death spread to all men because all sinned") and 1 Corinthians 15:22 ("in Adam all die"). The mechanism is ontic transmission at `[I-high]`: Adam's act produced the condition his descendants inherit. Forensic imputation of guilt is left open at `[I-mid]`. Ezekiel 18:20 ("the son shall not suffer for the iniquity of the father") is the limit on direct imputation and is engaged fairly as complementary to the ontic condition.
 
 ### Part III — The Pattern of Disobedience (Innocence, Growth, Israel, Prophetic Critique)
 
@@ -89,7 +89,7 @@ The manuscript is organized in five parts, with three appendices.
 - **[`04_Review_and_Recommendations.md`](04_Review_and_Recommendations.md)** — methodology review of the project.
 - **[`05_Research_and_Writing_Checklist.md`](05_Research_and_Writing_Checklist.md)** — superseded by [`WORKFLOW_CHECKLIST.md`](WORKFLOW_CHECKLIST.md); retained for the project history.
 - **[`06_Translation_Bias_Documentation.md`](06_Translation_Bias_Documentation.md)** — per-translation bias and limitations analysis (secondary documentation not used as evidence for theological claims).
-- **[`07_Ch07_Review.md`](07_Ch07_Review.md)** and **[`07_Ch09_Review.md`](07_Ch09_Review.md)** — review notes on Chapters 7 and 9, written before the efficiency and clarity pass.
+- **[`07_Ch07_Review.md`](07_Ch07_Review.md)**, **[`07_Ch09_Review.md`](07_Ch09_Review.md)**, and **[`07_Ch10_Review.md`](07_Ch10_Review.md)** — review notes on Chapters 7, 9, and 10 (all reconciled).
 - **[`07_PhD_Roadmap.md`](07_PhD_Roadmap.md)** — PhD-aspiration notes (methodology chapter, relaxed Bible-only appendix, 140k–165k word target); deferred unless the user requests.
 - **[`source-notebook.md`](source-notebook.md)** — exploratory research notes (treated as a source notebook, not the paper).
 - **[`WORKFLOW_CHECKLIST.md`](WORKFLOW_CHECKLIST.md)** — authoritative project status (single source of truth).

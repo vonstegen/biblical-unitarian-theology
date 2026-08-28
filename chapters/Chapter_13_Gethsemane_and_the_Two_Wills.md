@@ -112,7 +112,7 @@ The textual categories are:
 
 The chapter treats the "two wills" as the textual categories the biblical authors themselves supply. The categories are `[E]` (the text names both wills). The interpretation of the two-wills pattern as a standing relation of Father and Son, not an anomaly introduced by the crisis, is `[I-high]` (the Johannine parallels strongly support the standing reading; the absence of a propositional statement in those exact terms prevents `[E]`).
 
-The chapter therefore does not stake its argument on the Chalcedonian or post-Chalcedonian formulation of two wills; it stakes the argument on the textual categories the Synoptic and Johannine writers themselves supply. The categories are textual; the later systematic synthesis is `[I]`.
+The chapter therefore does not stake its argument on the Chalcedonian or post-Chalcedonian formulation of two wills; it stakes the argument on the textual categories the Synoptic and Johannine writers themselves supply. The categories are textual; the later systematic synthesis is `[I-mid]` (a defensible but non-biblical label for the textual categories).
 
 ---
 

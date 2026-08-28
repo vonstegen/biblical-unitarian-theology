@@ -95,7 +95,7 @@ The chapter does not depend on the question. Whether or not the Edenic relation 
 
 Drawing the threads together: the creation of Adam is the placement of a creature with a specific kind of vocation. Three features are explicit in the text.
 
-**First**, the creature is image-bearing. Adam is not a private individual; he is the kind of being that images God. The image is constitutive — it is what makes Adam human (Genesis 5:1; 9:6; James 3:9). The image grounds the kind of treatment Adam is due and the kind of dominion Adam is to exercise. `[E]`
+**First**, the creature is image-bearing. Adam is not a private individual; he is made to image God. The image is constitutive — it is what makes Adam human (Genesis 5:1; 9:6; James 3:9). The image grounds the kind of treatment Adam is due and the kind of dominion Adam is to exercise. `[E]`
 
 **Second**, the creature is finite. "The heavens are the Lord's heavens, but the earth he has given to the children of man" (Psalm 115:16, ESV; verified against esv.org on 2026-08-07) `[E]`. Adam is not given heaven; he is given the earth. The garden is a bounded place; the vocation is a bounded task. Adam's obedience is the obedience of a finite creature to a finite calling — not the autonomy of an infinite will. The later chapters will see this finitude as the reason a human representative is needed, not a God-man; the present chapter simply notes it. `[E]` for the text; the systematic implication is `[I-high]`.
 
@@ -134,7 +134,7 @@ From these three, the next chapter's claims follow. Adam is not just made; he is
 
 ## 2.9 What Adam owed God from the start
 
-The chapter's answer to the question *what did Adam owe God from the start?* is now in place. Adam owed God obedience — a faithful working-out of the vocation of image-bearing dominion, within the limits God set, in the place God placed him. The obedience was not mercenary; it was the kind of being the image-bearer is. The image grounds the obedience; the obedience grounds the representation; the representation grounds the debt-debtor framework that the rest of the paper develops.
+The chapter's answer to the question *what did Adam owe God from the start?* is now in place. Adam owed God obedience — a faithful working-out of the vocation of image-bearing dominion, within the limits God set, in the place God placed him. The obedience was not mercenary; it was native to the image-bearer. The image grounds the obedience; the obedience grounds the representation; the representation grounds the debt-debtor framework that the rest of the paper develops.
 
 How the limit *worked* — what it meant for Adam to be subject to the tree-of-knowledge restriction, and what the *penalty* for transgression was — is the subject of the next chapter. The present chapter confines itself to the creation and vocation; the covenant is the next story.
 
