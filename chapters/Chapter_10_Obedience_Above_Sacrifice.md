@@ -6,7 +6,7 @@
 
 > **Tagging:** Every `[I]` and `[H]` claim carries a low/mid/high confidence band and a crisp evidence sketch per `INTRO.md` §I.5. `[E]` claims state the text directly.
 
-> **Verification status of biblical quotations:** All load-bearing quotations were verified against esv.org on 2026-08-07 and are listed in §10.10.
+> **Verification status of biblical quotations:** All load-bearing quotations were verified against esv.org on 2026-08-07 and are listed in §10.12.
 
 ---
 
@@ -161,6 +161,7 @@ Per outline R10.1 / R10.2 / W10.1 / A10 (word efficiency and clarity prioritized
 - [x] R10.1: All "obedience vs. sacrifice" passages inventoried and engaged (1 Sam 15:22–23, Hosea 6:6, Matt 9:13 and 12:7, Isa 1:11–17, Jer 7:21–23, Amos 5:21–24, Mic 6:6–8, Ps 51:16–17).
 - [x] R10.2: "Sacrifice without obedience rejected" distinguished from "God doesn't care about sacrifice." Accomplished in §10.1 and §10.10.
 - [x] W10.1: The OT prophetic critique as sacrifice without repentance, not sacrifice itself. Prose is now clear and efficient (~1,100 words); repetition of the template removed.
+- [x] A10: Chapter answers "what kind of obedience does God require?" and supplies the language for Christ's active obedience in Chapter 12. Accomplished in §10.8 (Micah 6:8 as the direct answer) and §10.10 (the obedience the prophets called for is the language for the last Adam).
 **Forward links:** To Chapter 12 (the language for Christ's active obedience, from §10.10), Chapter 9 (the prophetic critique as the divine response to the covenant-scale pattern of disobedience established there), and Chapter 15 (the sufficiency of one man's obedience). All kept as pointers.
 
 
