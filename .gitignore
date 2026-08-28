@@ -16,6 +16,9 @@
 !docs/*.docx
 !docs/*.pdf
 
+# LaTeX build artifacts
+latex/build/
+
 # Local notes
 *.local.md
 drafts/
