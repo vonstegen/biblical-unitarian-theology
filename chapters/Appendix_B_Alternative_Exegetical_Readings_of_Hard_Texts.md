@@ -6,7 +6,7 @@
 
 > **Tagging:** Every `[I]` and `[H]` claim carries a low/mid/high confidence band and an enumerable evidence sketch per `INTRO.md` §I.5. `[E]` claims state the text directly. The readings are presented as `[H-mid]` hypotheses where the text is genuinely ambiguous.
 
-> **Verification status of biblical quotations:** All load-bearing quotations were verified against esv.org on 2026-08-07 and are listed in §B.6.
+> **Verification status of biblical quotations:** All load-bearing quotations were verified against esv.org on 2026-08-07 and are listed in §B.10.
 
 ---
 
@@ -122,10 +122,10 @@ The hard texts do not disprove the debt-debtor thesis; they are the places where
 
 Per outline for Appendix B and the updated checklist (word efficiency and clarity prioritized):
 
-- [x] High-Christology passages presented with competing readings fairly with tags. All listed passages (John 1:1, Philippians 2:6, Colossians 1:15, Hebrews 1, John 20:28, Titus 2:13, 2 Peter 1:1) engaged with the range of readings from the translation set.
-- [x] No reading used as evidence for a theological claim. The project notes the ambiguity and leaves the reader to evaluate.
-- [x] All claims tagged with evidence sketches; no over-claiming. The ambiguity is `[E]`; the interpretations are `[H-mid]`.
-- [x] Prose is clear and readable; length ~1,400 words of efficient prose.
+- [x] High-Christology passages presented with competing readings fairly with tags. All listed passages (John 1:1, Philippians 2:6, Colossians 1:15, Hebrews 1, John 20:28, Titus 2:13, 2 Peter 1:1) engaged with the range of readings from the translation set — made in §B.2–B.7.
+- [x] No reading used as evidence for a theological claim. The project notes the ambiguity and leaves the reader to evaluate — made in §B.2–B.7 (each reading notes the range and leaves the reader to evaluate).
+- [x] All claims tagged with evidence sketches; no over-claiming. The ambiguity is `[E]`; the interpretations are `[H-mid]` — made in §B.2–B.7 (each reading carries a sketch).
+- [x] Prose is clear and readable; length ~1,400 words of efficient prose — made throughout §B.1–B.8.
 
 **Cross-links:** To the Introduction §I.3 (what the paper is not trying to prove — the Trinity in the Nicene metaphysical sense). To Chapter 1 (the character of God) and Chapter 11 (the correspondence principle) — the hard texts are engaged exegetically but the conclusions are drawn from the clear texts.
 

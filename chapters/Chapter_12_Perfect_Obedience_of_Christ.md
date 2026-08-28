@@ -6,7 +6,7 @@
 
 > **Tagging:** Every `[I]` and `[H]` claim carries a low/mid/high confidence band and a crisp evidence sketch per `INTRO.md` §I.5. `[E]` claims state the text directly.
 
-> **Verification status of biblical quotations:** All load-bearing quotations were verified against esv.org on 2026-08-07 and are listed in §12.12.
+> **Verification status of biblical quotations:** All load-bearing quotations were verified against esv.org on 2026-08-07 and are listed in §12.13.
 
 ---
 
@@ -32,7 +32,7 @@ The chapter then connects this reading forward to Gethsemane (Chapter 13) and to
 
 The verse sets up the Adam–Christ parallel that runs through Romans 5:12–21 and is developed in detail in Chapter 15. The lexical point of interest here is the word *obedience*. The Greek is *hupakoē* — a compound of *hupo* ("under") and *akoe* ("hearing") — and means, literally, a *hearing-under*. It is the act of attentive submission to what is heard. The contrast in the verse is with *parakoe* ("hearing-amiss," rendered "disobedience"), the act of turning away from what is heard. Adam's act was a hearing-amiss of God's command; Christ's act is a hearing-under of God's will. Both are acts of response, not states, and both have representative effect. `[E]`
 
-This matters for the chapter's argument because *hupakoē* is the noun-form of the verb used in John 8:29 ("I always do the things that are pleasing to him") and in the Gethsemane texts ("not as I will, but as you will"). The same concept of willing hearing-under runs from Romans 5 through the Gospels and into Gethsemane. The obedience Paul contrasts with Adam's trespass is not an imposed suffering; it is the willing act of one who hears and submits.
+This matters for the chapter's argument because *hupakoē* (Romans 5:19) names the obedience whose substance the Gospels narrate, though it does not share a lexical form with the verses that describe it. John 8:29 speaks of "always doing the things that are pleasing to him" (Greek *poiō ta aresta*, "doing the pleasing things"), and the Gethsemane texts speak of willing (*thelō*, "I will"); neither passage uses *hupakouō* ("I obey"), the verb from which Paul's noun *hupakoē* is formed. The same concept of willing submission runs from Romans 5 through the Gospels and into Gethsemane, even though the vocabulary differs. The obedience Paul contrasts with Adam's trespass is not an imposed suffering; it is the willing act of one who hears and submits.
 
 ---
 
@@ -93,7 +93,12 @@ The Fourth Gospel gives three statements that, taken together, define a lifelong
 
 These three verses are the Johannine parallel to what Paul describes as the lifelong obedience of the last Adam. They are the chapter's strongest textual case that the obedience is not confined to the crucifixion-moment.
 
-The chapter rates the *lifelong obedience* as `[E]` for the textual evidence. The *interpretation* of the Johannine "always" as lifelong rather than habitual or characteristic is `[I-high]` — the lexical range admits the broader reading, and the immediate context (the Father is "with me" and "has not left me alone") supports the stronger reading.
+The chapter rates the *lifelong obedience* as `[E]` for the textual evidence. The *interpretation* of the Johannine "always" as lifelong rather than habitual or characteristic is `[I-high]`.
+
+**Evidence sketch (`[I-high]`):**
+- *Evidence for:* (a) John 8:29 uses *pantote* ("always"), the strongest adverb of continuity in the Gospel's vocabulary, attached to the Son's doing of what pleases the Father. (b) The immediate context grounds the continuity in the Father's standing presence — "he who sent me is with me" and "he has not left me alone" (John 8:29) — a presence that is not occasional but abiding. (c) The parallel sayings John 4:34 ("My food is to do the will of him who sent me") and John 6:38 ("not to do my own will but the will of him who sent me") describe the doing of the Father's will as the Son's whole purpose, not a set of discrete acts.
+- *Evidence against / weakening:* (a) *Pantote* can carry a habitual or characteristic force ("at all times when the occasion arises") rather than an unbroken-span force. (b) John 8:29 does not itself state a span ("from birth to death"); it asserts the character of the Son's doing without extending "always" across the whole incarnation in so many words.
+- *Band justification:* The *pantote* plus the standing-presence context make the lifelong reading the most natural; the absence of an explicit span-statement leaves room for the habitual reading, so `[I-high]` (not `[E]`) is honest.
 
 ---
 
@@ -147,6 +152,11 @@ The chapter's answer is that the categories, insofar as they correspond to anyth
 
 The chapter does not argue that the terms *active obedience* and *passive obedience* are themselves biblical; it argues that the distinction the terms mark is already present in the text. The Son does the Father's will willingly; he also undergoes what the Father's will requires at the hands of those who reject him. Both are real, both are in the text, and both belong to one obedience. `[E]` for the categories (the text does distinguish willing-doing from suffering-acceptance). `[I-high]` for the technical terminology (the later labels are not the biblical authors' labels).
 
+**Evidence sketch (`[I-high]`):**
+- *Evidence for:* (a) John 4:34; 6:38; 8:29 and Hebrews 10:5–9 describe the Son's willing doing of the Father's will ("I have come to do your will," "not to do my own will"). (b) Philippians 2:8 and 1 Peter 2:21–23 describe the suffering the Son undergoes ("obedient to the point of death," "when he suffered … continued entrusting himself"). (c) The two movements appear side by side in the same passages (Philippians 2:8; Hebrews 5:8–9), so the text itself pairs willing-doing with suffering-acceptance.
+- *Evidence against / weakening:* (a) The terms "active obedience" and "passive obedience" are not used by any biblical author; the labels are later systematic vocabulary. (b) The text never treats willing-doing and suffering as two separate "obediences"; it treats them as aspects of one obedience, so the two-term distinction is a reader's abstraction.
+- *Band justification:* The text's own pairing of willing-doing and suffering-acceptance makes the underlying distinction the natural reading; the absence of the biblical labels prevents `[E]`, so `[I-high]` is honest.
+
 This methodological framing matters for the next two chapters. Gethsemane (Chapter 13) is the textual hinge where the willing-life and the accepted-death meet in the same prayer. The cross (Chapter 14) is the event in which the accepted-death is consummated and the willing-life finds its goal.
 
 ---
@@ -191,17 +201,9 @@ All load-bearing quotations in this chapter were verified against esv.org on 202
 
 **Reference-only quotations** (cited in the structural analysis, verified against esv.org 2026-08-07):
 - Romans 5:12–21 — the parallel passage; cited in §12.2 as the structural context.
-- Romans 5:18 — "Therefore, as one trespass led to condemnation for all men, so one act of righteousness leads to justification and life for all men" — cited in §12.2 as the parallel's other half.
-- 1 Corinthians 15:3–4 — the gospel summary — cited in §12.11 as the gospel summary.
 - Philippians 2:6–7 — the scope of the self-humbling — cited in §12.3.
 - Hebrews 5:7 — the Gethsemane anchor of the developmental obedience — cited in §12.4.
-- Hebrews 7:26–28 — the high-priesthood perfection parallel — cited in §12.7.
-- Hebrews 10:10 — the once-for-all parallel — cited in §12.5.
-- John 8:46 — the sinlessness claim — cited in §12.11.
-- 1 Peter 3:18 — the suffered-once parallel — cited in §12.8.
-- 1 Corinthians 11:24–25 — the Lord's Supper institution — cited in §12.5 as the covenant parallel.
-- Romans 12:1 — the spiritual-worship parallel — cited in §12.5.
-- Hebrews 9:14 — the through-the-Spirit parallel — cited in §12.9.
+- John 8:46 — the sinlessness claim — cited in §12.9.
 
 **Translation notes:**
 - Romans 5:19 *hupakoē* ("obedience" / "hearing-under") — the literal sense is hearing under, attentive submission to what is heard. The contrast with *parakoe* ("hearing-amiss") makes the parallel precise: both are acts of response to a spoken command. The chapter reads the obedience as the willing hearing-under of the Son.

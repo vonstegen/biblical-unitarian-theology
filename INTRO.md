@@ -42,7 +42,7 @@ The project is exegetical, not dogmatic. Its conclusions are *what the text says
 
 ## I.4 Translation set
 
-The paper cites from two primary translations and consults five reference translations. Full per-translation bias and limitations analysis — with citations to publisher prefaces, scholarly reviews, and textual-criticism literature — is in `06_Translation_Bias_Documentation.md`.
+The paper cites from two primary translations and consults six reference translations. Full per-translation bias and limitations analysis — with citations to publisher prefaces, scholarly reviews, and textual-criticism literature — is in `06_Translation_Bias_Documentation.md`.
 
 **Primary citations** (default citation text):
 
@@ -62,6 +62,7 @@ The 1995 NASB is cited (not the 2020 update) because the 2020 update's "gender-a
 | **Rotherham's Emphasized Bible** (1902) | Westcott-Hort critical text + Ginsburg OT | Maximal literalism with emphasis marks; anti-creedal translation philosophy. |
 | **REV** (Revised English Version, revbible.com) | NA28 / BHS 4 | Modern unitarian-affiliated translation with extensive literal-Hebrew/Greek footnotes. |
 | **CLV / CLNT** (Concordant Literal Version, A.E. Knoch) | Westcott-Hort derived; hyper-literal | Concordant vocabulary for Greek word-usage tracing. |
+| **AICNT** (AI Critical New Testament, aicnt.org; New Testament only) | Earliest-attested readings per NA28 / UBS5 / SBLGNT / THGNT, with an embedded apparatus of 7,000+ variants | AI-rendered under a neutrality protocol with full scholarly review; variant transparency for the hard-texts appendix. |
 
 **Translations deliberately excluded:**
 

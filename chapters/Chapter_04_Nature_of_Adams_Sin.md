@@ -6,7 +6,7 @@
 
 > **Tagging:** Every `[I]` and `[H]` claim carries a low/mid/high confidence band and an enumerable evidence sketch per `INTRO.md` §I.5. `[E]` claims state the text directly.
 
-> **Verification status of biblical quotations:** All load-bearing quotations in this chapter were verified against esv.org on 2026-08-07 and are listed in §4.10.
+> **Verification status of biblical quotations:** All load-bearing quotations in this chapter were verified against esv.org on 2026-08-07 and are listed in §4.11.
 
 ---
 
@@ -80,6 +80,11 @@ Adam's act is the *prototypical* instantiation of this sequence. The woman *saw*
 
 The textual observation is important: the sequence is *not* an accident or a misjudgment. The sequence is the standard pattern of how sin operates. Adam's act is the *first* instance of the pattern, and the universality of death (Romans 5:12) is the *consequence* of the pattern recurring throughout the human lineage. `[E]` for the textual sequence; the *interpretation* of Adam's act as the *prototypical* instance of the James sequence is `[I-high]` (the parallel is structurally clear in the text).
 
+**`[I-high]` evidence sketch — "Adam's act is the prototypical instance of the desire→sin→death sequence"**
+- *Evidence for:* (a) James 1:14–15 states the general sequence — desire conceives, gives birth to sin, and sin brings forth death. (b) Genesis 3:6 records the same sequence — the woman *saw* and *desired* the tree, took and ate (the sin), and Genesis 2:17 had already declared the death. (c) The desire vocabulary of Genesis 3:6 (*taawah*) is the Hebrew counterpart of James's *desire* (*epithymia*), linking the two passages.
+- *Evidence against:* (a) James 1:14–15 does not mention Adam — the sequence is a general statement about "each person," not an explicit reference to Genesis 3. (b) The identification of Genesis 3:6's "saw/desired" with James's "desire" depends on a translation-level link (Hebrew *taawah* vs. Greek *epithymia*). (c) The "death" of James 1:15 ("brings forth death") could be read as relational/spiritual rather than the physical death of Genesis 5:5.
+- *Band justification:* The structural match between James 1:14–15 and Genesis 3:6, plus the shared desire vocabulary, makes the prototypical-instance reading the most natural; the absence of an explicit Adam-reference in James pulls against. `[I-high]` is honest.
+
 ---
 
 ## 4.7 The Romans 7:7–11 frame: the law awakens sin
@@ -87,6 +92,11 @@ The textual observation is important: the sequence is *not* an accident or a mis
 The Romans 7 frame adds a further observation: the *command* itself can function as the occasion of transgression. "What then shall we say? That the law is sin? By no means! Yet if it had not been for the law, I would not have known sin. For I would not have known what it is to covet if the law had not said, 'You shall not covet.' But sin, seizing an opportunity through the commandment, produced in me all kinds of covetousness. For apart from the law, sin lies dead. I was once alive apart from the law, but when the commandment came, sin came alive and I died. The very commandment that promised life proved to be death to me. For sin, seizing an opportunity through the commandment, deceived me and through it killed me" (Romans 7:7–11, ESV; verified against esv.org on 2026-08-07) `[E]`.
 
 The pattern is identical to Adam's: a *command* (Genesis 2:16–17; Exodus 20:17) creates the *occasion* for transgression; the transgression operates *through* the command; the consequence is *death*. The Romans 7 frame is *not* about Adam specifically but about the *mechanism* of sin in general — and the mechanism is the same mechanism that Adam's act instantiates. The point of the chapter is that Adam's act is the *first* and *prototypical* instance of the pattern that the law-revelation makes general. The pattern is: *command → opportunity → transgression → death*. The pattern is *covenantal* in its structure. `[E]` for the textual sequence; the *interpretation* of Adam's act as the *prototypical* instance of the pattern is `[I-high]`.
+
+**`[I-high]` evidence sketch — "Adam's act is the prototypical instance of the command→opportunity→transgression→death pattern"**
+- *Evidence for:* (a) Romans 7:7–11 states the general pattern — the command creates the occasion, sin seizes the opportunity, and death results. (b) Genesis 2:16–17 gives the command, Genesis 3:6 the transgression, and Genesis 2:17/3:19 the death — the same four-part structure. (c) The prohibition quoted in Romans 7:7 ("You shall not covet," Exodus 20:17) is a *command*, exactly parallel to Genesis 2:17's command, showing the pattern is command-driven.
+- *Evidence against:* (a) Romans 7:7–11 is about the "I" under the law, not explicitly about Adam. (b) The command in Romans 7 is the Mosaic law, whereas Adam's was a single tree-prohibition — the parallel is structural, not identical. (c) Some readings of Romans 7:7–11 are psychological-autobiographical rather than a general mechanism-of-sin statement.
+- *Band justification:* The structural four-part match and the command-driven parallel make the prototypical-instance reading the most natural; the Mosaic-law vs. Eden-command difference pulls against. `[I-high]` is honest.
 
 ---
 
@@ -163,6 +173,11 @@ All load-bearing quotations in this chapter were verified against esv.org on 202
 
 **Translation notes:**
 - Genesis 5:3 — "in his own likeness, after his image" is the textual evidence that Adam's *offspring* inherit his *constitutional structure*. The chapter reads the *likeness* as constitutional (the fall's effect on the inherited condition) rather than physical (genetic resemblance). The reading is `[I-high]` (the textual evidence is real; the *interpretation* depends on the Pauline framework — and the chapter makes the Pauline framework explicit).
+
+**`[I-high]` evidence sketch — "Adam's offspring inherit his constitutional structure"**
+- *Evidence for:* (a) Genesis 5:3 says Seth was fathered "in his own likeness, after his image" — the same likeness/image pair used of humanity's creation in God's image (Genesis 1:26–27). (b) The reuse of the exact vocabulary locates what is transmitted at the level of the image/likeness structure, not merely physical descent. (c) Paul's "in Adam all die" (1 Corinthians 15:22) and "borne the image of the man of dust" (1 Corinthians 15:49) read the transmission as constitutional across the race.
+- *Evidence against:* (a) Genesis 5:3 in its immediate context could be read as physical resemblance — a son resembles his father. (b) The likeness/image of Genesis 5:3 might simply echo Genesis 1:26–27 to say Seth is human as Adam was human, without a fall-transmission claim. (c) The constitutional reading depends on the Pauline framework (1 Corinthians 15), which Genesis 5:3 alone does not state.
+- *Band justification:* The exact reuse of the image/likeness vocabulary makes the constitutional reading the most natural; the physical-resemblance reading of the immediate context pulls against. `[I-high]` is honest.
 - The 1 John 3:4 citation ("sin is lawlessness") is the strongest single NT verse equating *sin* with *lawlessness* (Greek *anomia*). The chapter cites this as the strongest lexical evidence for the *covenantal-disobedience* reading of Adam's act — the act is not merely a *moral lapse* but a *transgression of declared law*. The translation note is recorded to flag the lexeme *anomia* as the technical term for the *kind* of act Adam performed (covenantal transgression), not merely the *emotional state* (lapse, error).
 - The Romans 7:7–11 frame is sometimes read as a *psychological* account of Paul's experience (the "wretched man" of Romans 7:14–25). The chapter reads it as a *mechanism* of sin — the *command* awakens sin, sin operates through the command, the consequence is death. The mechanism is the same mechanism that Adam's act instantiates. The *psychological* reading is not foreclosed by the chapter's argument (the two readings are compatible), but the chapter's interest is in the *mechanism*, not the *psychology*.
 

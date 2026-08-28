@@ -6,7 +6,7 @@
 
 > **Tagging:** Every `[I]` and `[H]` claim carries a low/mid/high confidence band and an enumerable evidence sketch per `INTRO.md` §I.5. `[E]` claims state the text directly.
 
-> **Verification status of biblical quotations:** All load-bearing quotations in this chapter were verified against esv.org on 2026-08-07 and are listed in §2.10.
+> **Verification status of biblical quotations:** All load-bearing quotations in this chapter were verified against esv.org on 2026-08-07 and are listed in §2.12.
 
 ---
 
@@ -26,11 +26,21 @@ The creation of humanity is the climax of the Genesis 1 account. The first six d
 
 Three things are said in a single speech-act: the human is made in God's image (the term used is *ṣelem Elohim*); the human is made male and female (the image is not male alone but the pair); and the human is given dominion over the created order. The dominion is not a suggestion; it is a command — "subdue it" (Hebrew *kabash*) and "have dominion" (*radah*) are imperatives. The vocabulary is elsewhere used for sovereign rule (cf. Psalm 72:8; Psalm 110:2; 1 Kings 4:24). `[E]` for the textual claim; the systematic-theological name for the image of God as a coherent doctrine is `[I-high]` (the term is used but its precise referent — functional, relational, substantival, or some combination — is contested within the Bible's own usage).
 
+**`[I-high]` evidence sketch — "The image of God is a coherent doctrine"**
+- *Evidence for:* (a) Genesis 1:26–27 names the image (*ṣelem*) and likeness (*demut*) as the constitutive feature of the human, and Genesis 5:1, 3 reuse the same vocabulary for the transmitted constitution. (b) Genesis 9:6 grounds the protection of human life in the image after the fall, so the term carries doctrinal weight across the canon. (c) James 3:9 and 1 Corinthians 11:7 appeal to the image/likeness as the present ground of treatment, showing the doctrine persists as a stable category.
+- *Evidence against:* (a) The text never defines the image's precise referent — functional, relational, substantival, or some combination — so "coherent doctrine" is a systematic synthesis rather than a textual statement. (b) The Hebrew *ṣelem* elsewhere denotes a concrete image or idol (e.g. Numbers 33:52; Ezekiel 7:20), suggesting a more concrete referent than a developed doctrine.
+- *Band justification:* The reuse of the image vocabulary as the ground of treatment across the canon makes the coherent-doctrine reading the most natural; the undefined referent and the concrete-idol usage pull against. `[I-high]` is honest.
+
 The psalmist picks up the same image:
 
 > "What is man that you are mindful of him, and the son of man that you care for him? Yet you have made him a little lower than the heavenly beings and crowned him with glory and honor. You have given him dominion over the works of your hands; you have put all things under his feet, all sheep and oxen, and also the beasts of the field, the birds of the heavens, and the fish of the sea, whatever passes along the paths of the seas." (Psalm 8:4–8, ESV; verified against esv.org on 2026-08-07) `[E]`
 
 The psalm's reading of Genesis 1 — humanity given dominion over the works of God's hands — is precisely the structure that the later chapters of this paper will preserve. The dominion is not a license for autonomous self-direction; it is a commission representing the one who made the world to the world He made. The image-of-God humanity is the visible administrator of an order that belongs to the invisible God. `[E]` for the textual pattern; the interpretation of the image as administrative-viceregent is `[I-high]`.
+
+**`[I-high]` evidence sketch — "The image is administrative-viceregent"**
+- *Evidence for:* (a) Genesis 1:26, 28 state the image and the dominion mandate in the same speech-act — image-bearing and ruling are joined, not incidental. (b) Psalm 8:5–8 reads "the son of man" as crowned with glory and given dominion over the works of God's hands, confirming the rule reading. (c) Genesis 9:6 grounds the protection of human life in the image, implying the image carries a representational weight beyond bare resemblance.
+- *Evidence against:* (a) Genesis 1:26–27 says nothing explicit about administration or representation; the image could be read as resemblance without any ruling function. (b) Genesis 5:3 uses the same likeness/image vocabulary for Seth's resemblance to Adam, suggesting a familial-resemblance reading rather than an office reading. (c) The dominion could be a separate gift (Genesis 1:28) rather than an entailment of the image.
+- *Band justification:* The joining of image and dominion in Genesis 1:26–28 and Psalm 8:5–8 makes the administrative-viceregent reading the most natural; the resemblance reading (Genesis 5:3) pulls against. `[I-high]` is honest.
 
 ---
 
@@ -70,6 +80,11 @@ Across the canon, the image is treated as the ground for a particular kind of tr
 
 This is the structural reason the one man's act has the many's effect (Chapter 15). Adam does not act as a private individual whose choices affect only himself; he acts as the image-bearer, the representative, the federal head. The image is what makes the representation real. `[E]` for the textual evidence; the systematic identification of the image-of-God with the federal-headship structure is `[H-mid]` and is developed further in Chapter 15.
 
+**`[H-mid]` evidence sketch — "The image of God grounds federal headship"**
+- *Evidence for:* (a) Genesis 1:26–27 makes the image a feature of the human *pair*, not merely the individual — the image is corporate from the first. (b) 1 Corinthians 15:45–49 pairs the "man of dust" and the "man of heaven" as two representatives bearing two images, tying representation to image-bearing. (c) Romans 5:12–21 treats the one man's act as constitutive for the many, and Genesis 5:3 transmits the image through the one lineage ("in his own likeness, after his image").
+- *Evidence against:* (a) "Federal headship" is not a biblical term; the image passages (Genesis 1:26–27; 9:6) do not themselves say the image-bearer represents others. (b) The representation could attach to Adam's *primacy* (1 Timothy 2:13) rather than to the image specifically. (c) 1 Corinthians 11:7 treats the image as a feature of the individual male ("he is the image and glory of God"), complicating a purely corporate reading.
+- *Band justification:* The convergence of the image vocabulary (Genesis 1:26–27; 5:3) with the one-man/many structure (Romans 5:12–21; 1 Corinthians 15:45–49) makes the federal-headship identification a plausible systematic inference; the text nowhere states "the image = representation," so `[H-mid]` is honest.
+
 ---
 
 ## 2.5 The "covenant of creation" question
@@ -99,6 +114,11 @@ Drawing the threads together: the creation of Adam is the placement of a creatur
 
 **Second**, the creature is finite. "The heavens are the Lord's heavens, but the earth he has given to the children of man" (Psalm 115:16, ESV; verified against esv.org on 2026-08-07) `[E]`. Adam is not given heaven; he is given the earth. The garden is a bounded place; the vocation is a bounded task. Adam's obedience is the obedience of a finite creature to a finite calling — not the autonomy of an infinite will. The later chapters will see this finitude as the reason a human representative is needed, not a God-man; the present chapter simply notes it. `[E]` for the text; the systematic implication is `[I-high]`.
 
+**`[I-high]` evidence sketch — "Adam's finitude grounds the human-representative conclusion"**
+- *Evidence for:* (a) Psalm 115:16 assigns the heavens to the Lord and the earth to humanity — a clear creator/creature distinction in which the human's sphere is bounded. (b) Genesis 2:7, 15 describe Adam as formed from dust and placed in a bounded garden, making finitude constitutive of his creaturehood. (c) The obedience demanded is "work and keep" within a bounded place — a finite calling, not the autonomy of an infinite will.
+- *Evidence against:* (a) Psalm 115:16 is about the *sphere of dominion*, not directly about the *kind of redeemer* needed — the inference to "therefore a human representative" is a step the verse does not itself take. (b) Finitude could be read as *limitation* rather than as *qualification* for representation; a finite creature's finitude does not by itself prove a finite redeemer is required. (c) The "human representative" conclusion depends on later chapters' correspondence argument, not on this verse alone.
+- *Band justification:* The creator/creature distinction and Adam's bounded placement make the finitude claim the natural reading of the text; the inference to "therefore a *human* redeemer" depends on the later correspondence argument, so `[I-high]` is honest.
+
 **Third**, the creature is placed. Adam is not the source of his own vocation; he is put in the garden (Genesis 2:8, 15). The Hebrew verb *wayyasem* (and *wayyiten*, used in 2:8) is the same verb used elsewhere for setting a people in a land or a king on a throne. The placement is God's act; the work and the keeping are Adam's response. The vocation is given, not chosen. `[E]`
 
 The three features together — image-bearing, finite, placed — define the kind of creature Adam is. The next chapter will set the limit (the tree of the knowledge of good and evil) and the penalty (death). The covenant of Eden is the framework that makes the limit and the penalty coherent.
@@ -114,7 +134,7 @@ The two verbs in Genesis 2:15 — *'abad* (work, serve) and *shamar* (keep, guar
 The verbal parallel is not coincidence. The text uses the service vocabulary for Adam's keeping of the garden because the garden is the place where the creator's presence is located (Genesis 3:8 — "they heard the sound of the Lord God walking in the garden in the cool of the day"). The divine presence is the energy the work is done for; the work is the human cooperation with the divine presence. `[E]` for the verbal parallel; the systematic identification of the garden as cosmic temple is `[H-high]`.
 
 **`[H-high]` evidence sketch — "The garden of Eden is a proto-sanctuary"**
-- *Evidence for:* (a) Genesis 2:15 uses *'abad* and *shamar*, the same two verbs used of the Levitical service in the tabernacle. (b) Genesis 3:8 places the divine presence in the garden ("walking in the garden in the cool of the day"), parallel to the divine presence in the tabernacle (Exodus 25:8; 29:43–45). (c) The two trees (life and knowledge of good and evil) form a threshold structure, parallel to the threshold of the holy of holies (cf. Genesis 3:24 with the placement of the cherubim as guards). (d) Ezekiel 28:13–14 describes the king of Tyre, in language echoing Eden, as being "in Eden, the garden of God" and "an anointed guardian cherub" — the same vocabulary later used of the cherubim on the ark of the covenant (Exodus 25:18–22; 37:7–9). (e) The…
+- *Evidence for:* (a) Genesis 2:15 uses *'abad* and *shamar*, the same two verbs used of the Levitical service in the tabernacle. (b) Genesis 3:8 places the divine presence in the garden ("walking in the garden in the cool of the day"), parallel to the divine presence in the tabernacle (Exodus 25:8; 29:43–45). (c) The two trees (life and knowledge of good and evil) form a threshold structure, parallel to the threshold of the holy of holies (cf. Genesis 3:24 with the placement of the cherubim as guards). (d) Ezekiel 28:13–14 describes the king of Tyre, in language echoing Eden, as being "in Eden, the garden of God" and "an anointed guardian cherub" — the same vocabulary later used of the cherubim on the ark of the covenant (Exodus 25:18–22; 37:7–9). (e) The canon's closing vision returns to the garden's sanctuary imagery — the tree of life and the river of the water of life in the new Jerusalem (Revelation 22:1–2), matching the garden's tree of life (Genesis 2:9) and completing the sanctuary arc.
 - *Evidence against:* (a) Genesis 2 itself does not call the garden a *sanctuary* or a *temple*; the term is reserved for later Israelite structures. (b) The verbal parallel with Numbers 3:7–8 may be a *convergent* vocabulary rather than a *referential* one — both the garden and the tabernacle involve *work* and *guarding*, but the analogy could be looser than literal identification. (c) The identification is a *synthesis* that the text itself does not require (no single verse states the garden is a sanctuary). (d) The Ezekiel 28:13–14 reference is to the king of Tyre, not to Adam; the parallel is *typological* rather than *direct*.
 - *Band justification:* The textual evidence is convergent from the biblical text alone (verbal parallels, presence structure, threshold structure, narrative arc). The identification is a synthesis that exceeds any single verse but the convergent evidence from multiple passages supports the `[H-high]` tag. The chapter treats it as `[H-high]` because the convergent biblical evidence is strong but the synthesis is the chapter's own reading, not a direct textual statement.
 ---
@@ -149,11 +169,11 @@ The chapter's claims, tagged:
 - Adam is placed in the garden to work and keep it (Genesis 2:8, 15) — `[E]`
 - The garden contains the tree of life and the tree of knowledge (Genesis 2:9) — `[E]`
 - The image of God is constitutive, not lost in the fall (Genesis 9:6; James 3:9) — `[E]`
-- The image of God is the structural anchor of Adam's vocation — `[E]` for the textual evidence; the interpretation as a coherent doctrine is `[I-high]`
-- Adam is not given heaven; he is given the earth (Psalm 115:16) — `[E]`; the systematic implication (the finitude grounds the human-representative conclusion) is `[I-high]`
+- The image of God is the structural anchor of Adam's vocation — `[E]` for the textual evidence; the interpretation as a coherent doctrine is `[I-high]` (see evidence sketch in §2.2)
+- Adam is not given heaven; he is given the earth (Psalm 115:16) — `[E]`; the systematic implication (the finitude grounds the human-representative conclusion) is `[I-high]` (see evidence sketch in §2.6)
 - The garden of Eden uses sanctuary vocabulary (Genesis 2:15; cf. Numbers 3:7–8; 1 Chronicles 23:32) — `[E]` for the verbal parallel; the identification of the garden as proto-sanctuary is `[H-high]` (see evidence sketch)
 - "Adam" in Hosea 6:7 refers to the first man and grounds an Edenic covenant — `[H-mid]` (see evidence sketch)
-- The image-of-God structure is the basis for federal-headship (i.e. Adam's act on behalf of the many) — `[H-mid]`; developed further in Chapter 15
+- The image-of-God structure is the basis for federal-headship (i.e. Adam's act on behalf of the many) — `[H-mid]`; developed further in Chapter 15 (see evidence sketch in §2.4)
 
 ---
 

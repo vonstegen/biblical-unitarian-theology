@@ -24,7 +24,7 @@ The manuscript is organized in five parts, with three appendices.
 
 ### Front Matter
 
-- **[`INTRO.md`](INTRO.md)** — *Introduction.* Sets the Bible-only constraint, the tagging system, the translation set (ESV and NASB primary; YLT, LSV, Rotherham, REV, CLV reference), and the 10 research questions the manuscript will answer. Cites Scripture for the constraints and lists the negative scope (not trying to prove the Trinity, the eternal generation of the Son, the deity of Christ in the Nicene metaphysical sense, the personality of the Holy Spirit, the immortality of the soul). Establishes the audit-trail discipline that makes the conclusions testable.
+- **[`INTRO.md`](INTRO.md)** — *Introduction.* Sets the Bible-only constraint, the tagging system, the translation set (ESV and NASB primary; YLT, LSV, Rotherham, REV, CLV, AICNT reference), and the 10 research questions the manuscript will answer. Cites Scripture for the constraints and lists the negative scope (not trying to prove the Trinity, the eternal generation of the Son, the deity of Christ in the Nicene metaphysical sense, the personality of the Holy Spirit, the immortality of the soul). Establishes the audit-trail discipline that makes the conclusions testable.
 
 ### Part I — Foundations (The Character of God, Creation, Covenant)
 

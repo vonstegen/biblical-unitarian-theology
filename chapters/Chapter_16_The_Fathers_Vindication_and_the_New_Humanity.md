@@ -6,7 +6,7 @@
 
 > **Tagging:** Every `[I]` and `[H]` claim carries a low/mid/high confidence band and an enumerable evidence sketch per `INTRO.md` §I.5. `[E]` claims state the text directly.
 
-> **Verification status of biblical quotations:** All load-bearing quotations were verified against esv.org on 2026-08-07 and are listed in §16.9.
+> **Verification status of biblical quotations:** All load-bearing quotations were verified against esv.org on 2026-08-07 and are listed in §16.7.
 
 ---
 
@@ -71,17 +71,17 @@ The chapter concludes that the Father's vindication of the obedient Son is the b
 
 Per outline for Part V and the updated checklist (word efficiency and clarity prioritized):
 
-- [x] The resurrection/exaltation mapped as the Father's vindication of the obedient Son (the payment of Chapter 14 is accepted, the obedience of Chapters 12–13 is complete).
-- [x] The new humanity mapped as the restoration of what was lost in Chapters 5–6 (the image renewed, the relational rupture healed, the constitutional condition reversed in the last Adam).
-- [x] Ties back to all prior parts (the pattern of disobedience in Chapters 7–10 is answered by the obedient representative in Chapters 11–15).
-- [x] All claims tagged with evidence sketches; no over-claiming.
-- [x] Prose is clear and readable; length ~1,100 words of efficient prose.
+- [x] The resurrection/exaltation mapped as the Father's vindication of the obedient Son (the payment of Chapter 14 is accepted, the obedience of Chapters 12–13 is complete) — made in §16.2.
+- [x] The new humanity mapped as the restoration of what was lost in Chapters 5–6 (the image renewed, the relational rupture healed, the constitutional condition reversed in the last Adam) — made in §16.3.
+- [x] Ties back to all prior parts (the pattern of disobedience in Chapters 7–10 is answered by the obedient representative in Chapters 11–15) — made in §16.5.
+- [x] All claims tagged with evidence sketches; no over-claiming — made in §16.2–16.4.
+- [x] Prose is clear and readable; length ~1,100 words of efficient prose — made throughout §16.1–16.5.
 
 **Cross-links:**
-- Backward to Chapters 11–14: the obedient representative's work is vindicated by the Father.
-- Backward to Chapters 5–6: the new humanity is the restoration of what was lost.
-- Backward to Chapters 7–10: the pattern of disobedience is answered by the new humanity in the last Adam.
-- Forward to Chapter 17: the conclusions map the 10 research questions to their chapter of resolution.
+- Backward to Chapters 11–14: the obedient representative's work is vindicated by the Father — made in §16.2 (the resurrection as the Father's vindication).
+- Backward to Chapters 5–6: the new humanity is the restoration of what was lost — made in §16.3 (the new humanity in the last Adam).
+- Backward to Chapters 7–10: the pattern of disobedience is answered by the new humanity in the last Adam — made in §16.5 (the synthesis).
+- Forward to Chapter 17: the conclusions map the 10 research questions to their chapter of resolution — made in §16.5 (the synthesis).
 
 ---
 

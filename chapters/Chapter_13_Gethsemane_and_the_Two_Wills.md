@@ -34,7 +34,12 @@ The Matthean account gives the full shape of the prayer:
 - The willing subordination is named. "Not as I will, but as you will" — the Son's will is real (it is named and set against the Father's will), and the Son wills otherwise than the cross. The submission of the Son's will to the Father's will is the act of obedience the chapter is tracking.
 - The petition is repeated three times. The repetition is not for emphasis in the rhetorical sense; it is the shape of sustained willing. The Son does not simply submit once; he re-submits, in the same words, against the same pressure.
 
-The chapter reads Matthew 26:36–46 as the fullest single witness to the willing obedience at its crisis. The Son is grieved; the Son has a will of his own that is set against the cup; the Son wills the Father's will instead. `[E]` for the textual evidence; `[I-high]` for the interpretation of "not as I will" as a real counter-will that is set aside in willing obedience (the immediate grammar admits the weaker reading in which "not as I will" is a conventional phrase, but the parallel with John 6:38 — "not my own will" — confirms the real reading).
+The chapter reads Matthew 26:36–46 as the fullest single witness to the willing obedience at its crisis. The Son is grieved; the Son has a will of his own that is set against the cup; the Son wills the Father's will instead. `[E]` for the textual evidence; `[I-high]` for the interpretation of "not as I will" as a real counter-will that is set aside in willing obedience.
+
+**Evidence sketch (`[I-high]`):**
+- *Evidence for:* (a) Matthew 26:39 names the Son's will and sets it against the Father's — "not as I will, but as you will" — where *thelō* ("I will") is a real act of willing. (b) The petition "let this cup pass from me" (Matthew 26:39) presupposes a genuine desire not to drink the cup; a conventional phrase would not accompany a real petition for removal. (c) John 6:38 places the same counter-will language outside the crisis ("not to do my own will"), confirming that "not my will" names a real standing feature of the Son's relation, not a figure of speech.
+- *Evidence against / weakening:* (a) "Not as I will" can be read as a reverential idiom expressing submission rather than reporting a genuine contrary desire. (b) The Gethsemane prayer is prayer, not a doctrinal treatise; its grammar could be read as liturgical rather than psychological.
+- *Band justification:* The real counter-will is the natural reading of a real petition plus the Johannine parallel; the idiomatic reading is possible but weaker, so `[I-high]` is honest.
 
 ---
 
@@ -110,9 +115,19 @@ The textual categories are:
 - The Father's will, done. The Son wills what the Father wills. "Your will be done" (Matthew 26:42; Luke 22:42). The petition for removal is set aside; the petition for the Father's will to be done is the prayer's content.
 - The Son's standing will. The willing-subordination is not a one-time accommodation. John 6:38 — "not to do my own will but the will of him who sent me" — places this as the Son's standing posture. Gethsemane is the crisis-instance of a relation that is true at every moment of the Son's ministry.
 
-The chapter treats the "two wills" as the textual categories the biblical authors themselves supply. The categories are `[E]` (the text names both wills). The interpretation of the two-wills pattern as a standing relation of Father and Son, not an anomaly introduced by the crisis, is `[I-high]` (the Johannine parallels strongly support the standing reading; the absence of a propositional statement in those exact terms prevents `[E]`).
+The chapter treats the "two wills" as the textual categories the biblical authors themselves supply. The categories are `[E]` (the text names both wills). The interpretation of the two-wills pattern as a standing relation of Father and Son, not an anomaly introduced by the crisis, is `[I-high]`.
+
+**Evidence sketch (`[I-high]`):**
+- *Evidence for:* (a) John 6:38 states the standing form outside the crisis — "not to do my own will but the will of him who sent me." (b) John 8:29 ("I always do the things that are pleasing to him") uses *pantote* ("always") to make the subordination uninterrupted. (c) John 5:30 ("I seek not my own will but the will of him who sent me") repeats the counter-will language as the Son's settled posture.
+- *Evidence against / weakening:* (a) No passage states "the Son's will and the Father's will are two wills standing in relation" in propositional form. (b) The Synoptics record "not my will" only at Gethsemane, so a reader of the Synoptics alone might take the counter-will as a crisis-specific statement.
+- *Band justification:* The Johannine parallels make the standing relation the natural reading; the absence of a propositional statement and the Synoptic localization pull against `[E]`, so `[I-high]` is honest.
 
 The chapter therefore does not stake its argument on the Chalcedonian or post-Chalcedonian formulation of two wills; it stakes the argument on the textual categories the Synoptic and Johannine writers themselves supply. The categories are textual; the later systematic synthesis is `[I-mid]` (a defensible but non-biblical label for the textual categories).
+
+**Evidence sketch (`[I-mid]`):**
+- *Evidence for:* (a) The Synoptics name both the Father's will and the Son's will (Matthew 26:39; Mark 14:36; Luke 22:42), so the label "two wills" maps onto textual data. (b) The label "two wills" imports no foreign content; it is a name for the two named wills the text already distinguishes.
+- *Evidence against / weakening:* (a) The term "two wills" is never used by any biblical author; it is later systematic vocabulary. (b) The post-Chalcedonian formulation carries metaphysical commitments (how two wills inhere in one person) that the biblical text does not address.
+- *Band justification:* The label maps onto the text's two named wills but carries non-biblical baggage; it is a defensible synthesis rather than a textual assertion, so `[I-mid]` is honest.
 
 ---
 
@@ -130,9 +145,14 @@ These three verses are the chapter's strongest evidence that the willing subordi
 
 - Not my own will. The same counter-will language as Gethsemane appears here outside the crisis. The Son's "not my own will" is the baseline, not the exception.
 - Always. John 8:29's *pantote* (always) is the same word that Chapter 12 used for the lifelong obedience. The Son's "not my own will" is not a moment-by-moment accommodation; it is the unbroken form of his life.
-- As I hear, I judge. John 5:30 introduces a further dimension: the Son's hearing. The Son's obedience is hearing-under (Greek *hupo* + *akoe*) — the same compound that names obedience in Romans 5:19 (the verb-form *hupakoe*). The Son hears and does what he hears. Gethsemane is the moment at which what the Son hears (the cup) is hardest to do, and at which he does it.
+- *As I hear, I judge.* John 5:30 introduces a further dimension: the Son's hearing. The verb is plain *akouō* ("I hear"); it is the hearing word to which the preposition *hupo* ("under") is prefixed to form *hupakouō* ("I obey"), the verb behind the noun *hupakoē* in Romans 5:19 ("obedience"). John's "hearing" and Paul's "hearing-under" share the same root and name the same attentive submission, in different vocabulary. The Son hears and does what he hears. Gethsemane is the moment at which what the Son hears (the cup) is hardest to do, and at which he does it.
 
 The chapter reads John 5:30; 6:38; 8:29 as the standing form of which Gethsemane is the crisis instance. The crisis reveals what the standing relation is. The Son's "not my will, but yours" at Gethsemane is not a deviation; it is the deepest expression of what "not my own will but the will of him who sent me" has always been. `[E]` for the textual data; `[I-high]` for the parallel-reading interpretation.
+
+**Evidence sketch (`[I-high]`):**
+- *Evidence for:* (a) John 6:38 and John 5:30 repeat Gethsemane's "not my own will" language outside the crisis, so the Synoptic prayer and the Johannine sayings name the same counter-will. (b) John 8:29's *pantote* ("always") marks the subordination as unbroken, not occasional. (c) John 18:11 ("shall I not drink the cup that the Father has given me?") shows the Johannine Son resolving toward the same cup the Synoptic Son accepts at Gethsemane.
+- *Evidence against / weakening:* (a) The Fourth Gospel does not narrate Gethsemane; the parallel is a reader's cross-Gospel synthesis, not an explicit statement. (b) The Johannine sayings are formulated in John's own idiom and could be read as John's theology rather than as the same historical posture the Synoptics record.
+- *Band justification:* The shared counter-will vocabulary plus John 18:11 make the parallel the natural reading; the absence of a Synoptic–Johannine equation in the text itself prevents `[E]`, so `[I-high]` is honest.
 
 ---
 
@@ -195,11 +215,7 @@ All load-bearing quotations in this chapter were verified against esv.org on 202
 - Hebrews 5:7–9 — cited in §13.6 as the full passage (the chapter quotes vv. 7–8; v. 9 supplies the "made perfect" completion).
 - Romans 8:15 — cited in §13.3 as the church's adoption of the Son's *Abba* cry.
 - Galatians 4:6 — cited in §13.3 as the parallel to Romans 8:15.
-- John 14:30–31 — cited in §13.8 as the Johannine standing-relation parallel.
-- Romans 8:3 — cited in §13.10 as the correspondence parallel.
-- Philippians 2:5–8 — cited in §13.10 as the Christological self-emptying parallel.
-- Hebrews 4:15 — cited in §13.6 as the parallel *tempted* language.
-- Romans 5:19 — cited in §13.10 as the Eden–Gethsemane structural parallel.
+- Romans 5:19 — the noun *hupakoē* ("obedience") behind the Son's hearing-under — cited in §13.8 as the shared-root lexical parallel.
 - Mark 14:33–34 — cited in §13.3 as the Markan Gethsemane parallel.
 - Matthew 26:38 — cited in §13.2 as the Matthean Gethsemane parallel.
 - Matthew 26:42 — cited in §13.2 as the Matthean second prayer.
@@ -212,7 +228,7 @@ All load-bearing quotations in this chapter were verified against esv.org on 202
 - Luke 22:43–44 textual note. The ESV notes "Some manuscripts omit verses 43 and 44." The verses are absent from some of the earliest manuscripts and present in others; the chapter includes them as part of the standard text but notes that the central argument of the chapter does not depend on their originality to Luke. The cup / "not my will, but yours" content is firmly attested in Matthew and Mark.
 - John 18:11 *the cup that the Father has given me* — the givenness of the cup is the post-Gethsemane resolution of the petition for removal. The petition was not granted; the cup is given. The chapter reads the given as the Father's answer.
 - Hebrews 5:7 *eulabeia* ("reverence") — pious caution, careful holding of oneself in danger. The chapter reads the hearing (verse 7) as the Father's strengthening, not as the granting of the petition for removal.
-- John 5:30 *hupo + akoe* (the same root that underlies *hupakoe* in Romans 5:19) — the Son's obedience is a hearing-under, attentive submission. The chapter reads the Johannine standing-relation as the same concept named in different vocabulary across the canon.
+- John 5:30 *akouō* ("I hear") — the plain hearing verb, the root to which *hupo* ("under") is prefixed to form *hupakouō* ("I obey"), the verb behind the noun *hupakoē* in Romans 5:19 ("obedience"). The shared root is the hearing word; Paul's compound adds "under" to name attentive submission. The chapter reads the Johannine standing-relation as the same concept named in different vocabulary across the canon.
 
 **Textual note on Luke 22:43–44:**
 

@@ -6,7 +6,7 @@
 
 > **Tagging:** Every `[I]` and `[H]` claim carries a low/mid/high confidence band and a crisp evidence sketch per `INTRO.md` §I.5. `[E]` claims state the text directly.
 
-> **Verification status of biblical quotations:** All load-bearing quotations were verified against esv.org on 2026-08-07 and are listed in §9.12.
+> **Verification status of biblical quotations:** All load-bearing quotations were verified against esv.org on 2026-08-07 and are listed in §9.13.
 
 ---
 
@@ -52,7 +52,12 @@ The chapter reads the passage as Moses's insider reading of the pattern: the peo
 
 ## 9.4 The murmuring (Numbers 14:2–4)
 
-The Numbers passage is the second Israel failure of the wilderness period. The murmuring speech (Numbers 14:2–4) shows a community responding to fear by rejecting God's promise, preferring return to Egypt, and proposing a replacement leader. It is evidence that covenant privilege does not eliminate repeated disobedience (`[I-mid]`). Its main development belongs to Chapter 9.
+The Numbers passage is the second Israel failure of the wilderness period. The murmuring speech (Numbers 14:2–4) shows a community responding to fear by rejecting God's promise, preferring return to Egypt, and proposing a replacement leader. It is evidence that covenant privilege does not eliminate repeated disobedience (`[I-mid]`). Its main development is given here (§9.4).
+
+**Evidence sketch (`[I-mid]`):**
+- *Evidence for:* (a) Numbers 14:2–4 records Israel — the covenant people — grumbling and proposing return to Egypt. (b) "Let us choose a leader and go back to Egypt" (Numbers 14:4) rejects the covenant mediator. (c) The episode occurs after the Exodus and Sinai covenant, so the disobedience is within covenant history. (The full pattern reading is sketched at §9.11.)
+- *Evidence against / weakening:* (a) The passage records a single episode; the claim generalizes beyond it. (b) The text does not itself state that covenant privilege fails to eliminate disobedience.
+- *Band justification:* The murmur's location within covenant history makes "covenant privilege does not eliminate repeated disobedience" the most natural reading; the single-episode scope keeps the generalization at `[I-mid]`.
 
 > "And all the people of Israel grumbled against Moses and Aaron. The whole congregation said to them, 'Would that we had died in the land of Egypt! Or would that we had died in this wilderness! Why is the Lord bringing us into this land, to fall by the sword? Our wives and our little ones will become a prey. Would it not be better for us to go back to Egypt?' And they said to one another, 'Let us choose a leader and go back to Egypt.'" (Numbers 14:2–4, ESV; verified against esv.org) `[E]`
 
@@ -69,6 +74,11 @@ The Judges passage is the cyclical Israel failure — the pattern in narrative f
 The generation that did not know the Lord language is the transmission language — the forgetting is what the pattern produces across generations. The did evil / served the Baals / abandoned the Lord triad is the idolatry language. The gave them over language is the divine handing-over language — the consequence of the covenant cycle.
 
 The chapter reads the passage as the cyclical Israel failure: the pattern is not a single event but a recurring shape. `[E]` for the textual narrative; `[I-mid]` for the handing-over=consequence reading.
+
+**Evidence sketch (`[I-mid]`):**
+- *Evidence for:* (a) Judges 2:14 places "he gave them over to plunderers" after "the anger of the Lord was kindled against Israel," tying the handing-over to the prior provocation. (b) The same giving-over language recurs in Psalm 106:41 and Acts 7:42 as a consequence of covenant unfaithfulness. (c) The sequence serve the Baals, provoke, anger, give over (Judges 2:11–14) orders the handing-over as the response to Israel's failure. (The full pattern reading is sketched at §9.11.)
+- *Evidence against / weakening:* (a) "Gave them over" (Judges 2:14) can be read permissively — God ceasing to protect — rather than as an active punitive consequence. (b) The text uses the giving-over verb without a gloss identifying it as judgment.
+- *Band justification:* The narrative's placement of the giving-over after the provocation makes the consequence reading the most natural; the verb's permissive sense keeps it at `[I-mid]`.
 
 ---
 

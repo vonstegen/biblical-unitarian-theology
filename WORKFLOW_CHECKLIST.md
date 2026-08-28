@@ -3,6 +3,13 @@
 
 ## Change Log
 
+**2026-08-28 — v1.9 (final acceptance pass complete)**
+- Three read-only verification scouts audited every chapter's acceptance check, cross-links, tagging, and verification logs against the actual content; five fix agents resolved all violations.
+- Fixed: false Greek lexical claims in Ch 12/13 (hupakoē vs John 8:29/Gethsemane; akouō vs hupakouō in John 5:30); phantom verification-log citations in Ch 12/13; ~30 missing evidence sketches (Ch 2, 3, 4, 5, 8, 9); truncated prose (Ch 2, 3, 5); wrong verification-log section pointers in headers (Ch 2, 4, 6, 7, 8, 9, 10, 12, 14, 16, 17, App B, C); Ch 5 loss-numbering collision; Ch 9 false self-reference; Ch 10 missing A10 entry; Ch 1 A1 passage count.
+- Appendix C: added Image of God entry; converted the C.8 duplicate into a cross-reference. Appendix D: added 14 missing book divisions (Leviticus, 1–2 Samuel, 1–2 Kings, 1–2 Chronicles, Job, Jonah, Joel, Malachi, Ezekiel, James, 1 Thessalonians, Revelation) and removed a misfiled Deuteronomy entry.
+- Added AICNT (AI Critical New Testament) to the translation set (`INTRO.md` §I.4) and to `06_Translation_Bias_Documentation.md` (§8).
+- All chapters and appendices now Accepted; the only remaining next actions are the PDF rebuild and optional PhD-roadmap items.
+
 **2026-08-28 — v1.8 (repo hygiene and reconciliation)**
 - All work committed and pushed (three weeks of uncommitted changes from 2026-08-06 to 2026-08-28 are now in history); working tree clean.
 - Pulled and reconciled `07_Ch10_Review.md` (20-item fix list): citation rename (post-canonical → Jesus citation), `[I-high]` → `[I-mid]` downgrade, combination argument added to §10.10, Ch 9 cross-link added to §10.1, forward-link re-attributed, reference-only list trimmed to five, kind-of-being stragglers removed.
@@ -30,33 +37,33 @@
 
 ---
 
-**Version:** 1.8 (2026-08-28) — v1.8 adds the Ch 10 review reconciliation and repo hygiene pass; A11 and A15 remain accepted as a paired gate
+**Version:** 1.9 (2026-08-28) — final acceptance pass complete: all chapters and appendices accepted
 
 ## Compact Status Table (All Chapters) — Updated 2026-08-28 (word counts are `wc -w` totals incl. tagging apparatus)
 
 | Chapter / Section | Status | Word Count | Notes | Next Action |
 |-------------------|--------|------------|-------|-------------|
 | **Introduction (INTRO.md)** | **Finalized against acceptance criteria** | 2,560 | Acceptance checklist added; I.1–I.7 met | Ready |
-| **Ch 1 — Character of God** | **Ready for acceptance** | 4,455 | Bible-only audit pass complete; secondary-source citation replaced with biblical-text-based objection | Final acceptance |
-| **Ch 2 — Creation** | **Ready for acceptance** | 4,869 | Bible-only compliant; Reformed-tradition reference is identification only | Final acceptance |
-| **Ch 3 — Covenant of Eden** | **Ready for acceptance** | 5,032 | Bible-only compliant; Reformed-tradition references are identification + verification that chapter does not use as evidence | Final acceptance |
-| **Ch 4 — Nature of Adam's Sin** | **Ready for acceptance** | 4,687 | Bible-only compliant | Final acceptance |
-| **Ch 5 — What Was Lost?** | **Ready for acceptance** | 6,348 | Bible-only compliant | Final acceptance |
-| **Ch 6 — What Passed to Humanity?** | **Ready for acceptance** | 3,178 | Bible-only compliant; genre observation is methodological, not evidence-citation | Final acceptance |
-| **Ch 7 — Innocence and Accountability** | **Ready for acceptance** | 2,175 | All 15 fix items from 07_Ch07_Review.md resolved; Bible-only compliant | Final acceptance |
-| **Ch 8 — Growth of Disobedience** | **Ready for acceptance** | 2,164 | Bible-only compliant | Final acceptance |
-| **Ch 9 — Israel as Pattern of Disobedience** | **Ready for acceptance** | 3,476 | All major fix items from 07_Ch09_Review.md resolved; Bible-only compliant | Final acceptance |
-| **Ch 10 — Obedience Above Sacrifice** | **Ready for acceptance** | 2,860 | 20-item review (07_Ch10_Review.md) reconciled 2026-08-28; Bible-only compliant | Final acceptance |
+| **Ch 1 — Character of God** | **Accepted** | 4,455 | Bible-only audit pass complete; secondary-source citation replaced with biblical-text-based objection | None |
+| **Ch 2 — Creation** | **Accepted** | 4,869 | Bible-only compliant; evidence sketches added in acceptance pass | None |
+| **Ch 3 — Covenant of Eden** | **Accepted** | 5,032 | Bible-only compliant; truncated prose completed; sketches added | None |
+| **Ch 4 — Nature of Adam's Sin** | **Accepted** | 4,687 | Bible-only compliant; evidence sketches added in acceptance pass | None |
+| **Ch 5 — What Was Lost?** | **Accepted** | 6,348 | Loss numbering reconciled; cross-link and citation fixes; sketches added | None |
+| **Ch 6 — What Passed to Humanity?** | **Accepted** | 3,178 | Bible-only compliant; genre observation is methodological, not evidence-citation | None |
+| **Ch 7 — Innocence and Accountability** | **Accepted** | 2,175 | All 15 fix items from 07_Ch07_Review.md resolved; Bible-only compliant | None |
+| **Ch 8 — Growth of Disobedience** | **Accepted** | 2,164 | 13 evidence sketches added in acceptance pass | None |
+| **Ch 9 — Israel as Pattern of Disobedience** | **Accepted** | 3,476 | False self-reference corrected; sketches added | None |
+| **Ch 10 — Obedience Above Sacrifice** | **Accepted** | 2,860 | 20-item review (07_Ch10_Review.md) reconciled; A10 entry restored | None |
 | **Ch 11 — Why Must the Redeemer Be Human?** | **A11 accepted in paired revision** | 5,827 | Human debt-side foundation, same-order correspondence, counter-text pressure test pass; prior load-bearing foundation for Ch 15 | Accepted |
-| **Ch 12 — Perfect Obedience of Christ** | **Ready for acceptance** | 4,008 | Bible-only compliant; "active/passive obedience" identification only; presupposes Ch 11 | Final acceptance |
-| **Ch 13 — Gethsemane and the Two Wills** | **Ready for acceptance** | 4,699 | Bible-only compliant; "two wills" / Chalcedonian identification only; presupposes Ch 11 | Final acceptance |
-| **Ch 14 — The Cross as Payment** | **Ready for acceptance** | 2,309 | Bible-only compliant; presupposes Ch 11 and Ch 15 | Final acceptance |
+| **Ch 12 — Perfect Obedience of Christ** | **Accepted** | 4,008 | False lexical claim corrected; phantom verification-log citations removed; sketches added | None |
+| **Ch 13 — Gethsemane and the Two Wills** | **Accepted** | 4,699 | Lexical claim corrected (akouō/hupakoē root); phantom log citations removed; sketches added | None |
+| **Ch 14 — The Cross as Payment** | **Accepted** | 2,309 | Bible-only compliant; presupposes Ch 11 and Ch 15 | None |
 | **Ch 15 — Why One Man for Many** | **A15 accepted after A11** | 5,382 | Inherits Ch 11's same-order foundation; explicit structure `[E]`, sufficiency inference `[I-high]`; co-equal load-bearing mechanism | Accepted after A11 |
-| **Ch 16 — Father's Vindication & New Humanity** | **Ready for acceptance** | 2,194 | Acceptance check + cross-links + verification log in place; presupposes Part IV pair | Final acceptance |
-| **Ch 17 — Conclusions** | **Ready for acceptance** | 1,664 | Acceptance check + cross-links + verification log in place | Final acceptance |
-| **Appendix B** — Alternative Readings | **Ready for acceptance** | 3,145 | Acceptance note in place; cross-links in place | Final acceptance |
-| **Appendix C** — Glossary | **Ready for acceptance** | 3,049 | Bible-only compliant | Final acceptance |
-| **Appendix D** — Research Map | **Ready for acceptance** | 4,389 | Bible-only compliant | Final acceptance |
+| **Ch 16 — Father's Vindication & New Humanity** | **Accepted** | 2,194 | Acceptance criteria now carry section citations; presupposes Part IV pair | None |
+| **Ch 17 — Conclusions** | **Accepted** | 1,664 | Tagging header corrected for a conclusions chapter (tags name source chapters) | None |
+| **Appendix B** — Alternative Readings | **Accepted** | 3,145 | Acceptance criteria now carry section citations | None |
+| **Appendix C** — Glossary | **Accepted** | 3,049 | Image of God entry added; C.8 duplicate converted to cross-reference | None |
+| **Appendix D** — Research Map | **Accepted** | 4,389 | 14 missing book divisions added; misfiled Deuteronomy entry removed | None |
 
 ---
 

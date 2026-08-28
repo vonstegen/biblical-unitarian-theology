@@ -4,9 +4,9 @@
 
 > **Sources:** Bible only, per the project constraint (Introduction §I.2). Primary citations are ESV (verified against esv.org 2026-08-07). Reference translations consulted only where genuinely ambiguous. Translation biases are documented in `06_Translation_Bias_Documentation.md`.
 
-> **Tagging:** Every `[I]` and `[H]` claim carries a low/mid/high confidence band and a crisp evidence sketch per `INTRO.md` §I.5. `[E]` claims state the text directly.
+> **Tagging:** This is a conclusions chapter. Its claims are tagged `[E]`, `[I-band]`, or `[H-band]`; every `[I]` and `[H]` tag names its source chapter, and the evidence sketches live in those cited chapters (per `INTRO.md` §I.5). No sketches are duplicated here.
 
-> **Verification status of biblical quotations:** All load-bearing quotations were verified against esv.org on 2026-08-07 and are listed in §17.4.
+> **Verification status of biblical quotations:** All load-bearing quotations were verified against esv.org on 2026-08-07 and are listed in §17.5.
 
 ---
 
@@ -68,7 +68,7 @@ Per outline for Chapter 17 and the updated checklist (word efficiency and clarit
 - [x] The 10 research questions mapped to their chapter of resolution. All mapped in §17.1 with the chapter and the tag.
 - [x] What remains open stated with tags. All open questions listed in §17.2 with `[H-mid]` or `[I-mid]` and the reason the text does not resolve them.
 - [x] The debt-debtor thesis summarized. Accomplished in §17.3.
-- [x] All claims tagged with evidence sketches; no over-claiming. The summary is `[E]` for the textual claims and `[I-high]` for the synthesis.
+- [x] All claims tagged with evidence sketches; no over-claiming. Every `[I]` and `[H]` tag names its source chapter, and the evidence sketches live in the cited chapters; the summary is `[E]` for the textual claims and `[I-high]` for the synthesis.
 - [x] Prose is clear and readable; length ~1,200 words of efficient prose.
 
 **Cross-links:** To all previous chapters — the mapping in §17.1 ties every research question to its chapter. To the Introduction — the Bible-only constraint and the tagging system are the method that makes the conclusions auditable.

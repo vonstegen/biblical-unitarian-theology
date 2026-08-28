@@ -408,11 +408,35 @@ Publication history: the New Testament appeared in installments from around 1914
 
 ---
 
-## 8. KJV / NKJV — Excluded
+## 8. AICNT (AI Critical New Testament) — Reference
+
+### 8.1 What it is and how it was produced
+
+The AICNT (aicnt.org; New Testament only) is an English translation rendered by AI from the Greek under a fixed, protocol-driven methodology, with a complete scholarly review pass. Base text: the earliest-attested readings as reflected in the major modern critical editions (NA28 / UBS5, SBLGNT, THGNT). Later traditions (Byzantine Majority, Textus Receptus) and other early witnesses appear as annotated alternatives. The apparatus documents over 7,000 textual variants, using `{}` (alternate wording in footnotes), `[ ]` (included in a critical edition but absent from early manuscripts), and `[[ ]]` (later additions / interpolations). Vocabulary choices are grounded in BDAG; deity pronouns are not capitalized; italics are reserved for added words not in the Greek. The translation was AI-rendered in controlled segments (temperature 0 for determinism) and reviewed in full by New Testament scholar Dr. Dustin R. Smith; problems were resolved by re-rendering, not by human re-translation. Sources: [aicnt.org preface and FAQs](https://aicnt.org/preface/), [press release](https://aicnt.org/press-release-july-27-2023/).
+
+### 8.2 Theological frame
+
+Explicit neutrality goals: no doctrinal tradition governs the rendering; charged variants (e.g., Acts 20:28; 1 Timothy 3:16; Jude 5; John 1:18) are presented transparently rather than resolved in favor of any tradition. Co-editor Dr. Dustin R. Smith is a Biblical Unitarian New Testament scholar, and the publisher (Integrity Syndicate) is unitarian-affiliated — the same caveat the project records for the REV: the project does not cite AICNT renderings as evidence for its own claims; it consults AICNT for its variant apparatus.
+
+### 8.3 Where AICNT is *strong* for this project
+
+- Variant transparency is exactly what Appendix B (hard texts) needs: *monogenēs*, Titus 2:13, 2 Peter 1:1, John 1:18, and the longer endings are presented with their manuscript alternatives in the text itself.
+- No capitalized deity pronouns removes one of the silent interpretive choices most translations make.
+- BDAG-grounded vocabulary makes lexical claims checkable against a standard lexicon.
+
+### 8.4 Where AICNT is *weak* for this project
+
+- AI-rendered rather than human-translated; the preface itself acknowledges occasional apparatus errors and plans corrections in future editions.
+- New Testament only — no OT coverage.
+- Young translation (2023–2025 editions) with limited independent scholarly reception to date.
+- Its neutrality protocol is a design goal, not a guarantee; treat individual renderings the way the project treats every translation — as evidence about the underlying text, verified against the apparatus.
+
+---
+
+## 9. KJV / NKJV — Excluded
 
 ### 8.1 Why excluded
 
-Both translations preserve 17th-century editorial decisions that the modern critical editions (NA28 / BHS) reject as not original to the biblical text:
 
 - **1 John 5:7–8 (the Comma Johanneum)** — "For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one." Absent from every known Greek manuscript before the 16th century. Earliest Greek attestation is in a 14th-century Latin manuscript (Codex Ottobianus); the reading appears to have entered the Latin tradition via a marginal gloss in response to Trinitarian controversies. ([Wikipedia, Comma Johanneum](https://en.wikipedia.org/wiki/Comma_Johanneum); standard textual criticism literature.)
 - **Mark 16:9–20** (longer ending) — bracketed as a later addition by virtually all modern translations.
@@ -427,7 +451,6 @@ The KJV preserves readings that, in their textual tradition, smooth Trinitarian 
 - The KJV uses "God" in passages where the underlying text is ambiguous.
 
 **Sources:** [bible-researcher.com/comma-johanneum.html](https://www.bible-researcher.com/comma.html); standard introductions to NT textual criticism (Metzger, *The Text of the New Testament*; Aland & Aland, *The Text of the New Testament*).
-
 ### 8.3 Why exclusion rather than inclusion as reference
 
 The project is not excluding the KJV because of theological opposition. It is excluding the KJV because the KJV's textual basis is a 17th-century edition (Textus Receptus in the Elzevir/Stephanus recension) that has been substantially superseded by 19th- and 20th-century manuscript discoveries. For a project whose stated source-constraint is *the Bible alone*, using a textual basis that demonstrably contains later additions that are not in the underlying manuscripts violates that constraint.
@@ -436,7 +459,7 @@ The Bible, the original-language manuscripts, are the canonical text. The KJV is
 
 ---
 
-## 9. Cross-reference summary table
+## 10. Cross-reference summary table
 
 | Translation | Textual basis (NT) | Theological frame | Use for this project |
 |---|---|---|---|
@@ -447,13 +470,14 @@ The Bible, the original-language manuscripts, are the canonical text. The KJV is
 | **Rotherham** | Westcott-Hort (critical) | Anti-creedal / Restoration Movement (Kohlenberger endorsement: "one of the most innovative and thoroughly researched translations ever done by a single individual") | Reference for parsing + non-creedal reading |
 | **REV** | NA28 (critical) | Biblical unitarian (explicit; explicit acknowledgement of translator bias) | Reference for unitarian reading; **NOT primary** |
 | **CLV** | Westcott-Hort (critical) | Universal reconciliation / British-Israelist | Reference for concordant vocabulary; **NOT primary** |
+| **AICNT** | Earliest-attested readings per NA28 / UBS5 / SBLGNT / THGNT (embedded apparatus, 7,000+ variants) | AI-rendered under neutrality protocol; BDAG-grounded; scholarly review (D. Smith); unitarian-affiliated publisher | Reference for variant transparency (Appendix B); **NOT primary**; NT only |
 | **KJV / NKJV** | Textus Receptus | 17th-century Protestant orthodox | **Excluded** (textual-basis issues) |
 
 ---
 
-## 10. Side-by-side rendering table — key passages
+## 11. Side-by-side rendering table — key passages
 
-The following passages are central to the project's debt-debtor thesis of redemption. Renderings below are given in the seven translations in the project's set. Where a passage is bracketed or omitted in a translation, that is noted.
+The following passages are central to the project's debt-debtor thesis of redemption. Renderings below are given in the seven translations of the project's set plus AICNT, which appears only for New Testament passages (it covers the NT alone). Where a passage is bracketed or omitted in a translation, that is noted.
 
 ### 10.1 Genesis 2:16–17 — the penalty stated
 
@@ -640,7 +664,6 @@ This is the most contested set of passages in the project's translation set. See
 - **Greek *morphē* ("form" / "nature" / "condition")**: rendered "form" across the board. The word is debated — does it mean "essential nature" (Nicene metaphysical reading) or "outward expression" / "condition" / "mode of being" (functional/locative reading)? YLT's "his being" captures the verbal aspect of *huparchōn*; CLV's "subsisting" likewise.
 - **Greek *harpagmos* / *arpagmos* ("robbery" / "thing to be grasped" / "infringement")**: a notoriously difficult word. ESV's "thing to be grasped" and NASB's "regard...as a thing to be grasped" treat it as a noun meaning "something seized"; CLV's "infringement" treats it as something one shouldn't grasp.
 - **Greek *kenoō* ("emptied himself")**: rendered "emptied himself" across the board. The doctrinal question of *what* he emptied is left open by all translations.
-- **Tag suggestion**: For the substantive claim (the one described in this passage was in some relation to God's form and took a servant's form): `[E]`. For the metaphysical reading (essential nature vs. functional expression): `[H]`. For *harpagmos*: `[I]` — the lexical decision affects the doctrine.
 
 ### 10.10 Hebrews 5:7–8 — learned obedience
 
@@ -664,7 +687,7 @@ This is the most contested set of passages in the project's translation set. See
 
 ---
 
-## 11. Cross-translation controversy map
+## 12. Cross-translation controversy map
 
 The following are 5–8 specific doctrinal/textual questions where the translations disagree in ways that materially affect the project's claims. For each: which translations land on which side; what the underlying Greek/Hebrew says; what the `[E]/[I-band]/[H-band]` tag should be.
 
@@ -702,7 +725,6 @@ The following are 5–8 specific doctrinal/textual questions where the translati
 - **Included** (KJV, NKJV — Textus Receptus tradition)
 - **Underlying Greek**: Comma appears in no Greek manuscript before the 16th century; Latin-only tradition
 - **Tag**: This is a textual-variant question, not an `[E]/[I-band]/[H-band]` claim. The passage as it appears in KJV is not in the original text. **Do not cite.**
-
 ### Controversy 6 — *aionios* / *olam* — "eternal" or "age-during"?
 
 - **"Eternal" / "everlasting"** (ESV, NASB, Rotherham — mainstream renderings of *aionios*)
@@ -726,8 +748,7 @@ The following are 5–8 specific doctrinal/textual questions where the translati
 
 ---
 
-## 12. Relative weight verdict
-
+## 13. Relative weight verdict
 Per-translation recommendation for how heavily each should be cited in the final manuscript:
 
 | Translation | Recommendation | Rationale |
@@ -751,7 +772,7 @@ Per-translation recommendation for how heavily each should be cited in the final
 
 ---
 
-## 13. Recommended practice when translation differences bear on a claim
+## 14. Recommended practice when translation differences bear on a claim
 
 When two translations disagree in a passage the project cites:
 

@@ -6,7 +6,7 @@
 
 > **Tagging:** Every definition is tagged with the epistemic status of the term in the text. `[E]` for terms the text uses explicitly; `[I-band]` for terms that are strong implications from context; `[H-band]` for terms that are hypotheses or syntheses. Evidence sketches are provided for `[I]` and `[H]` definitions.
 
-> **Verification status of biblical quotations:** All load-bearing quotations were verified against esv.org on 2026-08-07 and are listed in §C.10.
+> **Verification status of biblical quotations:** All load-bearing quotations were verified against esv.org on 2026-08-07 and are listed in §C.13.
 
 ---
 
@@ -89,12 +89,7 @@ The term "last Adam" is the project's description of Christ as the corresponding
 
 ## C.8 Constitutional Transmission
 
-The term "constitutional transmission" is the project's description of the ontic mechanism by which the consequence of Adam's act propagates to his descendants. The text does not use the term; the project uses it as a shorthand for the inherited condition of Adam's descendants (the bent condition described in Genesis 6:5 and 8:21). The term is `[I-high]` for the mechanism (the condition is explicit; the link to Adam's act is a strong implication from the Pauline framework in Romans 5:12 and 1 Corinthians 15:22). The project uses "constitutional transmission" to distinguish the inherited condition from the forensic imputation of guilt (left open at `[I-mid]` in Chapter 6). The reader should evaluate the mechanism against the text.
-
-**Evidence sketch (`[I-high]`):**
-- *Evidence for:* (a) Genesis 6:5 and 8:21 describe the condition as pervasive and "from his youth." (b) Romans 5:12 — "death spread to all men because all sinned." (c) 1 Corinthians 15:22 — "in Adam all die."
-- *Evidence against / weakening:* (a) The verses do not explicitly link the condition to Adam's act. (b) The condition could be read as moral observation rather than ontological transmission.
-- *Band justification:* The condition is explicit; the link to Adam's act is a strong implication from the Pauline framework. `[I-high]` is honest.
+"Constitutional transmission" is used interchangeably with "ontic transmission" (see §C.4) for the mechanism by which the consequence of Adam's act propagates to his descendants. The two terms name the same claim: the inherited condition described in Genesis 6:5 and 8:21 and its link to Adam's act in Romans 5:12 and 1 Corinthians 15:22. The evidence sketch, the `[I-high]` tag, and the band justification live in §C.4; they are not duplicated here.
 
 ---
 
@@ -109,7 +104,18 @@ The term "pattern of disobedience" is the project's description of the recurring
 
 ---
 
-## C.10 New Humanity
+## C.10 Image of God
+
+The term "image of God" is the project's description of humanity's created likeness to God — the structural anchor of the human vocation and of the "corresponding" logic that requires a human redeemer. The text uses the term explicitly: "Let us make man in our image, after our likeness" (Genesis 1:26); "in the image of God he created him; male and female he created them" (Genesis 1:27); "for God made man in his own image" (Genesis 9:6). The term is `[E]` for the textual phrase; the *interpretation* of the image as what the fall marred and the last Adam renews is `[I-high]` (the renewal language — Colossians 3:10; Ephesians 4:24; 2 Corinthians 4:4 — ties the restored image to the last Adam). The project uses "image of God" as the original that is renewed in the new humanity (Chapter 16). The reader should evaluate the term against the text.
+
+**Evidence sketch (`[I-high]`):**
+- *Evidence for:* (a) Genesis 1:26–27 — humanity is made in God's image and likeness, male and female. (b) Genesis 9:6 — the image persists after the fall ("for God made man in his own image"). (c) Colossians 3:10 and Ephesians 4:24 — the new self is "renewed in knowledge after the image of its creator" and "created after the likeness of God," tying the restoration to the original image.
+- *Evidence against / weakening:* (a) The text does not define what the image consists in (moral, relational, or functional). (b) The renewal language could be read as individual regeneration rather than the restoration of the original image.
+- *Band justification:* The phrase "image of God" is explicit; the reading of the image as what is marred in the fall and renewed in the last Adam is the natural reading of the renewal parallels. `[I-high]` is honest.
+
+---
+
+## C.11 New Humanity
 
 The term "new humanity" is the project's description of the restoration of what was lost in the fall. The text uses "new creation" (2 Corinthians 5:17), "one new man" (Ephesians 2:15), and the new self "created after the likeness of God" (Ephesians 4:24; Colossians 3:10). The term is `[E]` for the textual language; the *interpretation* as the restoration of the image, the relational rupture, and the constitutional condition is `[I-high]` (the parallels with the image of God in Genesis 1:26–28 and the renewal of creation in Romans 8:19–23 are convergent). The project uses "new humanity" as the biblical description of the restored people in the last Adam. The reader should evaluate the language against the text.
 
@@ -120,7 +126,7 @@ The term "new humanity" is the project's description of the restoration of what 
 
 ---
 
-## C.11 Acceptance check
+## C.12 Acceptance check
 
 Per outline for Appendix C and the updated checklist (word efficiency and clarity prioritized):
 
@@ -133,7 +139,7 @@ Per outline for Appendix C and the updated checklist (word efficiency and clarit
 
 ---
 
-## C.12 Verification log
+## C.13 Verification log
 
 All load-bearing quotations verified against esv.org on 2026-08-07.
 
