@@ -1,4 +1,5 @@
 # Research & Writing Checklist
+> **Status: STALE / ARCHIVAL (2026-08-07).** This checklist is retained as a historical task breakdown and is superseded by `WORKFLOW_CHECKLIST.md` v1.6. Do not use its earlier Chapter 15-first drafting recommendation or acceptance order. The canonical policy is Chapter 11 first as the correspondence foundation, followed by Chapter 15's gated one-for-many mechanism.
 
 > A task-level breakdown of `01_Architecture_and_Outline.md` (Version 1.3,
 > reconciled 2026-08-04). Each chapter is decomposed into research, exegesis,

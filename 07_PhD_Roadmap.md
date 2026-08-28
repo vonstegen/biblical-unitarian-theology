@@ -65,8 +65,9 @@ The path from current state to PhD submission is divided into seven phases. Each
 **Sequential dependencies (per outline):**
 
 - Chapter 5 blocks Chapter 6 (do not start Ch 6 until Ch 5 has acceptance)
-- Chapter 4 (Fundamental-Treatise-foundational) should precede Chapter 11 (the redeemed-must-be-human chapter)
-- Chapter 15 (already drafted) is presupposed by Chapters 12, 13, 14, 16
+- Chapter 4 (fundamental-treatise foundational) should precede Chapter 11 (the redeemed-must-be-human chapter)
+- Chapter 11 is the prior load-bearing foundation for Part IV: its A11 acceptance establishes the same-order, pure-human correspondence principle.
+- Chapter 15 (one-for-many mechanism) presupposes Chapter 11 and cannot be accepted until Chapter 11 passes A11. Chapters 11 and 15 are co-equal load-bearing chapters; Chapter 15's mechanism is downstream in logic and supports Chapters 12, 13, 14, and 16.
 
 **Estimated output:** ~60,000 words of first-draft content (12 chapters at ~5,000 words each), bringing the total to ~80,000 words across 17 chapters.
 

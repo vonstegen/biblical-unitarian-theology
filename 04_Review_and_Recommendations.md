@@ -3,6 +3,7 @@
 **Project:** BU_Thology — Debt-Debtor Thesis of Redemption  
 **Reviewer:** Grok (workspace review)  
 **Date:** 2026-08-04  
+> **Ordering note (2026-08-07):** The Phase B/C drafting order below is a historical recommendation and is superseded. The canonical dependency is now Chapter 11 first (same-order, pure-human correspondence), then Chapter 15 (one-for-many mechanism); Chapter 15 cannot pass acceptance until Chapter 11 passes A11. This file remains an archive, not the current source of truth.
 **Primary source reviewed:** `TheologyPaper.md` (~20k words chat development)  
 **Supporting files:** `00_Master_Thesis(1).docx` through `03_Working_Research_Notes(1).docx`
 

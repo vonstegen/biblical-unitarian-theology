@@ -149,7 +149,7 @@ The paper has 17 numbered chapters (after this Introduction), plus 3 appendices:
 
 **Part III — Humanity Under the Debt** (Ch 7–10): innocence and accountability; the growth of disobedience; Israel as pattern of disobedience; obedience above sacrifice. Establishes the *human condition* the redeemer must address.
 
-**Part IV — The Last Adam** (Ch 11–15): why a human redeemer; the perfect obedience of Christ; Gethsemane and the two wills; the cross as payment; why one man for many. **Chapter 15 is the recommended first chapter to draft** (per the prior review §9 Phase B) because it locks the central claim before the spine builds outward.
+**Part IV — The Last Adam** (Ch 11–15): why a human redeemer; the perfect obedience of Christ; Gethsemane and the two wills; the cross as payment; why one man for many. Chapter 11 is the prior load-bearing foundation: its same-order, pure-human correspondence principle (§11.3) must pass before Chapter 15 can be accepted. Chapters 11 and 15 are co-equal in load-bearing importance, but the dependency is directional: Chapter 15 develops the one-for-many mechanism on Chapter 11's foundation. Chapter 15 is not a logically prior drafting shortcut; the former recommendation to draft it first is superseded.
 
 **Part V — Vindication and Conclusion** (Ch 16–17): the Father's vindication and the new humanity; conclusions mapping the 10 research questions to their chapter-of-answer.
 
@@ -167,6 +167,10 @@ The Bible-only source constraint (I.2) limits the paper in two important ways:
 
 These limits are features of the method, not bugs. A paper that argues from Scripture alone is *constrained* in what it can prove but *unconstrained* in what it can show. The text itself is the authority; the paper's job is to read it carefully and let it speak.
 
+## I.8 Acceptance checklist for the Introduction
+
+Per outline A-Intro: a reader can state the thesis, the source constraint, the translation set, and the tagging convention after reading this section in one sitting. All four are stated in I.1 (thesis), I.2 (source constraint), I.4 (translation set), and I.5 (tagging convention). The reader can state them after one sitting.
+
 ---
 
-*The first chapter to be drafted in this project is Chapter 15 (Why One Man for Many), per the prior review's recommendation. See `chapters/Chapter_15_Why_One_Man_for_Many.md` for that draft.*
+*Finalized against acceptance criteria (2026-08-07). The Introduction now meets I.1–I.7 and A-Intro. The front matter is complete.*

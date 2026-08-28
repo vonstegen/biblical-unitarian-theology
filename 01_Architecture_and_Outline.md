@@ -1,21 +1,15 @@
 # Thesis Architecture and Outline
 
-> **Version 1.3** — reconciled 2026-08-04 against `00_Master_Thesis.md`,
-> `04_Review_and_Recommendations.md`, and `05_Research_and_Writing_Checklist.md`.
-> v1.3 expands the translation table per user input (YLT, LSV, Rotherham,
-> REV, CLV added as reference translations) and links to a separate
-> `06_Translation_Bias_Documentation.md` for sourced bias analysis.
->
-> Spine verse: **Romans 5:19** — *"For as by the one man's disobedience the
-> many were made sinners, so by the one man's obedience the many will be
-> made righteous."*
-
+> **Version 1.4** — paired Chapter 11 / Chapter 15 foundation revision (2026-08-07). v1.4 re-grounds Chapter 11 with a direct debt-side subsection (Genesis 2:16–17; 3:17–19; Romans 5:12; 1 Corinthians 15:21–22), pressure-tests the principal counter-readings, and reorders the Part IV acceptance logic: Chapter 11 is the prior load-bearing foundation and Chapter 15 is the gated one-for-many mechanism. v1.4 supersedes the v1.3 "recommended first chapter" note (Chapter 15) and aligns A11 / A15 as a paired acceptance gate.
+> Spine verse: **Romans 5:19** — *"For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous."*
 ## How to read this outline
 
 - Chapters are numbered. The Introduction is unnumbered.
 - **Foundational chapters block downstream ones.** Do not draft Part III
   chapters until Part II has acceptance-criteria pass; do not draft Part IV
-  until Part I has set up the justice-framework.
+  until Part I has set up the justice-framework. Part IV (Ch 11–15) is
+  itself load-bearing: Chapter 11 is the prior foundation; Chapter 15
+  inherits it and cannot pass acceptance until A11 does.
 - **All claims must be tagged `[E]` / `[I]` / `[H]`** at draft time per
   `04_Review_and_Recommendations.md` §8.3. Treat `[E]` as the gold standard;
   resist the temptation to upgrade `[I]` or `[H]` to `[E]` without textual basis.
@@ -38,7 +32,8 @@ This outline reconciles four prior sources, in version order:
 | `05_Research_and_Writing_Checklist.md` v1.0 (prior checklist) | 16 | 3 chapters (flagged merger) | No | Yes (implied) | No |
 | `01_` v1.1 (reconciled structure) | 17 + Intro | 1 chapter (Vindication + New Humanity) | Yes (Ch 17) | Yes | Yes (A–D) |
 | `01_` v1.2 (Bible-only constraint) | 17 + Intro | 1 chapter | Yes | No — Bible only | 3 appendices (B–D; A removed) |
-| **`01_` v1.3 (this version)** | **17 + Intro** | **1 chapter** | **Yes** | **No — Bible only** | **3 appendices (B–D)** |
+| `01_` v1.3 (this version's predecessor) | 17 + Intro | 1 chapter | Yes | No — Bible only | 3 appendices (B–D) |
+| **`01_` v1.4 (this version)** | **17 + Intro** | **1 chapter** | **Yes** | **No — Bible only** | **3 appendices (B–D)** |
 
 Five structural changes from v1.0:
 
@@ -69,6 +64,11 @@ Changes from v1.2 → v1.3 (literal-source reference set):
    bibliography recommendations, plus the REV (revbible.com) as a unitarian
    reference.
 9. **Added `06_Translation_Bias_Documentation.md`** as a sourced, citation-backed
+Changes from v1.3 → v1.4 (paired Chapter 11 / Chapter 15 foundation revision):
+10. Re-grounded Chapter 11 with a direct debt-side subsection (Genesis 2:16–17; 3:17–19; Romans 5:12; 1 Corinthians 15:21–22) and pressure-tested the principal counter-readings (1 Corinthians 15:45, 47; Philippians 2:6–8).
+11. Corrected the Part IV dependency direction: Chapter 11 is the prior load-bearing foundation; Chapter 15 is the gated one-for-many mechanism that cannot pass acceptance until Chapter 11 passes A11.
+12. Reclassified Chapter 15's explanatory sufficiency claim from `[E]` to `[I-high]`, retaining the explicit one-act / many-recipients structure as `[E]`. Marked A11 and A15 as a paired acceptance gate.
+13. Replaced the obsolete "recommended first chapter: Chapter 15" note in §6.2 with the canonical pairing rule (Chapter 11 first; Chapter 15 inherits the correspondence principle and the dependency is directional).
    bias and limitations analysis for each translation in the set. This
    accompanies the translations rather than living in the outline.
 
@@ -293,7 +293,7 @@ convention. Sets the reader's expectations and the author's commitments.
 - [ ] **E11.4** Hebrews 2:14–17 — [E]
 - [ ] **W11.1** Write 900–1,200 words: the *correspondence* principle — the substitute must be of the same order as the debtor
 - [ ] **W11.2** Carefully state the christological conclusion as a *result* of the exegesis, not a premise
-- [ ] **A11** Acceptance: chapter answers *"why not a God-man?"* via "corresponding representative," drawn from the Adam-Christ parallels themselves — no appeal to outside categories
+- [ ] **A11** Acceptance: chapter answers *"why not a God-man?"* via "corresponding representative," drawn from the Adam-Christ parallels themselves — no appeal to outside categories. A11 is the prior load-bearing condition for Chapter 15.
 
 ### Chapter 12 — The Perfect Obedience of Christ
 
@@ -359,9 +359,9 @@ convention. Sets the reader's expectations and the author's commitments.
 - [ ] **R15.2** Inventory federal-headship texts beyond Rom 5 (1 Corinthians 15; Ephesians 1:22–23; Hebrews 2)
 - [ ] **E15.1** Romans 5:18–19 (one man's obedience for many) — [E], central text
 - [ ] **E15.2** 1 Corinthians 15:22 (in Christ all made alive) — [E]
-- [ ] **W15.1** Write 900–1,200 words: federal headship as the structural reason one suffices, drawn from the parallels Paul himself draws
-- [ ] **W15.2** This is the chapter the prior review recommends drafting *first* — prioritize if rewriting
-- [ ] **A15** Acceptance: chapter answers *"why one for many"* via headship, not via biology or divine fiat
+- [ ] **W15.1** Write 900–1,200 words: federal headship as the structural reason one corresponding man suffices, drawn from the parallels Paul himself draws; distinguish explicit one-act / many-recipients structure `[E]` from the explanatory sufficiency inference `[I-high]`
+- [ ] **W15.2** Chapter 15 presupposes Chapter 11's correspondence principle (§§11.1–11.3) and cannot be accepted until Chapter 11 passes A11; it develops the numerical one-for-many mechanism rather than re-proving same-order humanity
+- [ ] **A15** Acceptance: chapter answers *"why one for many"* via headship, not via biology or divine fiat, and explicitly inherits the Chapter 11 foundation
 
 ---
 
@@ -492,13 +492,9 @@ convention. Sets the reader's expectations and the author's commitments.
 - [ ] **X.5** *(removed in v1.2)* — no secondary sources under the Bible-only
       constraint
 
-## Recommended first chapter to draft
+## Drafting and acceptance order for Chapters 11 and 15
 
-Per the prior review §9 Phase B: **Chapter 15 (Why One Man for Many)** — the
-spine verse (Romans 5:19) and the chat log already have a strong start here.
-Drafting this first locks the central claim before building outward.
-
-Alternative: **Chapter 1 (God's Character)** if you prefer strict narrative order.
+Chapter 11 must be grounded first. Its A11 acceptance establishes the same-order, pure-human correspondence principle from the human penalty and the Adam-Christ texts. Chapter 15 is co-equal in load-bearing importance but is downstream in logic: it explains why one such corresponding man's obedience affects the many. Chapter 15 cannot be accepted until Chapter 11 passes A11. Drafting order and logical dependency are distinct; the former recommendation to draft Chapter 15 first is superseded.
 
 ## Estimated word count for full manuscript
 
