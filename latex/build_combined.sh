@@ -39,7 +39,7 @@ cd "$PROJECT"
     "$PROJECT/chapters/Chapter_14_Cross_as_Payment.md" \
     "$PROJECT/chapters/Chapter_15_Why_One_Man_for_Many.md" \
     "$PROJECT/chapters/Chapter_16_The_Fathers_Vindication_and_the_New_Humanity.md" \
-    "$PROJECT/chapters/Chapter_17_Conclusions.md" \
+    "$PROJECT/chapters/Appendix_A_Secondary_Literature_Conversation.md" \
     "$PROJECT/chapters/Appendix_B_Alternative_Exegetical_Readings_of_Hard_Texts.md" \
     "$PROJECT/chapters/Appendix_C_Glossary.md" \
     "$PROJECT/chapters/Appendix_D_Full_Biblical_Research_Map.md"

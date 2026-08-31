@@ -82,7 +82,7 @@ Add to each evidence sketch:
 
 **Estimated effort:** 2–3 sessions per chapter (or batched across the manuscript as a single editing pass).
 
-### Phase 3 — Add Appendix A (engagement with the secondary literature) — **NEXT**
+### Phase 3 — Add Appendix A (engagement with the secondary literature) — **COMPLETE** (2026-08-31; Appendix A drafted; A-AppA ready for final acceptance pass)
 
 **Goal:** Write the appendix that the v1.2 outline removed in order to honor the Bible-only constraint. Reintroduce it for the PhD submission, *clearly bounded* so that the Bible-only core argument is preserved.
 

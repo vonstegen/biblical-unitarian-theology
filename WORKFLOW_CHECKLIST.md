@@ -16,6 +16,12 @@
 - `01_Architecture_and_Outline.md` → v1.5 (Chapter 0 acceptance criteria R0.1–R0.5, W0.1, A0); `INTRO.md` §I.6 updated for the methodology chapter and the PhD-form Appendix A.
 - `07_PhD_Roadmap.md` current-state section refreshed to v1.2 reality: Phases 1 and 5 complete, Phase 4 complete, Phase 2 partially complete; Appendix A (Phase 3) is the next writing target.
 
+**2026-08-31 — v1.11 (PhD expansion: Appendix A secondary literature conversation)**
+- Added Appendix A per `07_PhD_Roadmap.md` Phase 3: eight sections (A.A.1–A.A.8) engaging the secondary-literature traditions the manuscript's argument touches (federal theology / covenant of works; federal headship tradition; anti-federal tradition incl. Socinian / dispensational / Christadelphian; two-wills christology; active / passive obedience; state-of-the-dead debate; modern Pauline scholarship; unitarian-biblical-theology tradition). Each section names the tradition, the engagement point in the manuscript, and the boundary. Bibliography at A.A end; appended because the main body carries none, by the Bible-only constraint.
+- Wired Appendix A into `latex/build_combined.sh` (between Chapter 17 and Appendix B); PDF revision slug bumped to `v1.3-phd-appA` (238 pages).
+- `01_Architecture_and_Outline.md` → v1.6 with the Appendix A acceptance criteria (R-A.A.1–R-A.A.8, W-A.A, A-AppA); `INTRO.md` §I.6 now lists Appendix A as the fourth appendix in the dissertation form.
+- `07_PhD_Roadmap.md`: Phase 3 marked complete; current state now at ~96,500 words.
+
 **2026-08-28 — v1.8 (repo hygiene and reconciliation)**
 - All work committed and pushed (three weeks of uncommitted changes from 2026-08-06 to 2026-08-28 are now in history); working tree clean.
 - Pulled and reconciled `07_Ch10_Review.md` (20-item fix list): citation rename (post-canonical → Jesus citation), `[I-high]` → `[I-mid]` downgrade, combination argument added to §10.10, Ch 9 cross-link added to §10.1, forward-link re-attributed, reference-only list trimmed to five, kind-of-being stragglers removed.
@@ -37,18 +43,16 @@
 - Added compact status table covering **every** chapter (1–17), Introduction, and Appendices B–D as explicitly requested.
 - Noted PhD aspiration from `07_PhD_Roadmap.md` (relaxed Bible-only in Appendix A, methodology chapter, 140k–165k word target).
 
-**2026-08-07 — v1.0**
-- Created as authoritative living document after advisory correction of earlier mistaken status assessment.
-- Supersedes stale `05_Research_and_Writing_Checklist.md`.
 
 ---
 
-**Version:** 1.10 (2026-08-31) — PhD expansion begun: Chapter 0 (Methodology) added and accepted; Appendix A next
-
+**Version:** 1.11 (2026-08-31) — PhD expansion continued: Appendix A (Secondary Literature Conversation) added; ready for final acceptance pass
 ## Compact Status Table (All Chapters) — Updated 2026-08-31 (word counts are `wc -w` totals incl. tagging apparatus)
 
 | Chapter / Section | Status | Word Count | Notes | Next Action |
 |-------------------|--------|------------|-------|-------------|
+| **Appendix A** — Secondary Literature Conversation | **Ready for acceptance (A-AppA)** | 6,810 | Added 2026-08-31 per PhD roadmap Phase 3; eight sections engaging the conversation, never as evidence; bibliography appended (dissertation form only) | Final acceptance pass |
+
 | **Ch 0 — Methodology** | **Accepted (A0)** | 5,001 | Added 2026-08-31 per PhD roadmap Phase 4; secondary sources named methodologically only; quotations verified against esv.org | None |
 
 | **Introduction (INTRO.md)** | **Finalized against acceptance criteria** | 2,560 | Acceptance checklist added; I.1–I.7 met | Ready |

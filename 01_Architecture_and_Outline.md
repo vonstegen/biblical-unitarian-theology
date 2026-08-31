@@ -1,6 +1,6 @@
 # Thesis Architecture and Outline
 
-> **Version 1.5** — PhD-expansion methodology chapter (2026-08-31). v1.5 adds Chapter 0 (Methodology) ahead of Part I per `07_PhD_Roadmap.md` Phase 4: the Bible-only constraint argued as a rigorous methodological commitment, the translation policy, the tagging system as an epistemic standard, and the fit between method and thesis. v1.5 does not change Chapters 1–17 or Appendices B–D. v1.4 (paired Chapter 11 / Chapter 15 foundation revision, 2026-08-07) remains the authority for the Part IV acceptance logic.
+> **Version 1.6** — PhD expansion: Appendix A added (2026-08-31). v1.6 retains v1.5's Chapter 0 (Methodology) and adds Appendix A per `07_PhD_Roadmap.md` Phase 3: the dissertation-form bounded exception for engagement with the secondary literature (federal theology, federal headship, anti-federal tradition, two-wills christology, active/passive obedience, state of the dead, modern Pauline scholarship, unitarian-biblical-theology tradition). v1.6 does not change Chapters 1–17 or Appendices B–D. v1.4 (paired Chapter 11 / Chapter 15 foundation revision, 2026-08-07) remains the authority for the Part IV acceptance logic.
 > Spine verse: **Romans 5:19** — *"For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous."*
 ## How to read this outline
 
@@ -34,7 +34,8 @@ This outline reconciles four prior sources, in version order:
 | `01_` v1.2 (Bible-only constraint) | 17 + Intro | 1 chapter | Yes | No — Bible only | 3 appendices (B–D; A removed) |
 | `01_` v1.3 (this version's predecessor) | 17 + Intro | 1 chapter | Yes | No — Bible only | 3 appendices (B–D) |
 | `01_` v1.4 (prior version) | 17 + Intro | 1 chapter | Yes | No — Bible only | 3 appendices (B–D) |
-| **`01_` v1.5 (this version)** | **17 + Intro + Ch 0** | **1 chapter** | **Yes** | **No — Bible only (Ch 0 states the PhD-form Appendix A charter)** | **3 appendices (B–D; A reinstated in PhD form only)** |
+| `01_` v1.5 (prior version) | 17 + Intro + Ch 0 | 1 chapter | Yes | No — Bible only (Ch 0 states the PhD-form Appendix A charter) | 3 appendices (B–D; A reinstated in PhD form only) |
+| **`01_` v1.6 (this version)** | **17 + Intro + Ch 0** | **1 chapter** | **Yes** | **No — Bible only (Appendix A added in PhD form)** | **4 appendices (A–D)** |
 
 Five structural changes from v1.0:
 
@@ -70,13 +71,15 @@ Changes from v1.3 → v1.4 (paired Chapter 11 / Chapter 15 foundation revision):
 11. Corrected the Part IV dependency direction: Chapter 11 is the prior load-bearing foundation; Chapter 15 is the gated one-for-many mechanism that cannot pass acceptance until Chapter 11 passes A11.
 12. Reclassified Chapter 15's explanatory sufficiency claim from `[E]` to `[I-high]`, retaining the explicit one-act / many-recipients structure as `[E]`. Marked A11 and A15 as a paired acceptance gate.
 13. Replaced the obsolete "recommended first chapter: Chapter 15" note in §6.2 with the canonical pairing rule (Chapter 11 first; Chapter 15 inherits the correspondence principle and the dependency is directional).
-   bias and limitations analysis for each translation in the set. This
-   accompanies the translations rather than living in the outline.
 
 Changes from v1.4 → v1.5 (PhD-expansion methodology chapter):
 
 14. **Added Chapter 0 (Methodology)** ahead of Part I per `07_PhD_Roadmap.md` Phase 4. Chapter 0 argues the Bible-only constraint as a rigorous methodological commitment (warrant, disciplines, precedent, objection, parallel-passage discipline), states the dissertation-form Appendix A relaxation charter, restates the translation policy and citation rules, presents the tagging system as an epistemic standard, and shows the method–thesis fit. Chapters 1–17 and Appendices B–D are unchanged.
 
+
+Changes from v1.5 → v1.6 (PhD expansion: Appendix A secondary literature conversation):
+
+15. **Added Appendix A (Secondary Literature Conversation)** per `07_PhD_Roadmap.md` Phase 3, completing the dissertation-form bounded exception chartered in Chapter 0 §0.2. Appendix A covers A.A.1 (federal theology / covenant of works), A.A.2 (federal headship), A.A.3 (anti-federal tradition, dispensational + Socinian), A.A.4 (two-wills christology), A.A.5 (active / passive obedience), A.A.6 (state-of-the-dead debate), A.A.7 (modern Pauline scholarship), and A.A.8 (unitarian-biblical-theology tradition). Each section: names the tradition; names the engagement point in the manuscript; closes with a boundary paragraph stating how the manuscript holds the position (and which neighboring positions it does not adopt). The appendix is mapped to the project's Bible-only constraint: secondary sources are engaged to *locate* the contribution, never as evidence.
 ---
 
 ## Introduction (unnumbered)
@@ -162,7 +165,23 @@ convention. Sets the reader's expectations and the author's commitments.
 - [ ] **W0.1** Write 5,000–8,000 words of methodology prose
 - [ ] **A0** Acceptance: a reader can state the method, its warrant, its limits, and why it fits this thesis after reading in one sitting
 
+## Appendix A — Secondary Literature Conversation (Dissertation Form)
+
+**Anchors:** `07_PhD_Roadmap.md` Phase 3 (PhD form). The dissertation-form bounded exception stated in `Chapter_0` §0.2 — secondary literature engaged to locate the contribution and test it against its rivals, never as evidence. Boundaries documented in Chapter 0 §0.2 and in the file's own Status block.
+
+- [ ] **R-A.A.1** Federal theology and the covenant of works: Witsius; Cocceius; Westminster Confession ch. VII — engagement point is Chapter 3 on the declared-penalty reading.
+- [ ] **R-A.A.2** Federal headship tradition: Hodge; Murray's *Imputation of Adam's Sin* — engagement point is Chapter 11's correspondence principle vs. Murray's forensic-imputation schema; manuscript refuses the schema while holding the substantive claim.
+- [ ] **R-A.A.3** Anti-federal tradition: Ryrie (dispensational); Socinus and the *Racovian Catechism*; the Christadelphian tradition — engagement point is Chapters 5–6 on imputation and the ontic-transmission `[I-high]`.
+- [ ] **R-A.A.4** Two-wills christology: Chalcedon; Third Constantinople; Owen; Turretin — engagement point is Chapter 13's textual categories vs. the dyothelite metaphysical layering.
+- [ ] **R-A.A.5** Active and passive obedience of Christ: Murray's *Redemption Accomplished and Applied*; Bloesch's critique — engagement point is Chapters 12 and 14 on the unified obedience vs. the active/passive scholastic division.
+- [ ] **R-A.A.6** State-of-the-dead debate: natural-immortality tradition (Tertullian; Fourth Lateran); conditional-immortality tradition (Wenham; Fudge); Seventh-day Adventist confession; Christadelphian mortalism — engagement point is Chapter 17 §17.2 where the question is left open.
+- [ ] **R-A.A.7** Modern Pauline scholarship: Wright's *The Resurrection of the Son of God*; Dunn's *Theology of Paul the Apostle*; Käsemann's *Romans* — engagement point is Chapters 11, 14, 15 on the Adam-Christ typology.
+- [ ] **R-A.A.8** Unitarian-biblical-theology tradition: Priestley; Belsham; Campbell; Thomas; Roberts; the Christadelphian community — engagement point is Chapter 0 §0.5 (inheritance stated); the manuscript's argument is independent of the tradition.
+- [ ] **W-A.A** Write ~20,000 words across A.A.1–A.A.8 plus the methods section and bibliography; neutral tone in each section; the "boundary" paragraph closes each section.
+- [ ] **A-AppA** Acceptance: a reader with knowledge of the traditions surveyed can place the manuscript's argument on each contested map and see where the manuscript stands without the manuscript having adjudicated the tradition in its own voice.
+
 ## Part I — Foundations
+
 
 ### Chapter 1 — The Character of God
 
