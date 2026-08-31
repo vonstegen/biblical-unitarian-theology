@@ -142,7 +142,10 @@ The system also functions as a *review flag*: any `[H]` claim that survives thro
 
 ## I.6 Roadmap of the manuscript
 
-The paper has 17 numbered chapters (after this Introduction), plus 3 appendices:
+The paper has a methodology chapter (Chapter 0, following this Introduction), 17 numbered chapters, and 3 appendices (a fourth — Appendix A — is added in the dissertation form; see Chapter 0 §0.2):
+
+**Chapter 0 — Methodology** (PhD form): defends the Bible-only constraint as a methodological commitment, states the translation policy, presents the tagging system as an epistemic standard, and shows why the method fits the thesis. Prolegomena; presupposed by every part that follows.
+
 
 **Part I — Foundations** (Ch 1–3): God's character; creation; the covenant in Eden. Establishes the *why* of the debt-debtor framework: divine justice that does not fail.
 
@@ -154,7 +157,7 @@ The paper has 17 numbered chapters (after this Introduction), plus 3 appendices:
 
 **Part V — Vindication and Conclusion** (Ch 16–17): the Father's vindication and the new humanity; conclusions mapping the 10 research questions to their chapter-of-answer.
 
-**Appendices B–D** (deferred): alternative exegetical readings of difficult texts (Appendix B); a glossary of terms (Appendix C); the full biblical research map (Appendix D). Appendix A (historical dialogue with non-biblical sources) was present in v1.1 and is removed in v1.2 under the Bible-only constraint.
+**Appendices B–D** (deferred): alternative exegetical readings of difficult texts (Appendix B); a glossary of terms (Appendix C); the full biblical research map (Appendix D). Appendix A (historical dialogue with non-biblical sources) was present in v1.1 and is removed in v1.2 under the Bible-only constraint; the dissertation form reinstates it, bounded as the secondary-literature conversation the text's argument has generated (see Chapter 0 §0.2).
 
 ## I.7 Acknowledgments and limitations
 

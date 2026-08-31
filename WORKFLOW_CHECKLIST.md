@@ -10,6 +10,12 @@
 - Added AICNT (AI Critical New Testament) to the translation set (`INTRO.md` §I.4) and to `06_Translation_Bias_Documentation.md` (§8).
 - All chapters and appendices now Accepted; the only remaining next actions are the PDF rebuild and optional PhD-roadmap items.
 
+**2026-08-31 — v1.10 (PhD expansion: methodology chapter)**
+- Added Chapter 0 (Methodology) per `07_PhD_Roadmap.md` Phase 4: the Bible-only constraint argued as a methodological commitment (warrant, disciplines, precedent, objection, parallel-passage discipline), the Appendix A relaxation charter, the translation policy, the tagging system as an epistemic standard, and the method–thesis fit. ~5,000 words including apparatus; A0 criteria met.
+- Wired Chapter 0 into `latex/build_combined.sh` (after `INTRO.md`); PDF revision slug bumped to `v1.3-phd-ch0`.
+- `01_Architecture_and_Outline.md` → v1.5 (Chapter 0 acceptance criteria R0.1–R0.5, W0.1, A0); `INTRO.md` §I.6 updated for the methodology chapter and the PhD-form Appendix A.
+- `07_PhD_Roadmap.md` current-state section refreshed to v1.2 reality: Phases 1 and 5 complete, Phase 4 complete, Phase 2 partially complete; Appendix A (Phase 3) is the next writing target.
+
 **2026-08-28 — v1.8 (repo hygiene and reconciliation)**
 - All work committed and pushed (three weeks of uncommitted changes from 2026-08-06 to 2026-08-28 are now in history); working tree clean.
 - Pulled and reconciled `07_Ch10_Review.md` (20-item fix list): citation rename (post-canonical → Jesus citation), `[I-high]` → `[I-mid]` downgrade, combination argument added to §10.10, Ch 9 cross-link added to §10.1, forward-link re-attributed, reference-only list trimmed to five, kind-of-being stragglers removed.
@@ -37,12 +43,14 @@
 
 ---
 
-**Version:** 1.9 (2026-08-28) — final acceptance pass complete: all chapters and appendices accepted
+**Version:** 1.10 (2026-08-31) — PhD expansion begun: Chapter 0 (Methodology) added and accepted; Appendix A next
 
-## Compact Status Table (All Chapters) — Updated 2026-08-28 (word counts are `wc -w` totals incl. tagging apparatus)
+## Compact Status Table (All Chapters) — Updated 2026-08-31 (word counts are `wc -w` totals incl. tagging apparatus)
 
 | Chapter / Section | Status | Word Count | Notes | Next Action |
 |-------------------|--------|------------|-------|-------------|
+| **Ch 0 — Methodology** | **Accepted (A0)** | 5,001 | Added 2026-08-31 per PhD roadmap Phase 4; secondary sources named methodologically only; quotations verified against esv.org | None |
+
 | **Introduction (INTRO.md)** | **Finalized against acceptance criteria** | 2,560 | Acceptance checklist added; I.1–I.7 met | Ready |
 | **Ch 1 — Character of God** | **Accepted** | 4,455 | Bible-only audit pass complete; secondary-source citation replaced with biblical-text-based objection | None |
 | **Ch 2 — Creation** | **Accepted** | 4,869 | Bible-only compliant; evidence sketches added in acceptance pass | None |
@@ -92,20 +100,25 @@
 - `01_Architecture_and_Outline.md` — references to Nicene metaphysics in Appendix B scope are scope notes, not evidence; allowed.
 - `04_Review_and_Recommendations.md` — methodology review, names Anselm/Socinus as background to the dialogue, does not use as evidence; allowed.
 - `06_Translation_Bias_Documentation.md` — explicitly self-disclosed as secondary documentation "not used as evidence for theological claims"; allowed.
-
+- `chapters/Chapter_00_Methodology.md` — names Vos, Childs, G. Ernest Wright, and Francis Watson methodologically (discipline-landscape identification) and cites secondary works only as locations in the conversation; no secondary source used as evidence for a theological claim; allowed.
 **Conclusion:** The manuscript is Bible-only compliant in its evidence sketches. The audit is closed.
 
 ---
 
-- The checklist is now the single source of truth and reflects the actual state on disk. `01_Architecture_and_Outline.md` v1.4 carries the canonical paired-acceptance policy; the previous v1.3 recommendation to draft Chapter 15 first is superseded. `05_Research_and_Writing_Checklist.md` remains stale and is superseded.
+- The checklist is now the single source of truth and reflects the actual state on disk. `01_Architecture_and_Outline.md` v1.5 carries the canonical paired-acceptance policy; the previous v1.3 recommendation to draft Chapter 15 first is superseded. `05_Research_and_Writing_Checklist.md` remains stale and is superseded.
 
 ## Immediate Next Steps (Do in this order)
-1. **Final acceptance of the remaining chapters and appendices** — Introduction (finalized) → Ch 1–10 → Ch 12–14 → Ch 16–17 → Appendices B–D. All are "Ready for acceptance" per the table above.
-2. **Kind-of-being sweep** — Ch 6 (8 occurrences), Ch 11 (3), Ch 2/5/7/17/App C/D (1–2 each) still use the banned template. Sweep and re-verify, or amend the rule in `TAGGING_STYLE_GUIDE.md`.
-3. **Band the bare `[I]` vocabulary tags** — Ch 15 §15.7, Ch 17, Appendix C use bare `[I]` for vocabulary terms; band them or codify the exception in the style guide.
-4. **Cross-link consistency check** — verify Appendix D covers every load-bearing citation across chapters (1 Samuel and Ezekiel sections appear to be missing).
-5. **Rebuild the PDF** — run `latex/build.sh` after final acceptance so `drafts/` reflects the current text.
-6. **(Optional / aspirational) PhD-roadmap items** from `07_PhD_Roadmap.md` — methodology chapter, relaxed Bible-only appendix, 140k–165k word target. Defer unless the user requests.
+1. ~~Final acceptance of the remaining chapters and appendices~~ — **Done (v1.9):** all chapters and appendices accepted.
+2. ~~Kind-of-being sweep~~ — **Done (constraint-sweep commit, 2026-08-28):** template removed across 8 chapters/appendices.
+3. ~~Band the bare `[I]` vocabulary tags~~ — **Done (same commit):** banded; vocabulary-tag rule codified in `TAGGING_STYLE_GUIDE.md`.
+4. ~~Cross-link consistency check~~ — **Done (v1.9):** Appendix D covers all load-bearing citations; 14 missing book divisions added.
+5. **Rebuild the PDF** — run `latex/build.sh` (slug v1.3-phd-ch0) to include Chapter 0.
+6. **PhD expansion (active, user-selected 2026-08-31):**
+   - **Chapter 0 — Methodology: DONE** (2026-08-31; A0 accepted; wired into the build).
+   - **Appendix A (Phase 3) — NEXT:** engagement with the secondary literature, bounded as conversation-mapping (never evidence). Outline A.A.1–A.A.8 in `07_PhD_Roadmap.md` §Phase 3, ~20k words.
+   - **Phase 2 deepening:** expand `[I]`/`[H]` evidence sketches to 6–10 bullets (parallel passages, lexical notes, translation-variant notes, glossary cross-refs).
+   - **Phase 6 polish:** third-pass copy edit, front matter (abstract; bibliography for Appendix A only), final rebuild.
+   - **Phase 7 (user-driven):** program-specific adaptation.
 
 
 ---

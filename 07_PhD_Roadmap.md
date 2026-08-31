@@ -1,8 +1,8 @@
 # PhD Roadmap — Debt-Debtor Thesis of Redemption
 
-> **Status:** Living document (2026-08-06). Sets out the path from the current draft to a PhD-submission-ready dissertation in biblical theology. Assumes the project's Bible-only source constraint (Introduction §I.2) is *maintained* for the core argument and *relaxed* in Appendix A (engagement with the secondary literature) — see §3 below for the rationale.
+> **Status:** Living document (2026-08-06; refreshed 2026-08-31). Sets out the path from the current draft to a PhD-submission-ready dissertation in biblical theology. Assumes the project's Bible-only source constraint (Introduction §I.2) is *maintained* for the core argument and *relaxed* in Appendix A (engagement with the secondary literature) — see §3 below for the rationale. Progress: Phases 1, 4, and 5 complete; Phase 2 partial; Phase 3 (Appendix A) is the next writing target.
 >
-> **Purpose:** This document is the operational plan for moving the project from its current draft state (Version 1.0 frozen, 4 chapters drafted, ~19,000 words) to a PhD submission. It does not commit to any specific program; it commits to the work itself. The user's eventual program and committee will determine the final shape.
+> **Purpose:** This document is the operational plan for moving the project from its current draft state (v1.2 accepted: 17 chapters + 3 appendices; v1.3 PhD expansion underway with Chapter 0 added) to a PhD submission. It does not commit to any specific program; it commits to the work itself. The user's eventual program and committee will determine the final shape.
 >
 > **AI-collaboration disclosure:** This document is itself a product of human-AI collaboration. The structure, content, and writing of this roadmap were generated as a session between the human author and an AI assistant (the inline drafting tool). The same is true of the existing drafted chapters (Chapters 1, 2, 3, 15). The user has reviewed and committed each chapter; the chapters are considered jointly authored. The disclosure section at the end of this document treats this candidly.
 
@@ -10,31 +10,24 @@
 
 ## 1. Current state and gap analysis
 
-**Current state (as of 2026-08-06):**
+**Current state (refreshed 2026-08-31):**
 
-- `00_Master_Thesis.md` — frozen constitution (working thesis, 10 research questions)
-- `01_Architecture_and_Outline.md` — outline v1.3 (17 chapters + 3 appendices)
-- `02_Biblical_Research_Map.md` — passage list grouped by biblical division
-- `03_Working_Research_Notes.md` — working hypotheses
-- `04_Review_and_Recommendations.md` — prior review (Grok, 2026-08-04)
-- `INTRO.md` — first draft
-- `06_Translation_Bias_Documentation.md` — sourced bias analysis for the citation set
-- `chapters/Chapter_15_Why_One_Man_for_Many.md` — first draft, reclassification flags resolved
-- `chapters/Chapter_01_Character_of_God.md` — first draft, verified
-- `chapters/Chapter_02_Creation.md` — first draft, verified
-- `chapters/Chapter_03_Covenant_of_Eden.md` — first draft, verified
+- All 17 chapters and Appendices B–D are drafted and **accepted** (checklist v1.9, 2026-08-28; the final acceptance pass ran three read-only verification scouts and five fix agents). Bible-only audit closed; tagging audit complete; efficiency and clarity pass complete for Chapters 1–15.
+- `01_Architecture_and_Outline.md` — outline v1.5 (Introduction + Chapter 0 + Chapters 1–17 + Appendices B–D).
+- **Chapter 0 (Methodology) added 2026-08-31** — Phase 4 complete (~5,000 words including apparatus; A0 acceptance criteria met).
+- **Word count: ~83,000** including the tagging apparatus (chapters ≈ 65,300; Introduction 2,560; Appendices B–D ≈ 10,600; Chapter 0 ≈ 5,000).
+- **Phase 1 complete** (all chapters drafted); **Phase 5 complete** (Appendices B–D); **Phase 4 complete** (Chapter 0); **Phase 2 partial** — every `[I]`/`[H]` claim carries a minimum-viable evidence sketch (the v1.9 pass added ~30 missing sketches), but the deepening to 6–10 bullets remains.
 
-**Word count: ~18,800 words across the four drafted chapters.** Version 1.0 of the outline is essentially frozen; the front matter is drafted; the structural pattern is established.
 
 **Gap to PhD submission:**
 
 | Dimension | Current | PhD target | Gap |
 |---|---|---|---|
-| Word count | ~19,000 (4 chapters) | 100,000–130,000 | ~80,000–110,000 |
-| Chapters drafted | 4 of 17 | 17 of 17 | 13 |
-| Appendices drafted | 1 of 3 (Translation Bias) | 3 of 3 (B, C, D) + Appendix A | 3–4 |
-| Methodology chapter | Absent | Present | 1 |
-| Original contribution | Implicit | Explicit | Documented |
+| Word count | ~83,000 | 140,000–165,000 | ~57,000–82,000 |
+| Chapters drafted | 18 of 18 (Ch 0–17) | 18 of 18 | 0 |
+| Appendices drafted | 3 of 4 (B–D) | 4 of 4 (A–D) | 1 (Appendix A) |
+| Methodology chapter | Present (Ch 0, 2026-08-31) | Present | 0 |
+| Original contribution | Implicit | Explicit | Documented (Ch 0; Appendix A) |
 | Secondary literature engagement | Bible-only (strict) | Bible-only (core) + secondary (Appendix A) | 1 appendix |
 | Polish (third-pass) | None | Comprehensive | 1 |
 
@@ -42,7 +35,7 @@
 
 The path from current state to PhD submission is divided into seven phases. Each phase has a deliverable, an estimated word-count contribution, and an estimated completion effort.
 
-### Phase 1 — Complete the first draft of the remaining chapters (estimated 12,000–15,000 words per chapter at the current density)
+### Phase 1 — Complete the first draft of the remaining chapters — **COMPLETE** (2026-08-28; all 17 chapters drafted and accepted)
 
 **Goal:** Draft all 13 remaining chapters (4–14, 16, 17) following the established pattern.
 
@@ -73,7 +66,7 @@ The path from current state to PhD submission is divided into seven phases. Each
 
 **Estimated effort:** 12 drafting sessions (one per chapter), each requiring biblical-text verification against esv.org for all load-bearing quotations. The verification apparatus is the bottleneck; the prose drafting is faster.
 
-### Phase 2 — Strengthen the evidence sketches (second pass)
+### Phase 2 — Strengthen the evidence sketches (second pass) — **PARTIAL** (every `[I]`/`[H]` claim has a minimum-viable sketch from the v1.9 pass; deepening to 6–10 bullets pending)
 
 **Goal:** Expand every `[I]` and `[H]` evidence sketch from minimum-viable to comprehensive. Each sketch grows from a 4-bullet structure to a 6–10-bullet structure with more parallel passages, more lexical notes, more translation-comparison.
 
@@ -89,7 +82,7 @@ Add to each evidence sketch:
 
 **Estimated effort:** 2–3 sessions per chapter (or batched across the manuscript as a single editing pass).
 
-### Phase 3 — Add Appendix A (engagement with the secondary literature)
+### Phase 3 — Add Appendix A (engagement with the secondary literature) — **NEXT**
 
 **Goal:** Write the appendix that the v1.2 outline removed in order to honor the Bible-only constraint. Reintroduce it for the PhD submission, *clearly bounded* so that the Bible-only core argument is preserved.
 
@@ -119,7 +112,7 @@ This way the Bible-only argument is preserved as the *positive contribution*, an
 
 **Critical note on Appendix A:** The Bible-only constraint is *preserved* in the main body. Appendix A is an *explicit relaxation* of the constraint for the purpose of secondary-literature engagement. The introduction should state this explicitly: "The argument of the main body is conducted from the text alone. Appendix A engages the secondary literature *as* the conversation the text's argument has generated, not as evidence for theological claims. The contribution of the main body is its bible-only argument; the contribution of Appendix A is its mapping of that argument onto the conversation."
 
-### Phase 4 — Add a methodology chapter (Chapter 0 or expanded Introduction)
+### Phase 4 — Add a methodology chapter — **COMPLETE** (2026-08-31; Chapter 0 drafted, A0 accepted)
 
 **Goal:** Argue explicitly for the Bible-only approach as a *methodologically rigorous* move, not an arbitrary restriction.
 
@@ -135,7 +128,7 @@ This way the Bible-only argument is preserved as the *positive contribution*, an
 
 **Estimated effort:** 2–3 sessions.
 
-### Phase 5 — Draft appendices B, C, D
+### Phase 5 — Draft appendices B, C, D — **COMPLETE** (2026-08-28; Appendices B–D drafted and accepted)
 
 **Status:** Appendix B (Alternative Exegetical Readings of Difficult Texts) and Appendix D (Full Biblical Research Map) are sketched in the outline. Appendix C (Glossary) is partly covered in the translation-bias doc.
 

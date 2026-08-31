@@ -1,6 +1,6 @@
 # Thesis Architecture and Outline
 
-> **Version 1.4** — paired Chapter 11 / Chapter 15 foundation revision (2026-08-07). v1.4 re-grounds Chapter 11 with a direct debt-side subsection (Genesis 2:16–17; 3:17–19; Romans 5:12; 1 Corinthians 15:21–22), pressure-tests the principal counter-readings, and reorders the Part IV acceptance logic: Chapter 11 is the prior load-bearing foundation and Chapter 15 is the gated one-for-many mechanism. v1.4 supersedes the v1.3 "recommended first chapter" note (Chapter 15) and aligns A11 / A15 as a paired acceptance gate.
+> **Version 1.5** — PhD-expansion methodology chapter (2026-08-31). v1.5 adds Chapter 0 (Methodology) ahead of Part I per `07_PhD_Roadmap.md` Phase 4: the Bible-only constraint argued as a rigorous methodological commitment, the translation policy, the tagging system as an epistemic standard, and the fit between method and thesis. v1.5 does not change Chapters 1–17 or Appendices B–D. v1.4 (paired Chapter 11 / Chapter 15 foundation revision, 2026-08-07) remains the authority for the Part IV acceptance logic.
 > Spine verse: **Romans 5:19** — *"For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous."*
 ## How to read this outline
 
@@ -33,7 +33,8 @@ This outline reconciles four prior sources, in version order:
 | `01_` v1.1 (reconciled structure) | 17 + Intro | 1 chapter (Vindication + New Humanity) | Yes (Ch 17) | Yes | Yes (A–D) |
 | `01_` v1.2 (Bible-only constraint) | 17 + Intro | 1 chapter | Yes | No — Bible only | 3 appendices (B–D; A removed) |
 | `01_` v1.3 (this version's predecessor) | 17 + Intro | 1 chapter | Yes | No — Bible only | 3 appendices (B–D) |
-| **`01_` v1.4 (this version)** | **17 + Intro** | **1 chapter** | **Yes** | **No — Bible only** | **3 appendices (B–D)** |
+| `01_` v1.4 (prior version) | 17 + Intro | 1 chapter | Yes | No — Bible only | 3 appendices (B–D) |
+| **`01_` v1.5 (this version)** | **17 + Intro + Ch 0** | **1 chapter** | **Yes** | **No — Bible only (Ch 0 states the PhD-form Appendix A charter)** | **3 appendices (B–D; A reinstated in PhD form only)** |
 
 Five structural changes from v1.0:
 
@@ -71,6 +72,10 @@ Changes from v1.3 → v1.4 (paired Chapter 11 / Chapter 15 foundation revision):
 13. Replaced the obsolete "recommended first chapter: Chapter 15" note in §6.2 with the canonical pairing rule (Chapter 11 first; Chapter 15 inherits the correspondence principle and the dependency is directional).
    bias and limitations analysis for each translation in the set. This
    accompanies the translations rather than living in the outline.
+
+Changes from v1.4 → v1.5 (PhD-expansion methodology chapter):
+
+14. **Added Chapter 0 (Methodology)** ahead of Part I per `07_PhD_Roadmap.md` Phase 4. Chapter 0 argues the Bible-only constraint as a rigorous methodological commitment (warrant, disciplines, precedent, objection, parallel-passage discipline), states the dissertation-form Appendix A relaxation charter, restates the translation policy and citation rules, presents the tagging system as an epistemic standard, and shows the method–thesis fit. Chapters 1–17 and Appendices B–D are unchanged.
 
 ---
 
@@ -143,6 +148,19 @@ convention. Sets the reader's expectations and the author's commitments.
       reading this section in one sitting
 
 ---
+
+
+## Chapter 0 — Methodology
+
+**Anchors:** `07_PhD_Roadmap.md` Phase 4 (PhD form). No research question — the chapter is prolegomena, not argument; it defends the method every later chapter uses.
+
+- [ ] **R0.1** Name the methodological landscape and locate the project: Vos's biblical-theology definition; the Biblical Theology Movement and its crisis (Childs); the post-crisis positions (canonical approach; theological interpretation of Scripture; renewed descriptive biblical theology) — each identified methodologically, none cited as evidence
+- [ ] **R0.2** State the Bible-only constraint and argue it as a rigorous methodological commitment: warrant (2 Timothy 3:16; Acts 17:11), the three disciplines (auditability, boundedness, honest limits), the *scriptura sui ipsius interpres* precedent, the Enlightenment objection answered, the parallel-passage discipline, and the dissertation-form Appendix A relaxation charter
+- [ ] **R0.3** Restate the translation set and its rationale; the four citation rules; the bias-documentation discipline
+- [ ] **R0.4** Present the `[E]/[I-band]/[H-band]` system as an epistemic standard and methodological contribution: two-dimensional structure, the three rules of use, reproducibility vs. numerical probability, defense-readiness, the two risks
+- [ ] **R0.5** Show why the method serves the debt-debtor thesis: the correspondence argument's two requirements (text-fidelity; measured inference); the historically embedded rivals; the unitarian-exegetical framing; the method's limits
+- [ ] **W0.1** Write 5,000–8,000 words of methodology prose
+- [ ] **A0** Acceptance: a reader can state the method, its warrant, its limits, and why it fits this thesis after reading in one sitting
 
 ## Part I — Foundations
 

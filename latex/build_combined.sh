@@ -17,6 +17,10 @@ cd "$PROJECT"
 
 {
   cat "$PROJECT/INTRO.md"
+  echo ""
+  echo "\\newpage"
+  echo ""
+  cat "$PROJECT/chapters/Chapter_00_Methodology.md"
 
   for f in \
     "$PROJECT/chapters/Chapter_01_Character_of_God.md" \

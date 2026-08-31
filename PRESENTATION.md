@@ -20,11 +20,12 @@ The thesis is positive — it shows what Scripture itself says. The argument is 
 
 ## Reading Order and Chapter Summaries
 
-The manuscript is organized in five parts, with three appendices.
+The manuscript is organized in five parts, with three appendices; the dissertation form adds a methodology chapter (Chapter 0) after the Introduction and a fourth appendix (Appendix A).
 
 ### Front Matter
 
 - **[`INTRO.md`](INTRO.md)** — *Introduction.* Sets the Bible-only constraint, the tagging system, the translation set (ESV and NASB primary; YLT, LSV, Rotherham, REV, CLV, AICNT reference), and the 10 research questions the manuscript will answer. Cites Scripture for the constraints and lists the negative scope (not trying to prove the Trinity, the eternal generation of the Son, the deity of Christ in the Nicene metaphysical sense, the personality of the Holy Spirit, the immortality of the soul). Establishes the audit-trail discipline that makes the conclusions testable.
+- **[`chapters/Chapter_00_Methodology.md`](chapters/Chapter_00_Methodology.md)** — *Methodology (PhD form).* Argues the Bible-only constraint as a rigorous methodological commitment (warrant, disciplines, precedent, objection, parallel-passage discipline), states the translation policy, presents the `[E]/[I-band]/[H-band]` system as an epistemic standard, and shows why the method serves the debt-debtor thesis. Charters the dissertation-form Appendix A: secondary literature engaged only as the conversation the argument enters, never as evidence.
 
 ### Part I — Foundations (The Character of God, Creation, Covenant)
 
@@ -90,7 +91,7 @@ The manuscript is organized in five parts, with three appendices.
 - **[`05_Research_and_Writing_Checklist.md`](05_Research_and_Writing_Checklist.md)** — superseded by [`WORKFLOW_CHECKLIST.md`](WORKFLOW_CHECKLIST.md); retained for the project history.
 - **[`06_Translation_Bias_Documentation.md`](06_Translation_Bias_Documentation.md)** — per-translation bias and limitations analysis (secondary documentation not used as evidence for theological claims).
 - **[`07_Ch07_Review.md`](07_Ch07_Review.md)**, **[`07_Ch09_Review.md`](07_Ch09_Review.md)**, and **[`07_Ch10_Review.md`](07_Ch10_Review.md)** — review notes on Chapters 7, 9, and 10 (all reconciled).
-- **[`07_PhD_Roadmap.md`](07_PhD_Roadmap.md)** — PhD-aspiration notes (methodology chapter, relaxed Bible-only appendix, 140k–165k word target); deferred unless the user requests.
+- **[`07_PhD_Roadmap.md`](07_PhD_Roadmap.md)** — PhD-expansion plan: Phases 1, 4, 5 complete; Chapter 0 (Methodology) accepted; Appendix A (secondary-literature conversation) is the next writing target; 140k–165k word goal.
 - **[`source-notebook.md`](source-notebook.md)** — exploratory research notes (treated as a source notebook, not the paper).
 - **[`WORKFLOW_CHECKLIST.md`](WORKFLOW_CHECKLIST.md)** — authoritative project status (single source of truth).
 
