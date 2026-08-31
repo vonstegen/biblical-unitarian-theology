@@ -20,6 +20,7 @@ argued from a Biblical Unitarian christological perspective.
 - `chapters/` — drafted chapters (Chapters 1–17 and Appendices B–D)
 - `latex/` — pandoc/xelatex build pipeline (versioned PDFs land in `drafts/`, which is gitignored)
 - `outreach/` — external correspondence (email and project summary for Dr. Dustin R. Smith)
+- `aicnt-extension/` — **separate project** (AICNT Old Testament/Apocrypha extension). Co-located for workspace convenience only; not part of the Debt-Debtor thesis, shares no files with it.
 - `source-notebook.md` — raw chat transcript (archive; not authoritative)
 - `prompts/` — AI agent personas used during drafting
 
