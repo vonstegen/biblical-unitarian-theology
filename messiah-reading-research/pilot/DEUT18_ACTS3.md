@@ -2,6 +2,8 @@
 
 **v0.1 · Research outline · NOT a completed manuscript collation**
 
+**Next milestone:** [Phase 1 evidence acquisition and verification plan](DEUT18_ACTS3_PHASE1_PLAN.md). This plan reuses the accepted multilingual evidence contract and existing AICNT extension, without claiming that manuscripts have already been collated.
+
 ## Primary passages
 Deuteronomy 18:9–22 (especially 18:15–19) and Acts 3:12–26 (especially 3:22–23).
 
