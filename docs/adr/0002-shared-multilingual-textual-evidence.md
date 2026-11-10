@@ -1,6 +1,6 @@
 # ADR-0002: Shared Multilingual Textual Evidence Contract
 
-- **Status:** Proposed — owner approval pending
+- **Status:** Accepted — owner-confirmed, recorded in follow-up PR
 - **Date:** 2026-11-10
 - **Parent decision:** [ADR-0001](0001-unified-biblical-theology-repository.md) (accepted)
 - **Issue:** #4
@@ -11,7 +11,7 @@ The repository already has a substantial AICNT-derived edition-development track
 
 The Hebrew Scriptures also require multiple languages and *different witness functions*: biblical Hebrew and Aramaic compositions; Greek Septuagint translations (which may reflect different Hebrew source texts); Aramaic Targums (often interpretive); Syriac Peshitta translations; and Greek New Testament quotations or allusions. These cannot be flattened into interchangeable manuscript variants.
 
-## Decision proposed
+## Decision
 
 **One shared evidence contract, separate project deliverables.**
 
@@ -82,3 +82,7 @@ This reduces duplication and makes evidence traceable across projects, but intro
 - Two independent OT pipelines: rejected (duplicated apparatus and conflicting sources).
 - Put all textual evidence inside the Messiah study: rejected (conflates critical edition with interpretation).
 - Move AICNT extension files now: rejected (breaks existing ownership and links without need).
+
+## Acceptance record
+
+On 2026-11-10, the repository owner confirmed in the Biblical Theology project conversation that PR #5 was reviewed and merged. GitHub independently confirms that [PR #5](https://github.com/vonstegen/biblical-unitarian-theology/pull/5) merged into `main` at commit `0afa0ed7f0c78705c51d240be373eecdd1bd6126`, from PR head `6214d506891a061b084d2d60e90f6b926e7b5842`. This ADR's acceptance covers **the cross-track evidence architecture only**; no Greek, Hebrew, or Aramaic manuscript claim is thereby verified. This follow-up PR records the accepted status in source control.
