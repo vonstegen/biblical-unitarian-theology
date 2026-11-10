@@ -4,6 +4,10 @@
 
 A 365-day, 66-book Revised English Version (REV) Bible reading plan and a Scripture-first study of Jesus as the promised prophet like Moses, Davidic Messiah, and appointed King. Read Matthew, Mark, Luke, and John individually, in sequence; no daily Gospel harmonization.
 
+## Unified program architecture (proposed)
+
+This track belongs to the proposed [Biblical Theology Research Program](../BIBLICAL_THEOLOGY_PROGRAM.md), governed by [ADR-0001](../docs/adr/0001-unified-biblical-theology-repository.md) **after owner approval**. The repository is the shared home, but the Debt–Debtor thesis, AICNT extension, and Messiah research remain independently versioned and separately accepted. No existing manuscript or AICNT extension files are moved or modified by this proposal.
+
 ## Deliverables
 - [Exact 365-day schedule](reading-plan-365.csv) (929 OT + 260 NT chapters, once each).
 - [Reading plan rationale](READING_PLAN.md).
