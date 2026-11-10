@@ -1,8 +1,8 @@
 # Biblical Theology Research Program
 
-**Status: Proposed umbrella architecture — see [ADR-0001](docs/adr/0001-unified-biblical-theology-repository.md).**
+**Status: Architecture accepted by owner; acceptance record being synchronized — see [ADR-0001](docs/adr/0001-unified-biblical-theology-repository.md).**
 
-This is a **navigation and governance proposal**, not a replacement for the accepted Debt–Debtor thesis or the AICNT extension's own project rules.
+This is the **umbrella navigation and governance index**, not a replacement for the accepted Debt–Debtor thesis or the AICNT extension's own project rules.
 
 ## Research tracks
 
@@ -23,11 +23,11 @@ Study the one God, Jesus as promised prophet and Messiah, Israel's covenantal st
 - **AICNT**: NT textual-critical/translation reference; verify decisions against independent witnesses and editions.
 - **Hebrew, Aramaic, Greek and ancient versions**: primary-language and textual evidence with provenance and rights checks.
 
-## Change process (proposal)
+## Change process (adopted policy; technical enforcement pending)
 
 Open issue → feature branch → PR → evidence and scope checks → **explicit owner sign-off on reviewed commit** → merge. No automatic merge without approval. Existing manuscript acceptance decisions are preserved. GitHub's technical enforcement must be configured and verified separately.
 
 ## Current work
 
-- [PR #2](https://github.com/vonstegen/biblical-unitarian-theology/pull/2) — proposal for the Messiah-centered track and this umbrella architecture.
+- [PR #2](https://github.com/vonstegen/biblical-unitarian-theology/pull/2) — merged baseline for the Messiah-centered track and umbrella architecture.
 - [Issue #1](https://github.com/vonstegen/biblical-unitarian-theology/issues/1) — roadmap and follow-up.
