@@ -1,0 +1,207 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/vonstegen/biblical-unitarian-theology/blob/main/research-library/schema/textual-evidence-record.schema.json",
+  "title": "Biblical textual evidence record v0.1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "record_id",
+    "revision",
+    "work",
+    "passage",
+    "language",
+    "textual_layer",
+    "witness_kind",
+    "witness_id",
+    "edition_id",
+    "source_locator",
+    "rights_status",
+    "verification_status",
+    "relationship",
+    "related_record_ids",
+    "notes"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "0.1"
+    },
+    "record_id": {
+      "type": "string",
+      "pattern": "^EV-[A-Z0-9-]{4,80}$"
+    },
+    "revision": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "work": {
+      "type": "string",
+      "minLength": 2
+    },
+    "passage": {
+      "type": "string",
+      "minLength": 2
+    },
+    "language": {
+      "enum": [
+        "hebrew",
+        "aramaic",
+        "greek",
+        "syriac",
+        "latin",
+        "other"
+      ]
+    },
+    "textual_layer": {
+      "enum": [
+        "original_language_witness",
+        "ancient_translation",
+        "interpretive_version",
+        "quotation_allusion"
+      ]
+    },
+    "witness_kind": {
+      "enum": [
+        "manuscript",
+        "critical_edition",
+        "diplomatic_edition",
+        "version",
+        "editorial_comparison",
+        "unassigned"
+      ]
+    },
+    "witness_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "edition_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_locator": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_url": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "uri"
+    },
+    "rights_status": {
+      "enum": [
+        "not_checked",
+        "public_domain",
+        "open_license",
+        "licensed_restricted",
+        "permission_required",
+        "not_applicable"
+      ]
+    },
+    "verification_status": {
+      "enum": [
+        "planned",
+        "unverified",
+        "in_review",
+        "verified",
+        "rejected"
+      ]
+    },
+    "relationship": {
+      "enum": [
+        "base_text",
+        "textual_variant",
+        "translation_of",
+        "interpretive_rendering_of",
+        "quotation_of",
+        "allusion_to",
+        "comparison_only",
+        "not_assessed"
+      ]
+    },
+    "related_record_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^EV-[A-Z0-9-]{4,80}$"
+      },
+      "uniqueItems": true
+    },
+    "notes": {
+      "type": "string"
+    },
+    "reviewer": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "verified_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "source_revision": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Commit SHA or edition-specific revision; not invented."
+    },
+    "source_text": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Optional; include only if redistribution rights are confirmed."
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "verification_status": {
+            "const": "verified"
+          }
+        },
+        "required": [
+          "verification_status"
+        ]
+      },
+      "then": {
+        "required": [
+          "reviewer",
+          "verified_at"
+        ],
+        "properties": {
+          "reviewer": {
+            "type": "string",
+            "minLength": 2
+          },
+          "verified_at": {
+            "type": "string",
+            "format": "date"
+          },
+          "rights_status": {
+            "not": {
+              "const": "not_checked"
+            }
+          },
+          "witness_kind": {
+            "not": {
+              "const": "unassigned"
+            }
+          },
+          "source_locator": {
+            "not": {
+              "const": "not_checked"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

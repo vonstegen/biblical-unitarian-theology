@@ -23,6 +23,10 @@ REV is the primary daily reader, not a neutral arbiter. Finnegan's *Read the Bib
 
 The repository already contains `aicnt-extension/01_FORMAT_SPEC.md`, `02_OT_EXTENSION_PLAN.md`, and a Tobit pilot. That is a distinct critical-edition effort. This study produces **research dossiers**, not an independent critical edition.
 
+## Cross-track textual evidence interface (proposed ADR-0002)
+
+For any Deuteronomy 18 / Acts 3 comparison, cite the shared `../research-library/` evidence record ID **and revision**, not a copied apparatus or an AI-generated reconstruction. The critical-edition production methods remain owned by `../aicnt-extension/`; this track owns the interpretation and theological argument. The shared record distinguishes Hebrew original-language evidence, Aramaic source texts and interpretive versions, Greek translations and NT witnesses, and Syriac versional witnesses. The example records are **unverified planning stubs**, not textual attestations. See `../docs/adr/0002-shared-multilingual-textual-evidence.md` (proposed).
+
 ## AI and review controls
 AI may propose translations, comparisons, and hypotheses, but cannot claim direct manuscript collation it has not performed. Record exact source/edition, provenance, date checked, reviewer, and verification status. Each dossier requires original-language review, variant log, fair competing interpretations, counterevidence, and owner sign-off before it is marked **accepted**.
 
