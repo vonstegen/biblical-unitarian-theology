@@ -22,6 +22,18 @@
 | 18:18 | [BTB Hebrew 18:18](https://github.com/revjude/BTB/blob/main/interlinear/05%20-%20Deuteronomy/18/Deut.18.18.md) | [BTB LXX 18:18](https://github.com/revjude/BTB/blob/main/LXX/05%20-%20Deuteronomy/18/LXX.Deut.18.18.md) |
 | 18:19 | [BTB Hebrew 18:19](https://github.com/revjude/BTB/blob/main/interlinear/05%20-%20Deuteronomy/18/Deut.18.19.md) | [BTB LXX 18:19](https://github.com/revjude/BTB/blob/main/LXX/05%20-%20Deuteronomy/18/LXX.Deut.18.19.md) |
 
+## BTB digital transcription blob identifiers (GitHub)
+
+These blob SHA-1 identifiers identify the exact **digital files inspected**, not ancient manuscripts or critical editions.
+
+| Verse | Hebrew file blob SHA | Greek file blob SHA |
+|---|---|---|
+| 18:15 | `8e7646f55181c0a4922fb1255e3bd47b4f0a0988` | `77720393b5bca25bc2af4a23c0f42bb6cab8299f` |
+| 18:16 | `b58aae92e078468665866560ed094b6f38f01500` | `1830a9731002292be7d5ebe7c35029950a500dde` |
+| 18:17 | `c6cb6a26a9052af0dae0967944875f560d612527` | `9b426d9b1bccdf91fa69d14031f5ca18419bce3e` |
+| 18:18 | `eeb382f9d314a7b66d7e12dec5ad5fa8a2125d13` | `1987dcc0df9bc868182bc365aa502b95b54ebefb` |
+| 18:19 | `49f66e09aedea9bcf12c08cc55e0f7e32c254782` | `f24f35c071cf68ba957dac3f3c6a040ee5220b73` |
+
 ## Preliminary alignment and testable findings
 
 | Theme | Hebrew Deuteronomy (short source phrase) | Greek Deuteronomy (short source phrase) | Greek Acts 3 (short source phrase) | Initial assessment |
