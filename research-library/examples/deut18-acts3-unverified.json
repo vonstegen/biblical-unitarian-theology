@@ -1,0 +1,79 @@
+[
+  {
+    "schema_version": "0.1",
+    "revision": 1,
+    "record_id": "EV-DEUT18-MT-PLANNED",
+    "work": "Deuteronomy",
+    "passage": "18:15-19",
+    "language": "hebrew",
+    "textual_layer": "original_language_witness",
+    "witness_kind": "unassigned",
+    "witness_id": "unassigned",
+    "edition_id": "to_be_selected_MT_edition",
+    "source_locator": "not_checked",
+    "rights_status": "not_checked",
+    "verification_status": "planned",
+    "relationship": "not_assessed",
+    "related_record_ids": [],
+    "notes": "Planning stub only. Does not assert an attested reading or completed MT collation."
+  },
+  {
+    "schema_version": "0.1",
+    "revision": 1,
+    "record_id": "EV-DEUT18-LXX-PLANNED",
+    "work": "Deuteronomy",
+    "passage": "18:15-19",
+    "language": "greek",
+    "textual_layer": "ancient_translation",
+    "witness_kind": "unassigned",
+    "witness_id": "unassigned",
+    "edition_id": "to_be_selected_LXX_edition",
+    "source_locator": "not_checked",
+    "rights_status": "not_checked",
+    "verification_status": "planned",
+    "relationship": "not_assessed",
+    "related_record_ids": [
+      "EV-DEUT18-MT-PLANNED"
+    ],
+    "notes": "Planning stub; LXX translation differences must not be assumed to represent a different Hebrew Vorlage."
+  },
+  {
+    "schema_version": "0.1",
+    "revision": 1,
+    "record_id": "EV-ACTS3-GREEK-PLANNED",
+    "work": "Acts",
+    "passage": "3:22-23",
+    "language": "greek",
+    "textual_layer": "quotation_allusion",
+    "witness_kind": "unassigned",
+    "witness_id": "unassigned",
+    "edition_id": "to_be_selected_NT_edition",
+    "source_locator": "not_checked",
+    "rights_status": "not_checked",
+    "verification_status": "planned",
+    "relationship": "not_assessed",
+    "related_record_ids": [
+      "EV-DEUT18-MT-PLANNED",
+      "EV-DEUT18-LXX-PLANNED"
+    ],
+    "notes": "Planning stub; determine actual Greek wording and quotation relationship before changing relationship to quotation_of or allusion_to."
+  },
+  {
+    "schema_version": "0.1",
+    "revision": 1,
+    "record_id": "EV-DAN7-ARAMAIC-PLANNED",
+    "work": "Daniel",
+    "passage": "7:13",
+    "language": "aramaic",
+    "textual_layer": "original_language_witness",
+    "witness_kind": "unassigned",
+    "witness_id": "unassigned",
+    "edition_id": "to_be_selected_Aramaic_edition",
+    "source_locator": "not_checked",
+    "rights_status": "not_checked",
+    "verification_status": "planned",
+    "relationship": "not_assessed",
+    "related_record_ids": [],
+    "notes": "Planning stub demonstrating Biblical Aramaic as a source-language text, distinct from Targums and Syriac."
+  }
+]
