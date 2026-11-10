@@ -1,6 +1,6 @@
 # ADR-0001: Unified Biblical Theology Research Repository
 
-- **Status:** Proposed — owner approval pending
+- **Status:** Accepted — owner-confirmed; acceptance record update pending merge
 - **Date:** 2026-11-10
 - **Decision owner:** Repository owner (`vonstegen`)
 - **Scope:** Repository-level research organization and change governance
@@ -12,7 +12,7 @@ The existing repository contains (1) the Debt–Debtor thesis, with accepted cha
 
 These tracks address related biblical-theological questions but have different products, evidence conventions, scholarly acceptance processes, and publication rights. Separate repositories would duplicate bibliography, references, governance, and links between studies. Folding everything into the dissertation would silently change its boundaries and acceptance record.
 
-## Decision proposed
+## Decision
 
 **Use the existing `vonstegen/biblical-unitarian-theology` repository as the umbrella for a Biblical Theology research program.** Maintain distinct project tracks within it. No repository rename or migration is required to approve this ADR.
 
@@ -68,10 +68,10 @@ External translation and critical-edition material remains under its own license
 
 ## Consequences and migration plan
 
-**This PR:** add ADR, program index, links, and initial Messiah track. No file moves, renames, accepted-chapter edits, or edits inside `aicnt-extension/`.
+**PR #2 (merged):** added the ADR, program index, links, and initial Messiah track. No files were moved, no accepted chapters were changed, and no files inside `aicnt-extension/` were edited.
 
 **Later, separately approved PRs:** evaluate root README navigation, shared source registry, issue templates, validation automation, branch rulesets, and any physical relocation of dissertation files. Each migration needs a compatibility map and checks for links, LaTeX build paths, and external citations.
 
 ## Approval record
 
-**Pending.** This ADR is a proposal in PR #2; it becomes **Accepted** only after owner sign-off on that PR and a subsequent explicit status update. Until then it must not be described as an adopted governance policy.
+**Owner decision confirmed:** On 2026-11-10, the repository owner stated in the Biblical Theology project conversation that PR #2 had been reviewed and approved. GitHub independently confirms PR #2 merged into `main` at commit `10e2021961dbfc4e92eef6dbfd03d24fe05787c2` (PR head `e8c1d9d8ba67036d518c4e60e2a53753934febf0`). At verification time, the GitHub review and issue-comment APIs showed no formal submitted review/comment. This record distinguishes owner confirmation in conversation from a GitHub-native review. The ADR's accepted status concerns the **repository architecture only**, not scholarly acceptance of any textual or theological findings. The present follow-up PR records the decision in the version-controlled source.
