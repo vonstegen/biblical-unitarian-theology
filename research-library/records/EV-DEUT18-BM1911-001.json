@@ -1,0 +1,26 @@
+{
+  "schema_version": "0.1",
+  "record_id": "EV-DEUT18-BM1911-001",
+  "revision": 1,
+  "work": "Deuteronomy",
+  "passage": "18:18-19",
+  "language": "greek",
+  "textual_layer": "ancient_translation",
+  "witness_kind": "critical_edition",
+  "witness_id": "edition running text based on Codex Vaticanus; manuscript image not inspected",
+  "edition_id": "Brooke and McLean, The Old Testament in Greek, vol. I, part III: Numbers and Deuteronomy (Cambridge, 1911)",
+  "source_locator": "Printed p. 614; PDF page 220 (1-based); title page PDF page 7",
+  "source_url": "https://tmcdaniel.palmerseminary.edu/Brooke%26McLean/LXX_Brooke%26McLean_1-3.pdf",
+  "rights_status": "public_domain",
+  "verification_status": "in_review",
+  "relationship": "comparison_only",
+  "related_record_ids": [
+    "EV-DEUT18-OSHB-001",
+    "EV-ACTS3-SBLGNT-001"
+  ],
+  "notes": "Printed page visually inspected 2026-11-12, not accepted from OCR. Selected running-text phrases only: verse 18 then two phrases from verse 19, separated by line breaks; not a full-verse transcription. Full historical edition is public domain; no modern reprint editorial additions reproduced. Apparatus requires further siglum-by-siglum review; no complete manuscript collation claimed.",
+  "reviewer": null,
+  "verified_at": null,
+  "source_revision": "PDF SHA-256 f315ebf66f2bee331e3405e2ee6e7b80572a2d57b48f862bfeaacad4ad51866e",
+  "source_text": "18:18 τὰ ῥήματά μου\n18:19 ὁ προφήτης ἐκεῖνος\n18:19 ἐγὼ ἐκδικήσω ἐξ αὐτοῦ"
+}
